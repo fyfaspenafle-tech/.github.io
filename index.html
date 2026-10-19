@@ -3,8 +3,11 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Latifa Bey Data Analyst portfolio showcasing SQL, Excel, Python and data visualisation projects.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <meta name="description"
+    content="Latifa Bey - Data Analyst Portfolio featuring SQL, Python, Excel and Business Intelligence projects.">
+
   <title>Latifa Bey | Data Analyst Portfolio</title>
 
   <style>
@@ -17,6 +20,10 @@
 
     * {
       box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
     }
 
     body {
@@ -72,7 +79,8 @@
 
     .grid {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+      grid-template-columns:
+        repeat(auto-fit, minmax(230px, 1fr));
       gap: 20px;
     }
 
@@ -83,10 +91,30 @@
       box-shadow: 0 3px 12px rgba(0,0,0,.06);
     }
 
-    .projects-grid {
+    .projects {
       display: grid;
       grid-template-columns: 1fr;
       gap: 20px;
+    }
+
+    .project-card {
+      background: white;
+      border-radius: 12px;
+      padding: 30px;
+      box-shadow: 0 3px 12px rgba(0,0,0,.06);
+    }
+
+    .project-card h3 {
+      color: var(--navy);
+      margin-top: 0;
+    }
+
+    .project-number {
+      font-size: 13px;
+      font-weight: bold;
+      color: var(--blue);
+      text-transform: uppercase;
+      letter-spacing: 1px;
     }
 
     .button {
@@ -97,6 +125,7 @@
       padding: 12px 20px;
       border-radius: 7px;
       margin-top: 12px;
+      font-weight: bold;
     }
 
     .button:hover {
@@ -119,6 +148,10 @@
         display: inline-block;
         margin: 6px 10px;
       }
+
+      .project-card {
+        padding: 22px;
+      }
     }
   </style>
 </head>
@@ -129,8 +162,12 @@
 
   <header>
     <h1>Latifa Bey</h1>
+
     <p>Data Analyst Portfolio</p>
-    <p>SQL | Excel | Python | Data Visualisation</p>
+
+    <p>
+      SQL | Excel | Python | Business Intelligence
+    </p>
 
     <a class="button" href="#projects">
       Explore My Work
@@ -144,6 +181,7 @@
     <a href="#skills">Skills</a>
     <a href="#projects">Projects</a>
     <a href="#certifications">Certification</a>
+    <a href="#contact">Contact</a>
   </nav>
 
   <main>
@@ -162,9 +200,16 @@
 
       <p>
         I have completed the IBM Data Analyst
-        Professional Certificate and am developing
-        practical skills in data cleaning, SQL,
+        Professional Certificate and developed
+        practical knowledge of SQL, Excel,
         Python and data visualisation.
+      </p>
+
+      <p>
+        My portfolio demonstrates analytical
+        techniques through projects involving
+        data cleaning, business performance,
+        KPI reporting and interactive dashboards.
       </p>
     </section>
 
@@ -178,8 +223,8 @@
         <div class="card">
           <h3>SQL</h3>
           <p>
-            SELECT, WHERE, JOIN, GROUP BY
-            and aggregation.
+            SELECT, WHERE, JOIN, GROUP BY,
+            aggregation and data analysis.
           </p>
         </div>
 
@@ -187,23 +232,23 @@
           <h3>Microsoft Excel</h3>
           <p>
             Data cleaning, PivotTables,
-            XLOOKUP, IF and COUNTIF.
+            XLOOKUP, IF, COUNTIF and reporting.
           </p>
         </div>
 
         <div class="card">
           <h3>Python</h3>
           <p>
-            Python fundamentals, pandas
-            and data analysis.
+            Python fundamentals, pandas,
+            data cleaning and visualisation.
           </p>
         </div>
 
         <div class="card">
-          <h3>Data Visualisation</h3>
+          <h3>Business Intelligence</h3>
           <p>
-            Charts, reporting and
-            dashboard development.
+            KPI analysis, dashboard design,
+            interactive charts and reporting.
           </p>
         </div>
 
@@ -215,17 +260,35 @@
     <section id="projects">
       <h2>Data Analytics Projects</h2>
 
-      <div class="projects-grid">
+      <p>
+        A collection of practical data analytics
+        projects using synthetic datasets to
+        demonstrate technical and analytical skills.
+      </p>
+
+      <div class="projects">
 
         <!-- PROJECT 1 -->
 
-        <div class="card">
+        <div class="project-card">
+
+          <span class="project-number">
+            Project 01 | SQL
+          </span>
+
           <h3>E-commerce Sales Analysis</h3>
 
           <p>
-            Analysed synthetic sales data using SQL
-            to identify revenue trends, product
-            performance and business insights.
+            Analysed synthetic e-commerce sales
+            data using SQL to identify revenue
+            trends, product performance and
+            business insights.
+          </p>
+
+          <p>
+            The analysis explores sales patterns
+            and uses data visualisations to
+            communicate business performance.
           </p>
 
           <p>
@@ -237,18 +300,33 @@
              href="/projects/ecommerce-sales-analysis/">
             View Project
           </a>
+
         </div>
 
         <!-- PROJECT 2 -->
 
-        <div class="card">
-          <h3>Customer Service Performance Analysis</h3>
+        <div class="project-card">
+
+          <span class="project-number">
+            Project 02 | Python
+          </span>
+
+          <h3>
+            Customer Service Performance Analysis
+          </h3>
 
           <p>
-            Analysed 1,000 synthetic customer service
-            tickets using Python and pandas to
-            evaluate resolution rates, handling
-            times and customer satisfaction.
+            Analysed 1,000 synthetic customer
+            service tickets using Python and
+            pandas to evaluate operational
+            performance.
+          </p>
+
+          <p>
+            Explored resolution rates, handling
+            times and customer satisfaction
+            using KPI calculations and
+            data visualisations.
           </p>
 
           <p>
@@ -260,58 +338,83 @@
              href="/projects/customer-service-performance/">
             View Project
           </a>
+
         </div>
 
-        <!-- IBM CAPSTONE -->
+        <!-- PROJECT 3 -->
 
-        <div class="card">
-          <h3>IBM Data Analyst Capstone</h3>
+        <div class="project-card">
+
+          <span class="project-number">
+            Project 03 | Business Intelligence
+          </span>
+
+          <h3>Supply Chain BI Dashboard</h3>
 
           <p>
-            Project documentation and verified
-            analysis results will be added here.
+            Developed an interactive business
+            intelligence dashboard to analyse
+            1,800 synthetic UK warehouse shipments.
           </p>
 
           <p>
-            <strong>Status:</strong>
-            Portfolio write-up pending.
+            Explored on-time delivery performance,
+            stockout incidents and shipping costs
+            through interactive filters, KPI
+            summaries and visualisations.
           </p>
-        </div>
-
-        <!-- FUTURE PROJECTS -->
-
-        <div class="card">
-          <h3>Additional Projects</h3>
 
           <p>
-            Independent SQL, Excel and Python
-            projects will be published as
-            they are completed.
+            <strong>Tools:</strong>
+            Python, JavaScript, CSV,
+            Interactive Dashboard
           </p>
+
+          <a class="button"
+             href="/projects/supply-chain-bi-dashboard/">
+            View Project
+          </a>
+
         </div>
 
       </div>
     </section>
 
-    <!-- CERTIFICATION -->
+    <!-- IBM CERTIFICATION -->
 
     <section id="certifications">
+
       <h2>Professional Certification</h2>
 
       <div class="card">
-        <h3>IBM Data Analyst Professional Certificate</h3>
-        <p>Completed October 2026 | Coursera</p>
+
+        <h3>
+          IBM Data Analyst Professional Certificate
+        </h3>
+
+        <p>
+          Completed October 2026 | Coursera
+        </p>
+
+        <p>
+          Training covering data analysis,
+          spreadsheets, SQL, Python,
+          visualisation and analytical reporting.
+        </p>
+
       </div>
+
     </section>
 
     <!-- CONTACT -->
 
     <section id="contact">
+
       <h2>Connect</h2>
 
       <p>
-        Explore my code and analytics
-        projects on GitHub.
+        Explore my data analytics work and
+        technical projects on GitHub.
       </p>
 
       <a class="button"
@@ -320,6 +423,7 @@
          rel="noopener noreferrer">
         View GitHub Profile
       </a>
+
     </section>
 
   </main>
@@ -327,7 +431,10 @@
   <!-- FOOTER -->
 
   <footer>
-    <p>© 2026 Latifa Bey | Data Analyst Portfolio</p>
+    <p>
+      © 2026 Latifa Bey |
+      Data Analyst Portfolio
+    </p>
   </footer>
 
 </body>
