@@ -1,0 +1,1201 @@
+order_id,order_date,product,category,region,quantity,unit_price_gbp,discount_rate,order_status,order_value_gbp
+1,2025-10-29,Keyboard,Electronics,Midlands,1,55,0,Completed,55
+2,2025-05-17,Laptop Stand,Accessories,Wales,3,28,0,Completed,84
+3,2025-05-31,Monitor Arm,Home Office,North,3,79,0.1,Completed,213.3
+4,2025-07-17,Desk Lamp,Home Office,Scotland,2,36,0.05,Completed,68.4
+5,2025-06-23,Laptop Stand,Accessories,Midlands,5,28,0.15,Returned,119.0
+6,2025-04-05,USB-C Hub,Electronics,Wales,3,42,0.1,Completed,113.4
+7,2025-07-19,Laptop Stand,Accessories,Midlands,3,28,0,Completed,84
+8,2025-10-06,Desk Lamp,Home Office,South,3,36,0,Completed,108
+9,2025-09-11,Monitor Arm,Home Office,Scotland,1,79,0,Completed,79
+10,2025-01-25,Keyboard,Electronics,North,3,55,0.1,Returned,148.5
+11,2025-10-30,Notebook,Stationery,North,4,9,0.15,Completed,30.6
+12,2025-06-12,Laptop Stand,Accessories,Wales,5,28,0.05,Completed,133.0
+13,2025-10-21,Desk Lamp,Home Office,Midlands,5,36,0,Returned,180
+14,2025-04-08,Keyboard,Electronics,South,4,55,0,Completed,220
+15,2025-06-04,Keyboard,Electronics,Scotland,2,55,0,Completed,110
+16,2025-05-10,Laptop Stand,Accessories,Midlands,3,28,0,Completed,84
+17,2025-10-15,Monitor Arm,Home Office,Wales,2,79,0.15,Returned,134.3
+18,2025-02-16,Water Bottle,Lifestyle,South,4,18,0,Completed,72
+19,2025-10-23,Desk Lamp,Home Office,North,2,36,0,Completed,72
+20,2025-07-02,Wireless Mouse,Electronics,Midlands,1,24,0,Completed,24
+21,2025-04-24,Wireless Mouse,Electronics,Wales,2,24,0.1,Completed,43.2
+22,2025-04-02,Notebook,Stationery,North,2,9,0.05,Completed,17.1
+23,2025-09-01,USB-C Hub,Electronics,Midlands,2,42,0.1,Completed,75.6
+24,2025-05-26,Laptop Stand,Accessories,North,1,28,0,Completed,28
+25,2025-02-04,Laptop Stand,Accessories,South,1,28,0.05,Completed,26.6
+26,2025-02-01,Monitor Arm,Home Office,Midlands,5,79,0.05,Completed,375.25
+27,2025-09-29,Monitor Arm,Home Office,Midlands,3,79,0,Completed,237
+28,2025-03-30,Monitor Arm,Home Office,Wales,2,79,0,Completed,158
+29,2025-06-27,USB-C Hub,Electronics,Wales,1,42,0,Completed,42
+30,2025-05-04,Notebook,Stationery,South,3,9,0,Completed,27
+31,2025-09-25,Notebook,Stationery,Scotland,5,9,0.15,Returned,38.25
+32,2025-09-08,USB-C Hub,Electronics,North,1,42,0,Completed,42
+33,2025-08-13,Wireless Mouse,Electronics,Scotland,4,24,0,Returned,96
+34,2025-12-29,Laptop Stand,Accessories,Wales,3,28,0.15,Returned,71.4
+35,2025-12-19,Notebook,Stationery,Wales,3,9,0.1,Completed,24.3
+36,2025-06-02,Wireless Mouse,Electronics,Midlands,3,24,0,Completed,72
+37,2025-11-09,Keyboard,Electronics,South,3,55,0.05,Completed,156.75
+38,2025-04-13,Laptop Stand,Accessories,North,5,28,0,Returned,140
+39,2025-09-25,Keyboard,Electronics,Midlands,1,55,0.15,Completed,46.75
+40,2025-11-16,Water Bottle,Lifestyle,Scotland,5,18,0,Completed,90
+41,2025-06-23,Desk Lamp,Home Office,North,1,36,0,Completed,36
+42,2025-07-03,Keyboard,Electronics,South,4,55,0,Completed,220
+43,2025-12-10,Desk Lamp,Home Office,South,5,36,0.1,Completed,162.0
+44,2025-12-14,Notebook,Stationery,Scotland,4,9,0,Completed,36
+45,2025-05-30,Laptop Stand,Accessories,South,5,28,0.1,Completed,126.0
+46,2025-10-08,USB-C Hub,Electronics,Wales,3,42,0.15,Completed,107.1
+47,2025-11-15,Water Bottle,Lifestyle,Midlands,5,18,0,Completed,90
+48,2025-05-23,Keyboard,Electronics,Scotland,4,55,0,Completed,220
+49,2025-05-15,Keyboard,Electronics,North,2,55,0.05,Completed,104.5
+50,2025-12-12,Laptop Stand,Accessories,South,3,28,0.1,Completed,75.6
+51,2025-05-07,Water Bottle,Lifestyle,South,4,18,0.05,Completed,68.4
+52,2025-08-19,Keyboard,Electronics,South,4,55,0.1,Completed,198.0
+53,2025-11-16,Water Bottle,Lifestyle,Wales,3,18,0.1,Completed,48.6
+54,2025-08-21,Desk Lamp,Home Office,North,3,36,0.15,Completed,91.8
+55,2025-04-16,USB-C Hub,Electronics,South,1,42,0,Completed,42
+56,2025-08-12,Laptop Stand,Accessories,South,4,28,0,Completed,112
+57,2025-06-05,USB-C Hub,Electronics,Scotland,1,42,0.15,Completed,35.7
+58,2025-01-15,Desk Lamp,Home Office,South,2,36,0.1,Completed,64.8
+59,2025-11-24,Monitor Arm,Home Office,Scotland,3,79,0,Completed,237
+60,2025-06-04,Wireless Mouse,Electronics,South,2,24,0,Completed,48
+61,2025-11-08,Monitor Arm,Home Office,South,1,79,0,Completed,79
+62,2025-07-17,Water Bottle,Lifestyle,Scotland,3,18,0,Completed,54
+63,2025-04-04,Water Bottle,Lifestyle,Scotland,5,18,0.15,Completed,76.5
+64,2025-10-26,Monitor Arm,Home Office,North,1,79,0,Completed,79
+65,2025-04-17,Desk Lamp,Home Office,Scotland,2,36,0,Completed,72
+66,2025-02-12,Keyboard,Electronics,Wales,1,55,0.05,Completed,52.25
+67,2025-02-14,Keyboard,Electronics,Scotland,2,55,0,Completed,110
+68,2025-02-09,Water Bottle,Lifestyle,Scotland,1,18,0.1,Cancelled,16.2
+69,2025-04-08,Notebook,Stationery,Scotland,5,9,0.05,Completed,42.75
+70,2025-11-02,Wireless Mouse,Electronics,South,3,24,0.05,Completed,68.4
+71,2025-06-06,Monitor Arm,Home Office,North,2,79,0,Completed,158
+72,2025-08-30,Water Bottle,Lifestyle,North,3,18,0,Completed,54
+73,2025-09-28,Monitor Arm,Home Office,South,3,79,0.15,Completed,201.45
+74,2025-08-18,Monitor Arm,Home Office,Wales,3,79,0,Completed,237
+75,2025-12-12,Laptop Stand,Accessories,South,2,28,0.1,Completed,50.4
+76,2025-11-27,Keyboard,Electronics,South,2,55,0.05,Completed,104.5
+77,2025-05-29,USB-C Hub,Electronics,North,5,42,0.15,Completed,178.5
+78,2025-04-08,Laptop Stand,Accessories,North,1,28,0,Completed,28
+79,2025-08-20,Notebook,Stationery,South,3,9,0,Completed,27
+80,2025-05-09,Laptop Stand,Accessories,South,3,28,0,Completed,84
+81,2025-02-17,Water Bottle,Lifestyle,South,3,18,0.15,Completed,45.9
+82,2025-03-19,Water Bottle,Lifestyle,Midlands,4,18,0,Completed,72
+83,2025-08-10,Water Bottle,Lifestyle,Wales,3,18,0,Completed,54
+84,2025-10-08,Water Bottle,Lifestyle,Wales,5,18,0,Completed,90
+85,2025-11-08,Water Bottle,Lifestyle,South,1,18,0,Completed,18
+86,2025-08-02,Water Bottle,Lifestyle,Scotland,2,18,0,Completed,36
+87,2025-12-23,Desk Lamp,Home Office,Wales,5,36,0.1,Returned,162.0
+88,2025-04-29,Keyboard,Electronics,Scotland,3,55,0,Completed,165
+89,2025-12-04,Water Bottle,Lifestyle,Wales,5,18,0,Completed,90
+90,2025-08-01,Notebook,Stationery,South,5,9,0.05,Completed,42.75
+91,2025-03-25,Laptop Stand,Accessories,North,3,28,0.15,Completed,71.4
+92,2025-02-28,Desk Lamp,Home Office,South,4,36,0.1,Completed,129.6
+93,2025-02-21,Desk Lamp,Home Office,South,2,36,0,Completed,72
+94,2025-03-21,Water Bottle,Lifestyle,Midlands,3,18,0.1,Completed,48.6
+95,2025-05-08,Desk Lamp,Home Office,South,1,36,0,Completed,36
+96,2025-09-20,Keyboard,Electronics,Wales,3,55,0,Completed,165
+97,2025-09-09,USB-C Hub,Electronics,North,2,42,0.05,Returned,79.8
+98,2025-03-22,Water Bottle,Lifestyle,South,2,18,0.1,Completed,32.4
+99,2025-10-10,Keyboard,Electronics,Midlands,3,55,0.05,Returned,156.75
+100,2025-05-26,Notebook,Stationery,Scotland,5,9,0.05,Completed,42.75
+101,2025-04-04,Laptop Stand,Accessories,Wales,4,28,0.1,Completed,100.8
+102,2025-02-21,Water Bottle,Lifestyle,Wales,5,18,0.1,Completed,81.0
+103,2025-02-26,Water Bottle,Lifestyle,Scotland,1,18,0,Completed,18
+104,2025-09-25,Water Bottle,Lifestyle,South,4,18,0.15,Completed,61.2
+105,2025-05-06,Water Bottle,Lifestyle,Scotland,5,18,0,Cancelled,90
+106,2025-10-27,Wireless Mouse,Electronics,Wales,4,24,0,Completed,96
+107,2025-06-30,Laptop Stand,Accessories,North,1,28,0,Completed,28
+108,2025-10-01,Water Bottle,Lifestyle,Scotland,2,18,0,Completed,36
+109,2025-11-26,Notebook,Stationery,Midlands,1,9,0,Completed,9
+110,2025-03-12,USB-C Hub,Electronics,South,4,42,0,Completed,168
+111,2025-10-29,Notebook,Stationery,Scotland,1,9,0,Completed,9
+112,2025-08-25,Water Bottle,Lifestyle,Wales,5,18,0.1,Completed,81.0
+113,2025-12-22,Laptop Stand,Accessories,North,3,28,0,Completed,84
+114,2025-02-07,Notebook,Stationery,Scotland,1,9,0,Completed,9
+115,2025-11-28,Keyboard,Electronics,Scotland,4,55,0.1,Completed,198.0
+116,2025-02-13,Monitor Arm,Home Office,Scotland,1,79,0,Completed,79
+117,2025-11-04,Water Bottle,Lifestyle,South,1,18,0,Cancelled,18
+118,2025-12-07,Water Bottle,Lifestyle,North,1,18,0,Completed,18
+119,2025-06-03,USB-C Hub,Electronics,Midlands,1,42,0,Completed,42
+120,2025-08-18,Notebook,Stationery,North,3,9,0,Completed,27
+121,2025-08-03,Notebook,Stationery,Wales,5,9,0.05,Completed,42.75
+122,2025-08-11,Notebook,Stationery,Wales,3,9,0.15,Completed,22.95
+123,2025-01-11,Notebook,Stationery,Scotland,4,9,0,Completed,36
+124,2025-04-02,Monitor Arm,Home Office,Scotland,5,79,0.1,Completed,355.5
+125,2025-04-25,Monitor Arm,Home Office,Scotland,2,79,0.15,Cancelled,134.3
+126,2025-12-24,Wireless Mouse,Electronics,Wales,5,24,0,Completed,120
+127,2025-09-21,Desk Lamp,Home Office,South,3,36,0.1,Completed,97.2
+128,2025-01-18,Water Bottle,Lifestyle,Scotland,4,18,0,Completed,72
+129,2025-05-12,Notebook,Stationery,Wales,4,9,0.15,Completed,30.6
+130,2025-04-30,Laptop Stand,Accessories,Scotland,2,28,0,Completed,56
+131,2025-04-29,Keyboard,Electronics,South,1,55,0,Completed,55
+132,2025-07-20,Water Bottle,Lifestyle,North,1,18,0,Completed,18
+133,2025-08-18,Wireless Mouse,Electronics,North,4,24,0.15,Completed,81.6
+134,2025-08-10,Water Bottle,Lifestyle,Midlands,1,18,0,Completed,18
+135,2025-06-28,Desk Lamp,Home Office,Midlands,5,36,0,Completed,180
+136,2025-11-27,Monitor Arm,Home Office,South,1,79,0.1,Completed,71.1
+137,2025-09-30,Notebook,Stationery,North,2,9,0,Completed,18
+138,2025-11-19,Notebook,Stationery,South,1,9,0.1,Completed,8.1
+139,2025-04-08,Water Bottle,Lifestyle,Midlands,2,18,0.15,Completed,30.6
+140,2025-12-20,Keyboard,Electronics,Midlands,4,55,0.1,Completed,198.0
+141,2025-04-09,Wireless Mouse,Electronics,North,1,24,0.05,Completed,22.8
+142,2025-08-12,Wireless Mouse,Electronics,South,1,24,0,Completed,24
+143,2025-08-29,Laptop Stand,Accessories,North,4,28,0,Completed,112
+144,2025-05-31,Monitor Arm,Home Office,Scotland,3,79,0.05,Completed,225.15
+145,2025-10-07,Keyboard,Electronics,South,4,55,0,Completed,220
+146,2025-09-20,Monitor Arm,Home Office,North,5,79,0.15,Completed,335.75
+147,2025-07-17,Notebook,Stationery,Wales,1,9,0,Completed,9
+148,2025-11-15,USB-C Hub,Electronics,South,5,42,0.1,Completed,189.0
+149,2025-02-02,Notebook,Stationery,North,5,9,0,Completed,45
+150,2025-03-14,Notebook,Stationery,North,3,9,0,Completed,27
+151,2025-10-08,USB-C Hub,Electronics,Scotland,4,42,0.05,Completed,159.6
+152,2025-08-27,Laptop Stand,Accessories,Wales,3,28,0.15,Completed,71.4
+153,2025-09-23,Notebook,Stationery,Midlands,2,9,0.05,Completed,17.1
+154,2025-04-04,Laptop Stand,Accessories,North,2,28,0.1,Completed,50.4
+155,2025-05-12,Monitor Arm,Home Office,South,1,79,0,Completed,79
+156,2025-08-30,USB-C Hub,Electronics,Scotland,2,42,0.15,Completed,71.4
+157,2025-08-10,Water Bottle,Lifestyle,North,2,18,0,Completed,36
+158,2025-04-11,USB-C Hub,Electronics,North,5,42,0,Completed,210
+159,2025-11-11,Notebook,Stationery,Midlands,1,9,0,Completed,9
+160,2025-09-21,Wireless Mouse,Electronics,Scotland,5,24,0.15,Completed,102.0
+161,2025-09-15,Monitor Arm,Home Office,Wales,2,79,0.15,Completed,134.3
+162,2025-01-31,Laptop Stand,Accessories,South,2,28,0,Completed,56
+163,2025-08-12,Keyboard,Electronics,Midlands,4,55,0.1,Completed,198.0
+164,2025-03-03,Laptop Stand,Accessories,Scotland,4,28,0.15,Completed,95.2
+165,2025-01-09,Keyboard,Electronics,Midlands,1,55,0.15,Completed,46.75
+166,2025-11-29,Wireless Mouse,Electronics,South,2,24,0,Completed,48
+167,2025-04-11,Desk Lamp,Home Office,North,3,36,0,Completed,108
+168,2025-08-17,Wireless Mouse,Electronics,Scotland,5,24,0.15,Completed,102.0
+169,2025-12-22,Monitor Arm,Home Office,South,3,79,0,Completed,237
+170,2025-09-13,USB-C Hub,Electronics,Scotland,3,42,0.15,Completed,107.1
+171,2025-11-04,Keyboard,Electronics,North,1,55,0.1,Completed,49.5
+172,2025-04-12,Laptop Stand,Accessories,Midlands,5,28,0.1,Returned,126.0
+173,2025-07-24,Keyboard,Electronics,Wales,2,55,0.15,Completed,93.5
+174,2025-09-07,Monitor Arm,Home Office,Midlands,3,79,0,Completed,237
+175,2025-02-03,USB-C Hub,Electronics,Scotland,3,42,0.15,Cancelled,107.1
+176,2025-03-17,Monitor Arm,Home Office,Midlands,1,79,0.1,Completed,71.1
+177,2025-04-24,USB-C Hub,Electronics,North,5,42,0.15,Completed,178.5
+178,2025-11-15,Keyboard,Electronics,Midlands,5,55,0.05,Completed,261.25
+179,2025-07-09,Laptop Stand,Accessories,North,2,28,0,Completed,56
+180,2025-02-19,Desk Lamp,Home Office,Wales,1,36,0,Completed,36
+181,2025-06-02,Laptop Stand,Accessories,South,5,28,0,Completed,140
+182,2025-07-04,Water Bottle,Lifestyle,North,5,18,0.05,Completed,85.5
+183,2025-09-15,Water Bottle,Lifestyle,Midlands,5,18,0,Completed,90
+184,2025-06-11,Monitor Arm,Home Office,North,1,79,0.05,Cancelled,75.05
+185,2025-12-28,Desk Lamp,Home Office,Scotland,5,36,0.1,Completed,162.0
+186,2025-06-04,Desk Lamp,Home Office,Scotland,1,36,0,Completed,36
+187,2025-06-18,Water Bottle,Lifestyle,South,5,18,0,Returned,90
+188,2025-01-24,Laptop Stand,Accessories,Scotland,1,28,0,Completed,28
+189,2025-03-21,Water Bottle,Lifestyle,North,2,18,0.05,Completed,34.2
+190,2025-07-26,Wireless Mouse,Electronics,Wales,4,24,0.15,Completed,81.6
+191,2025-06-05,Laptop Stand,Accessories,Scotland,2,28,0.15,Completed,47.6
+192,2025-08-12,Notebook,Stationery,Scotland,1,9,0.1,Completed,8.1
+193,2025-07-02,Water Bottle,Lifestyle,Midlands,1,18,0.1,Completed,16.2
+194,2025-06-20,Notebook,Stationery,Wales,4,9,0.05,Completed,34.2
+195,2025-02-05,Keyboard,Electronics,Wales,5,55,0.15,Completed,233.75
+196,2025-01-15,Laptop Stand,Accessories,Scotland,1,28,0,Completed,28
+197,2025-03-06,Laptop Stand,Accessories,Midlands,5,28,0,Completed,140
+198,2025-12-19,USB-C Hub,Electronics,South,2,42,0,Completed,84
+199,2025-10-22,Laptop Stand,Accessories,North,1,28,0,Cancelled,28
+200,2025-07-20,Monitor Arm,Home Office,Scotland,2,79,0,Completed,158
+201,2025-12-07,USB-C Hub,Electronics,South,5,42,0,Completed,210
+202,2025-09-25,Desk Lamp,Home Office,South,1,36,0,Completed,36
+203,2025-05-01,Desk Lamp,Home Office,Scotland,3,36,0.1,Completed,97.2
+204,2025-12-20,USB-C Hub,Electronics,South,3,42,0.15,Completed,107.1
+205,2025-11-09,Keyboard,Electronics,Midlands,4,55,0.1,Completed,198.0
+206,2025-05-05,Desk Lamp,Home Office,Wales,3,36,0.05,Completed,102.6
+207,2025-03-25,Laptop Stand,Accessories,South,3,28,0.1,Completed,75.6
+208,2025-01-03,Notebook,Stationery,Wales,5,9,0,Completed,45
+209,2025-06-26,Notebook,Stationery,Midlands,4,9,0,Completed,36
+210,2025-07-18,Monitor Arm,Home Office,Wales,1,79,0.1,Completed,71.1
+211,2025-01-14,USB-C Hub,Electronics,North,3,42,0.15,Completed,107.1
+212,2025-06-15,Laptop Stand,Accessories,Scotland,3,28,0.05,Completed,79.8
+213,2025-08-17,Keyboard,Electronics,Scotland,5,55,0,Completed,275
+214,2025-10-11,USB-C Hub,Electronics,North,3,42,0,Completed,126
+215,2025-02-11,USB-C Hub,Electronics,South,5,42,0.05,Completed,199.5
+216,2025-01-01,Desk Lamp,Home Office,Wales,2,36,0.1,Cancelled,64.8
+217,2025-05-07,Desk Lamp,Home Office,Midlands,1,36,0.05,Completed,34.2
+218,2025-11-25,Notebook,Stationery,Midlands,1,9,0.1,Completed,8.1
+219,2025-02-28,Desk Lamp,Home Office,Scotland,2,36,0,Completed,72
+220,2025-08-30,Laptop Stand,Accessories,Scotland,1,28,0,Returned,28
+221,2025-12-12,Laptop Stand,Accessories,Wales,2,28,0,Completed,56
+222,2025-10-21,USB-C Hub,Electronics,Wales,4,42,0,Completed,168
+223,2025-12-07,Laptop Stand,Accessories,Midlands,3,28,0,Completed,84
+224,2025-06-02,Water Bottle,Lifestyle,South,5,18,0.15,Completed,76.5
+225,2025-10-20,Keyboard,Electronics,South,2,55,0,Returned,110
+226,2025-01-08,Monitor Arm,Home Office,South,5,79,0.15,Completed,335.75
+227,2025-10-06,Monitor Arm,Home Office,South,4,79,0.15,Completed,268.6
+228,2025-07-07,Laptop Stand,Accessories,Wales,1,28,0.05,Completed,26.6
+229,2025-11-08,USB-C Hub,Electronics,South,5,42,0,Completed,210
+230,2025-08-08,USB-C Hub,Electronics,Midlands,3,42,0.05,Completed,119.7
+231,2025-03-07,Laptop Stand,Accessories,Scotland,2,28,0,Completed,56
+232,2025-06-05,Notebook,Stationery,Midlands,3,9,0,Completed,27
+233,2025-01-15,USB-C Hub,Electronics,Scotland,1,42,0.15,Completed,35.7
+234,2025-10-20,Desk Lamp,Home Office,Midlands,4,36,0,Returned,144
+235,2025-07-19,Monitor Arm,Home Office,Wales,3,79,0.1,Returned,213.3
+236,2025-08-16,Monitor Arm,Home Office,Midlands,4,79,0,Completed,316
+237,2025-04-19,USB-C Hub,Electronics,North,1,42,0.15,Completed,35.7
+238,2025-11-17,Water Bottle,Lifestyle,Midlands,1,18,0.05,Completed,17.1
+239,2025-11-11,USB-C Hub,Electronics,Scotland,3,42,0,Completed,126
+240,2025-07-04,Wireless Mouse,Electronics,North,2,24,0,Completed,48
+241,2025-12-10,USB-C Hub,Electronics,North,1,42,0,Completed,42
+242,2025-11-21,Keyboard,Electronics,Wales,1,55,0,Completed,55
+243,2025-10-03,Notebook,Stationery,North,1,9,0.15,Completed,7.65
+244,2025-01-13,Notebook,Stationery,Wales,5,9,0.1,Completed,40.5
+245,2025-07-13,Laptop Stand,Accessories,Scotland,3,28,0.1,Completed,75.6
+246,2025-03-19,Notebook,Stationery,Scotland,5,9,0,Completed,45
+247,2025-01-02,Keyboard,Electronics,South,3,55,0.15,Returned,140.25
+248,2025-07-06,Desk Lamp,Home Office,Wales,3,36,0,Returned,108
+249,2025-02-25,Laptop Stand,Accessories,South,4,28,0,Completed,112
+250,2025-12-16,Monitor Arm,Home Office,Wales,3,79,0.1,Completed,213.3
+251,2025-12-23,Monitor Arm,Home Office,Wales,4,79,0.15,Completed,268.6
+252,2025-07-31,Desk Lamp,Home Office,Midlands,5,36,0.05,Completed,171.0
+253,2025-08-25,Wireless Mouse,Electronics,North,5,24,0,Completed,120
+254,2025-05-24,Desk Lamp,Home Office,Wales,5,36,0,Completed,180
+255,2025-08-15,Wireless Mouse,Electronics,Wales,2,24,0,Completed,48
+256,2025-03-11,Water Bottle,Lifestyle,North,5,18,0,Completed,90
+257,2025-08-27,Water Bottle,Lifestyle,Midlands,5,18,0,Returned,90
+258,2025-07-30,USB-C Hub,Electronics,Midlands,1,42,0,Completed,42
+259,2025-10-01,Keyboard,Electronics,South,1,55,0.15,Completed,46.75
+260,2025-05-08,Monitor Arm,Home Office,South,2,79,0,Completed,158
+261,2025-07-14,Notebook,Stationery,Scotland,4,9,0.05,Completed,34.2
+262,2025-10-27,Desk Lamp,Home Office,Wales,1,36,0,Completed,36
+263,2025-05-06,Desk Lamp,Home Office,North,2,36,0.1,Completed,64.8
+264,2025-02-24,Desk Lamp,Home Office,Midlands,3,36,0.1,Completed,97.2
+265,2025-07-06,Monitor Arm,Home Office,Midlands,1,79,0,Returned,79
+266,2025-07-28,Wireless Mouse,Electronics,North,2,24,0.15,Cancelled,40.8
+267,2025-01-14,Keyboard,Electronics,Wales,1,55,0,Completed,55
+268,2025-04-21,Monitor Arm,Home Office,South,3,79,0,Completed,237
+269,2025-04-03,Monitor Arm,Home Office,Wales,3,79,0.1,Completed,213.3
+270,2025-08-07,Wireless Mouse,Electronics,Wales,4,24,0,Completed,96
+271,2025-07-05,Keyboard,Electronics,Wales,4,55,0,Completed,220
+272,2025-06-21,Notebook,Stationery,Scotland,4,9,0,Returned,36
+273,2025-11-21,Laptop Stand,Accessories,Midlands,5,28,0,Completed,140
+274,2025-02-14,Keyboard,Electronics,Midlands,2,55,0,Returned,110
+275,2025-07-12,Notebook,Stationery,Wales,4,9,0,Completed,36
+276,2025-02-23,Water Bottle,Lifestyle,Scotland,1,18,0.1,Completed,16.2
+277,2025-12-18,Notebook,Stationery,Wales,3,9,0.05,Completed,25.65
+278,2025-08-01,Laptop Stand,Accessories,Wales,1,28,0.05,Completed,26.6
+279,2025-08-18,Monitor Arm,Home Office,North,3,79,0,Returned,237
+280,2025-04-10,USB-C Hub,Electronics,North,3,42,0,Completed,126
+281,2025-07-21,Notebook,Stationery,Scotland,4,9,0,Completed,36
+282,2025-06-09,Monitor Arm,Home Office,Midlands,5,79,0,Completed,395
+283,2025-09-19,Desk Lamp,Home Office,North,2,36,0,Completed,72
+284,2025-07-25,Laptop Stand,Accessories,Scotland,2,28,0.15,Completed,47.6
+285,2025-02-08,Notebook,Stationery,South,5,9,0.15,Completed,38.25
+286,2025-03-23,Laptop Stand,Accessories,Scotland,4,28,0,Returned,112
+287,2025-12-01,Monitor Arm,Home Office,South,4,79,0.1,Completed,284.4
+288,2025-05-09,Keyboard,Electronics,Midlands,1,55,0,Completed,55
+289,2025-06-15,Notebook,Stationery,Midlands,2,9,0,Completed,18
+290,2025-05-03,Keyboard,Electronics,Wales,1,55,0.05,Completed,52.25
+291,2025-06-27,Laptop Stand,Accessories,Scotland,3,28,0.05,Completed,79.8
+292,2025-10-22,Keyboard,Electronics,Scotland,2,55,0,Returned,110
+293,2025-02-17,USB-C Hub,Electronics,South,3,42,0.05,Completed,119.7
+294,2025-12-26,USB-C Hub,Electronics,Midlands,4,42,0.15,Completed,142.8
+295,2025-09-05,Monitor Arm,Home Office,Wales,1,79,0,Cancelled,79
+296,2025-03-12,Wireless Mouse,Electronics,Scotland,5,24,0,Completed,120
+297,2025-03-28,Wireless Mouse,Electronics,Scotland,2,24,0.15,Completed,40.8
+298,2025-01-17,USB-C Hub,Electronics,Midlands,3,42,0.15,Cancelled,107.1
+299,2025-10-18,Monitor Arm,Home Office,Scotland,4,79,0,Completed,316
+300,2025-08-04,Water Bottle,Lifestyle,South,4,18,0.05,Completed,68.4
+301,2025-12-16,Desk Lamp,Home Office,Wales,5,36,0,Completed,180
+302,2025-04-12,Water Bottle,Lifestyle,North,2,18,0.1,Completed,32.4
+303,2025-01-17,Keyboard,Electronics,Wales,2,55,0.15,Completed,93.5
+304,2025-12-08,Laptop Stand,Accessories,South,1,28,0,Completed,28
+305,2025-02-12,Notebook,Stationery,South,4,9,0.15,Completed,30.6
+306,2025-11-24,Water Bottle,Lifestyle,Scotland,2,18,0,Cancelled,36
+307,2025-06-09,Keyboard,Electronics,Scotland,4,55,0,Completed,220
+308,2025-09-09,Notebook,Stationery,South,4,9,0.15,Completed,30.6
+309,2025-12-22,USB-C Hub,Electronics,Wales,5,42,0,Completed,210
+310,2025-05-05,Desk Lamp,Home Office,Midlands,4,36,0,Completed,144
+311,2025-03-20,Wireless Mouse,Electronics,Wales,2,24,0.1,Completed,43.2
+312,2025-01-04,Wireless Mouse,Electronics,Scotland,1,24,0.05,Cancelled,22.8
+313,2025-12-03,Keyboard,Electronics,Midlands,4,55,0,Returned,220
+314,2025-02-06,Water Bottle,Lifestyle,Wales,5,18,0,Returned,90
+315,2025-04-30,Keyboard,Electronics,North,4,55,0,Completed,220
+316,2025-06-19,Wireless Mouse,Electronics,South,5,24,0,Completed,120
+317,2025-12-12,Desk Lamp,Home Office,Midlands,5,36,0.1,Completed,162.0
+318,2025-12-10,Water Bottle,Lifestyle,Scotland,2,18,0.1,Completed,32.4
+319,2025-07-04,Wireless Mouse,Electronics,Midlands,3,24,0,Completed,72
+320,2025-08-14,Notebook,Stationery,North,4,9,0,Completed,36
+321,2025-12-01,Monitor Arm,Home Office,Scotland,2,79,0,Completed,158
+322,2025-03-18,Monitor Arm,Home Office,Wales,5,79,0,Returned,395
+323,2025-11-26,Laptop Stand,Accessories,Wales,5,28,0.1,Completed,126.0
+324,2025-02-23,Keyboard,Electronics,North,5,55,0.15,Completed,233.75
+325,2025-10-08,USB-C Hub,Electronics,North,2,42,0,Completed,84
+326,2025-08-18,Monitor Arm,Home Office,South,5,79,0.05,Completed,375.25
+327,2025-04-12,Monitor Arm,Home Office,Wales,3,79,0.15,Completed,201.45
+328,2025-05-06,Water Bottle,Lifestyle,Midlands,5,18,0.05,Completed,85.5
+329,2025-09-19,Wireless Mouse,Electronics,North,4,24,0.15,Completed,81.6
+330,2025-11-03,Keyboard,Electronics,Wales,2,55,0,Completed,110
+331,2025-08-06,Laptop Stand,Accessories,Scotland,3,28,0,Completed,84
+332,2025-08-04,Monitor Arm,Home Office,Midlands,3,79,0,Completed,237
+333,2025-11-20,Notebook,Stationery,Midlands,2,9,0.15,Completed,15.3
+334,2025-10-04,Wireless Mouse,Electronics,South,4,24,0.15,Completed,81.6
+335,2025-11-24,Monitor Arm,Home Office,Midlands,1,79,0.15,Completed,67.15
+336,2025-10-04,Wireless Mouse,Electronics,Midlands,1,24,0.1,Completed,21.6
+337,2025-06-04,Water Bottle,Lifestyle,Wales,1,18,0.1,Completed,16.2
+338,2025-01-24,Notebook,Stationery,North,2,9,0.15,Completed,15.3
+339,2025-01-11,Monitor Arm,Home Office,Scotland,5,79,0.05,Completed,375.25
+340,2025-02-27,Water Bottle,Lifestyle,North,4,18,0.05,Completed,68.4
+341,2025-05-05,Monitor Arm,Home Office,North,1,79,0.15,Completed,67.15
+342,2025-12-18,Desk Lamp,Home Office,Midlands,2,36,0.05,Completed,68.4
+343,2025-09-04,Wireless Mouse,Electronics,Midlands,3,24,0.1,Completed,64.8
+344,2025-12-14,Laptop Stand,Accessories,Midlands,1,28,0.05,Completed,26.6
+345,2025-07-07,Desk Lamp,Home Office,Scotland,5,36,0,Completed,180
+346,2025-10-02,Wireless Mouse,Electronics,North,3,24,0.1,Returned,64.8
+347,2025-10-06,Keyboard,Electronics,Midlands,4,55,0.05,Completed,209.0
+348,2025-12-24,USB-C Hub,Electronics,Wales,1,42,0,Completed,42
+349,2025-07-15,Keyboard,Electronics,Wales,5,55,0,Completed,275
+350,2025-06-09,Laptop Stand,Accessories,Wales,2,28,0.15,Cancelled,47.6
+351,2025-09-15,Keyboard,Electronics,Scotland,2,55,0.05,Completed,104.5
+352,2025-05-19,USB-C Hub,Electronics,Scotland,1,42,0,Completed,42
+353,2025-11-30,Laptop Stand,Accessories,Wales,3,28,0,Completed,84
+354,2025-07-04,Water Bottle,Lifestyle,South,1,18,0.05,Completed,17.1
+355,2025-10-02,Keyboard,Electronics,Midlands,4,55,0,Returned,220
+356,2025-08-03,Water Bottle,Lifestyle,North,3,18,0,Completed,54
+357,2025-10-10,Laptop Stand,Accessories,South,5,28,0,Completed,140
+358,2025-02-07,Desk Lamp,Home Office,North,3,36,0.05,Completed,102.6
+359,2025-04-04,USB-C Hub,Electronics,Scotland,2,42,0,Completed,84
+360,2025-05-02,Monitor Arm,Home Office,Scotland,3,79,0.05,Completed,225.15
+361,2025-04-20,Keyboard,Electronics,Wales,4,55,0,Completed,220
+362,2025-09-05,Desk Lamp,Home Office,South,3,36,0,Completed,108
+363,2025-12-16,Desk Lamp,Home Office,Midlands,3,36,0.1,Completed,97.2
+364,2025-08-03,Notebook,Stationery,North,3,9,0,Returned,27
+365,2025-06-08,Wireless Mouse,Electronics,Scotland,4,24,0,Completed,96
+366,2025-01-15,Monitor Arm,Home Office,North,5,79,0,Completed,395
+367,2025-11-06,Wireless Mouse,Electronics,South,2,24,0,Returned,48
+368,2025-02-04,Desk Lamp,Home Office,North,1,36,0.05,Completed,34.2
+369,2025-07-09,Monitor Arm,Home Office,Scotland,2,79,0.15,Returned,134.3
+370,2025-08-24,Wireless Mouse,Electronics,Scotland,3,24,0,Completed,72
+371,2025-12-07,Wireless Mouse,Electronics,North,3,24,0,Completed,72
+372,2025-01-05,Monitor Arm,Home Office,Wales,5,79,0,Completed,395
+373,2025-02-12,Keyboard,Electronics,Midlands,3,55,0.05,Completed,156.75
+374,2025-12-13,Monitor Arm,Home Office,Scotland,1,79,0,Completed,79
+375,2025-01-08,Notebook,Stationery,Wales,4,9,0,Completed,36
+376,2025-03-04,Desk Lamp,Home Office,South,2,36,0.05,Completed,68.4
+377,2025-03-30,Water Bottle,Lifestyle,Scotland,4,18,0,Returned,72
+378,2025-10-04,Wireless Mouse,Electronics,Scotland,2,24,0,Completed,48
+379,2025-06-01,Wireless Mouse,Electronics,Scotland,3,24,0.05,Completed,68.4
+380,2025-05-25,Desk Lamp,Home Office,Midlands,1,36,0.05,Completed,34.2
+381,2025-11-13,Desk Lamp,Home Office,North,2,36,0,Completed,72
+382,2025-02-03,Wireless Mouse,Electronics,Scotland,5,24,0,Completed,120
+383,2025-04-01,Wireless Mouse,Electronics,South,4,24,0.1,Returned,86.4
+384,2025-04-24,USB-C Hub,Electronics,Midlands,3,42,0,Completed,126
+385,2025-07-17,Water Bottle,Lifestyle,Midlands,3,18,0,Completed,54
+386,2025-01-30,Keyboard,Electronics,North,2,55,0.1,Completed,99.0
+387,2025-02-14,Water Bottle,Lifestyle,Scotland,5,18,0.05,Returned,85.5
+388,2025-12-09,Water Bottle,Lifestyle,South,2,18,0.15,Completed,30.6
+389,2025-08-18,Wireless Mouse,Electronics,South,2,24,0.15,Completed,40.8
+390,2025-01-23,USB-C Hub,Electronics,Wales,3,42,0.1,Completed,113.4
+391,2025-07-22,Monitor Arm,Home Office,South,3,79,0.05,Completed,225.15
+392,2025-02-23,Notebook,Stationery,North,3,9,0,Completed,27
+393,2025-05-11,Laptop Stand,Accessories,South,3,28,0,Completed,84
+394,2025-10-19,Monitor Arm,Home Office,South,5,79,0.1,Completed,355.5
+395,2025-10-16,Notebook,Stationery,Midlands,2,9,0.15,Completed,15.3
+396,2025-09-04,Notebook,Stationery,Scotland,1,9,0.15,Completed,7.65
+397,2025-09-26,Wireless Mouse,Electronics,South,1,24,0,Completed,24
+398,2025-01-09,Wireless Mouse,Electronics,Wales,5,24,0.15,Completed,102.0
+399,2025-04-05,Notebook,Stationery,North,5,9,0.05,Completed,42.75
+400,2025-01-03,Monitor Arm,Home Office,Midlands,4,79,0.05,Completed,300.2
+401,2025-08-02,USB-C Hub,Electronics,Scotland,4,42,0,Returned,168
+402,2025-11-16,Desk Lamp,Home Office,Midlands,5,36,0.15,Completed,153.0
+403,2025-05-28,Laptop Stand,Accessories,Scotland,2,28,0,Completed,56
+404,2025-07-08,Notebook,Stationery,Midlands,3,9,0,Completed,27
+405,2025-12-31,Keyboard,Electronics,Midlands,5,55,0.15,Completed,233.75
+406,2025-05-08,Notebook,Stationery,Midlands,3,9,0.05,Completed,25.65
+407,2025-07-02,Keyboard,Electronics,North,5,55,0,Cancelled,275
+408,2025-12-26,Wireless Mouse,Electronics,South,3,24,0,Completed,72
+409,2025-05-14,Water Bottle,Lifestyle,South,5,18,0,Completed,90
+410,2025-03-07,Laptop Stand,Accessories,North,5,28,0.1,Completed,126.0
+411,2025-10-22,Water Bottle,Lifestyle,Midlands,4,18,0.05,Completed,68.4
+412,2025-04-26,Desk Lamp,Home Office,Midlands,1,36,0,Completed,36
+413,2025-11-14,Laptop Stand,Accessories,South,1,28,0,Completed,28
+414,2025-10-22,Monitor Arm,Home Office,North,4,79,0,Completed,316
+415,2025-02-05,Water Bottle,Lifestyle,Scotland,3,18,0.1,Completed,48.6
+416,2025-01-19,Keyboard,Electronics,Scotland,1,55,0.15,Completed,46.75
+417,2025-10-12,USB-C Hub,Electronics,Wales,2,42,0,Completed,84
+418,2025-01-21,Water Bottle,Lifestyle,North,1,18,0,Completed,18
+419,2025-10-04,Laptop Stand,Accessories,Scotland,4,28,0,Completed,112
+420,2025-07-18,Desk Lamp,Home Office,South,3,36,0.05,Completed,102.6
+421,2025-10-04,Water Bottle,Lifestyle,North,3,18,0.1,Completed,48.6
+422,2025-05-28,Monitor Arm,Home Office,South,2,79,0.15,Completed,134.3
+423,2025-08-17,Wireless Mouse,Electronics,South,4,24,0,Completed,96
+424,2025-11-10,Laptop Stand,Accessories,South,1,28,0.15,Cancelled,23.8
+425,2025-03-16,Water Bottle,Lifestyle,Midlands,2,18,0,Completed,36
+426,2025-08-12,USB-C Hub,Electronics,North,1,42,0,Completed,42
+427,2025-11-15,Keyboard,Electronics,North,3,55,0.05,Completed,156.75
+428,2025-06-27,Monitor Arm,Home Office,Scotland,1,79,0.05,Completed,75.05
+429,2025-12-14,Desk Lamp,Home Office,South,5,36,0,Completed,180
+430,2025-01-17,USB-C Hub,Electronics,North,1,42,0.15,Completed,35.7
+431,2025-04-24,Notebook,Stationery,Wales,1,9,0,Completed,9
+432,2025-06-17,Keyboard,Electronics,Wales,1,55,0.15,Completed,46.75
+433,2025-04-23,Desk Lamp,Home Office,South,5,36,0,Completed,180
+434,2025-04-19,Water Bottle,Lifestyle,Scotland,4,18,0.05,Completed,68.4
+435,2025-06-28,Notebook,Stationery,South,4,9,0,Completed,36
+436,2025-02-13,Keyboard,Electronics,South,3,55,0.15,Completed,140.25
+437,2025-10-30,Wireless Mouse,Electronics,South,1,24,0.15,Completed,20.4
+438,2025-04-10,Keyboard,Electronics,Wales,2,55,0,Completed,110
+439,2025-09-29,Wireless Mouse,Electronics,Midlands,1,24,0.15,Returned,20.4
+440,2025-07-24,Desk Lamp,Home Office,Scotland,4,36,0.05,Completed,136.8
+441,2025-07-23,Water Bottle,Lifestyle,Midlands,3,18,0,Completed,54
+442,2025-10-24,Water Bottle,Lifestyle,South,4,18,0,Completed,72
+443,2025-03-18,USB-C Hub,Electronics,Wales,2,42,0.05,Cancelled,79.8
+444,2025-10-28,Notebook,Stationery,South,2,9,0,Completed,18
+445,2025-03-05,Notebook,Stationery,South,3,9,0.1,Completed,24.3
+446,2025-03-30,Keyboard,Electronics,Scotland,5,55,0.1,Completed,247.5
+447,2025-07-07,Water Bottle,Lifestyle,Scotland,5,18,0.15,Completed,76.5
+448,2025-12-28,Laptop Stand,Accessories,Scotland,2,28,0.1,Completed,50.4
+449,2025-11-07,Desk Lamp,Home Office,North,1,36,0,Completed,36
+450,2025-07-07,Water Bottle,Lifestyle,North,4,18,0,Returned,72
+451,2025-03-14,Desk Lamp,Home Office,Wales,3,36,0.1,Completed,97.2
+452,2025-07-26,Water Bottle,Lifestyle,Midlands,4,18,0.05,Completed,68.4
+453,2025-07-19,USB-C Hub,Electronics,North,1,42,0,Returned,42
+454,2025-08-12,USB-C Hub,Electronics,Midlands,5,42,0.1,Completed,189.0
+455,2025-07-31,Keyboard,Electronics,South,1,55,0,Completed,55
+456,2025-09-20,Monitor Arm,Home Office,North,1,79,0,Completed,79
+457,2025-10-08,Monitor Arm,Home Office,Scotland,4,79,0.05,Completed,300.2
+458,2025-01-17,USB-C Hub,Electronics,North,4,42,0,Completed,168
+459,2025-04-25,Notebook,Stationery,Wales,5,9,0,Completed,45
+460,2025-01-12,Desk Lamp,Home Office,Midlands,3,36,0,Returned,108
+461,2025-10-29,USB-C Hub,Electronics,Midlands,2,42,0.05,Completed,79.8
+462,2025-10-03,Keyboard,Electronics,Scotland,3,55,0,Cancelled,165
+463,2025-08-23,Desk Lamp,Home Office,North,2,36,0.1,Completed,64.8
+464,2025-07-11,Monitor Arm,Home Office,Midlands,1,79,0,Completed,79
+465,2025-04-29,Laptop Stand,Accessories,Wales,4,28,0.05,Completed,106.4
+466,2025-02-28,USB-C Hub,Electronics,Midlands,5,42,0.1,Completed,189.0
+467,2025-02-27,Monitor Arm,Home Office,South,4,79,0,Completed,316
+468,2025-03-06,Keyboard,Electronics,North,5,55,0.15,Completed,233.75
+469,2025-12-02,Wireless Mouse,Electronics,Midlands,5,24,0.05,Completed,114.0
+470,2025-02-07,Water Bottle,Lifestyle,Scotland,1,18,0.05,Completed,17.1
+471,2025-11-11,Desk Lamp,Home Office,Midlands,2,36,0,Completed,72
+472,2025-05-31,Desk Lamp,Home Office,Wales,5,36,0,Completed,180
+473,2025-03-31,Notebook,Stationery,Wales,4,9,0.1,Completed,32.4
+474,2025-03-14,Wireless Mouse,Electronics,North,1,24,0,Completed,24
+475,2025-10-11,USB-C Hub,Electronics,Scotland,1,42,0.1,Completed,37.8
+476,2025-12-07,Wireless Mouse,Electronics,South,1,24,0,Completed,24
+477,2025-08-21,Keyboard,Electronics,North,5,55,0.1,Completed,247.5
+478,2025-06-12,USB-C Hub,Electronics,Scotland,2,42,0,Completed,84
+479,2025-12-29,Water Bottle,Lifestyle,North,3,18,0.1,Completed,48.6
+480,2025-10-21,Monitor Arm,Home Office,Scotland,1,79,0,Completed,79
+481,2025-08-17,Monitor Arm,Home Office,South,5,79,0,Completed,395
+482,2025-08-02,Notebook,Stationery,North,2,9,0,Completed,18
+483,2025-04-25,USB-C Hub,Electronics,Scotland,4,42,0,Completed,168
+484,2025-08-21,Keyboard,Electronics,South,5,55,0,Completed,275
+485,2025-10-15,Desk Lamp,Home Office,South,1,36,0.15,Completed,30.6
+486,2025-11-12,Notebook,Stationery,North,5,9,0,Cancelled,45
+487,2025-07-13,Laptop Stand,Accessories,Wales,3,28,0,Completed,84
+488,2025-07-05,Wireless Mouse,Electronics,South,3,24,0.1,Returned,64.8
+489,2025-02-16,Desk Lamp,Home Office,Scotland,1,36,0,Completed,36
+490,2025-10-20,Wireless Mouse,Electronics,Scotland,4,24,0,Completed,96
+491,2025-03-12,Wireless Mouse,Electronics,South,2,24,0.05,Completed,45.6
+492,2025-09-14,Wireless Mouse,Electronics,Midlands,1,24,0.1,Completed,21.6
+493,2025-12-03,Keyboard,Electronics,Wales,4,55,0.15,Completed,187.0
+494,2025-06-21,Desk Lamp,Home Office,South,3,36,0,Completed,108
+495,2025-06-08,Wireless Mouse,Electronics,Wales,2,24,0.15,Completed,40.8
+496,2025-10-28,Laptop Stand,Accessories,South,2,28,0.15,Completed,47.6
+497,2025-10-06,Wireless Mouse,Electronics,Midlands,4,24,0.05,Completed,91.2
+498,2025-12-31,Keyboard,Electronics,North,2,55,0,Completed,110
+499,2025-03-04,Water Bottle,Lifestyle,Wales,5,18,0.1,Completed,81.0
+500,2025-03-04,Monitor Arm,Home Office,North,2,79,0,Completed,158
+501,2025-03-18,Water Bottle,Lifestyle,Midlands,5,18,0,Completed,90
+502,2025-03-23,Monitor Arm,Home Office,Scotland,1,79,0.1,Completed,71.1
+503,2025-10-03,Keyboard,Electronics,Wales,2,55,0,Completed,110
+504,2025-11-27,Keyboard,Electronics,North,3,55,0.05,Cancelled,156.75
+505,2025-11-05,Desk Lamp,Home Office,North,1,36,0,Completed,36
+506,2025-01-07,Monitor Arm,Home Office,Wales,3,79,0.1,Completed,213.3
+507,2025-01-11,Wireless Mouse,Electronics,Wales,4,24,0,Completed,96
+508,2025-05-01,Notebook,Stationery,North,4,9,0.1,Returned,32.4
+509,2025-09-19,Monitor Arm,Home Office,North,5,79,0.15,Completed,335.75
+510,2025-07-25,Keyboard,Electronics,Scotland,3,55,0,Completed,165
+511,2025-03-24,Water Bottle,Lifestyle,South,3,18,0.15,Completed,45.9
+512,2025-03-06,Notebook,Stationery,Wales,1,9,0,Completed,9
+513,2025-06-02,Keyboard,Electronics,Scotland,3,55,0.15,Completed,140.25
+514,2025-06-14,Wireless Mouse,Electronics,Midlands,3,24,0.05,Completed,68.4
+515,2025-12-18,USB-C Hub,Electronics,Wales,1,42,0.1,Cancelled,37.8
+516,2025-02-19,Keyboard,Electronics,South,4,55,0.15,Completed,187.0
+517,2025-10-17,Monitor Arm,Home Office,North,3,79,0.15,Completed,201.45
+518,2025-06-03,Notebook,Stationery,Wales,3,9,0,Completed,27
+519,2025-04-26,Laptop Stand,Accessories,Scotland,5,28,0,Completed,140
+520,2025-01-18,Wireless Mouse,Electronics,South,5,24,0,Returned,120
+521,2025-10-04,Desk Lamp,Home Office,Midlands,3,36,0.05,Completed,102.6
+522,2025-09-18,Monitor Arm,Home Office,Scotland,5,79,0,Returned,395
+523,2025-01-21,Laptop Stand,Accessories,South,4,28,0,Completed,112
+524,2025-02-17,Notebook,Stationery,Wales,3,9,0,Cancelled,27
+525,2025-09-24,Monitor Arm,Home Office,Scotland,1,79,0.15,Completed,67.15
+526,2025-06-02,Laptop Stand,Accessories,Midlands,5,28,0.15,Completed,119.0
+527,2025-07-15,Water Bottle,Lifestyle,South,5,18,0.1,Completed,81.0
+528,2025-09-12,Desk Lamp,Home Office,Scotland,1,36,0.05,Completed,34.2
+529,2025-02-03,Laptop Stand,Accessories,Scotland,5,28,0.15,Completed,119.0
+530,2025-10-03,Desk Lamp,Home Office,North,5,36,0.05,Completed,171.0
+531,2025-02-11,Notebook,Stationery,Midlands,1,9,0,Returned,9
+532,2025-01-13,Water Bottle,Lifestyle,Midlands,5,18,0.1,Completed,81.0
+533,2025-02-14,Notebook,Stationery,North,1,9,0,Returned,9
+534,2025-01-02,USB-C Hub,Electronics,South,1,42,0,Completed,42
+535,2025-04-30,Notebook,Stationery,North,1,9,0,Completed,9
+536,2025-07-21,USB-C Hub,Electronics,Scotland,3,42,0,Completed,126
+537,2025-03-20,Wireless Mouse,Electronics,Scotland,1,24,0,Completed,24
+538,2025-03-01,Wireless Mouse,Electronics,Midlands,1,24,0,Completed,24
+539,2025-08-25,Water Bottle,Lifestyle,South,1,18,0,Completed,18
+540,2025-03-09,Desk Lamp,Home Office,South,3,36,0.1,Completed,97.2
+541,2025-07-15,Water Bottle,Lifestyle,North,1,18,0.05,Completed,17.1
+542,2025-04-25,Keyboard,Electronics,Midlands,1,55,0,Completed,55
+543,2025-12-17,Wireless Mouse,Electronics,South,5,24,0.05,Completed,114.0
+544,2025-06-13,Desk Lamp,Home Office,North,3,36,0.05,Completed,102.6
+545,2025-12-03,Desk Lamp,Home Office,Midlands,2,36,0,Returned,72
+546,2025-08-22,Notebook,Stationery,Scotland,3,9,0.1,Completed,24.3
+547,2025-05-17,Notebook,Stationery,Wales,5,9,0,Cancelled,45
+548,2025-01-10,USB-C Hub,Electronics,Scotland,4,42,0,Completed,168
+549,2025-04-17,Notebook,Stationery,Wales,1,9,0.1,Completed,8.1
+550,2025-04-11,Water Bottle,Lifestyle,Midlands,3,18,0.05,Completed,51.3
+551,2025-07-24,Water Bottle,Lifestyle,Scotland,1,18,0.15,Completed,15.3
+552,2025-01-08,Wireless Mouse,Electronics,Scotland,5,24,0,Completed,120
+553,2025-05-12,Laptop Stand,Accessories,North,5,28,0.05,Completed,133.0
+554,2025-01-17,Wireless Mouse,Electronics,North,1,24,0.05,Completed,22.8
+555,2025-05-07,USB-C Hub,Electronics,North,1,42,0,Completed,42
+556,2025-07-04,Wireless Mouse,Electronics,Scotland,5,24,0.15,Completed,102.0
+557,2025-09-12,USB-C Hub,Electronics,Scotland,5,42,0.15,Completed,178.5
+558,2025-02-02,Wireless Mouse,Electronics,Midlands,1,24,0.1,Completed,21.6
+559,2025-03-25,Keyboard,Electronics,Scotland,4,55,0.15,Completed,187.0
+560,2025-04-22,Desk Lamp,Home Office,Midlands,4,36,0.1,Completed,129.6
+561,2025-07-09,Wireless Mouse,Electronics,South,2,24,0,Completed,48
+562,2025-05-30,Monitor Arm,Home Office,Wales,5,79,0.1,Completed,355.5
+563,2025-11-09,Water Bottle,Lifestyle,Wales,4,18,0.05,Cancelled,68.4
+564,2025-10-22,Wireless Mouse,Electronics,Midlands,1,24,0.1,Completed,21.6
+565,2025-09-20,USB-C Hub,Electronics,North,2,42,0.15,Completed,71.4
+566,2025-05-04,Keyboard,Electronics,South,5,55,0.05,Returned,261.25
+567,2025-09-28,USB-C Hub,Electronics,North,1,42,0,Completed,42
+568,2025-10-20,Notebook,Stationery,Midlands,5,9,0.1,Completed,40.5
+569,2025-06-02,Keyboard,Electronics,Midlands,3,55,0.1,Completed,148.5
+570,2025-02-10,Wireless Mouse,Electronics,Wales,5,24,0,Completed,120
+571,2025-07-14,Water Bottle,Lifestyle,Wales,3,18,0,Completed,54
+572,2025-03-05,Laptop Stand,Accessories,North,4,28,0.1,Cancelled,100.8
+573,2025-07-07,Wireless Mouse,Electronics,Scotland,1,24,0.1,Completed,21.6
+574,2025-09-01,Water Bottle,Lifestyle,South,2,18,0,Completed,36
+575,2025-07-05,Monitor Arm,Home Office,Wales,4,79,0.1,Completed,284.4
+576,2025-04-05,USB-C Hub,Electronics,Scotland,5,42,0.05,Cancelled,199.5
+577,2025-10-27,Desk Lamp,Home Office,Scotland,2,36,0,Completed,72
+578,2025-01-19,Monitor Arm,Home Office,Wales,1,79,0,Completed,79
+579,2025-03-06,Desk Lamp,Home Office,North,3,36,0.15,Completed,91.8
+580,2025-02-14,Water Bottle,Lifestyle,South,1,18,0,Completed,18
+581,2025-10-05,Notebook,Stationery,Scotland,4,9,0,Returned,36
+582,2025-06-14,USB-C Hub,Electronics,South,1,42,0,Completed,42
+583,2025-11-09,Notebook,Stationery,Wales,1,9,0,Completed,9
+584,2025-12-21,Keyboard,Electronics,Midlands,2,55,0,Completed,110
+585,2025-05-29,Monitor Arm,Home Office,Midlands,3,79,0,Completed,237
+586,2025-05-26,Wireless Mouse,Electronics,South,4,24,0.05,Completed,91.2
+587,2025-07-08,Desk Lamp,Home Office,Midlands,4,36,0.1,Completed,129.6
+588,2025-09-25,Keyboard,Electronics,Scotland,3,55,0.05,Completed,156.75
+589,2025-11-27,Wireless Mouse,Electronics,Scotland,4,24,0.15,Returned,81.6
+590,2025-12-15,Notebook,Stationery,Wales,5,9,0.1,Completed,40.5
+591,2025-09-04,Monitor Arm,Home Office,Scotland,5,79,0,Completed,395
+592,2025-12-07,Wireless Mouse,Electronics,Midlands,1,24,0.05,Completed,22.8
+593,2025-07-25,Water Bottle,Lifestyle,North,5,18,0,Completed,90
+594,2025-10-13,Keyboard,Electronics,Scotland,1,55,0,Completed,55
+595,2025-05-14,USB-C Hub,Electronics,South,4,42,0,Completed,168
+596,2025-04-18,Desk Lamp,Home Office,Scotland,1,36,0,Completed,36
+597,2025-11-08,Wireless Mouse,Electronics,North,2,24,0.1,Completed,43.2
+598,2025-06-01,Laptop Stand,Accessories,North,5,28,0.1,Completed,126.0
+599,2025-03-06,Notebook,Stationery,Scotland,4,9,0.1,Completed,32.4
+600,2025-09-30,Wireless Mouse,Electronics,North,4,24,0,Completed,96
+601,2025-10-28,Laptop Stand,Accessories,Midlands,3,28,0.05,Completed,79.8
+602,2025-05-02,Monitor Arm,Home Office,Wales,3,79,0.1,Completed,213.3
+603,2025-07-11,Notebook,Stationery,South,3,9,0.15,Completed,22.95
+604,2025-11-12,Notebook,Stationery,Wales,5,9,0,Completed,45
+605,2025-11-14,USB-C Hub,Electronics,Midlands,1,42,0.15,Completed,35.7
+606,2025-02-08,Wireless Mouse,Electronics,Midlands,4,24,0.05,Returned,91.2
+607,2025-10-02,Wireless Mouse,Electronics,North,3,24,0.1,Completed,64.8
+608,2025-06-07,Laptop Stand,Accessories,South,3,28,0,Completed,84
+609,2025-10-22,Monitor Arm,Home Office,Wales,2,79,0,Completed,158
+610,2025-02-02,USB-C Hub,Electronics,Wales,3,42,0.1,Completed,113.4
+611,2025-11-27,Keyboard,Electronics,Wales,4,55,0.1,Completed,198.0
+612,2025-03-22,Desk Lamp,Home Office,North,2,36,0,Returned,72
+613,2025-10-22,Keyboard,Electronics,North,1,55,0,Completed,55
+614,2025-07-30,Keyboard,Electronics,Midlands,5,55,0.15,Completed,233.75
+615,2025-05-04,Water Bottle,Lifestyle,Wales,3,18,0.1,Completed,48.6
+616,2025-12-01,Desk Lamp,Home Office,South,5,36,0,Completed,180
+617,2025-10-29,Wireless Mouse,Electronics,North,4,24,0.15,Completed,81.6
+618,2025-12-21,Keyboard,Electronics,Scotland,1,55,0.15,Completed,46.75
+619,2025-09-16,Notebook,Stationery,Wales,3,9,0.1,Completed,24.3
+620,2025-01-02,Monitor Arm,Home Office,Wales,4,79,0,Completed,316
+621,2025-01-27,Keyboard,Electronics,South,1,55,0,Completed,55
+622,2025-07-11,Keyboard,Electronics,South,3,55,0,Completed,165
+623,2025-08-26,USB-C Hub,Electronics,Scotland,4,42,0,Completed,168
+624,2025-04-17,Monitor Arm,Home Office,South,4,79,0.15,Completed,268.6
+625,2025-05-06,Wireless Mouse,Electronics,Wales,4,24,0.05,Completed,91.2
+626,2025-05-19,Laptop Stand,Accessories,Wales,2,28,0,Completed,56
+627,2025-10-22,Water Bottle,Lifestyle,South,3,18,0.1,Completed,48.6
+628,2025-11-06,Notebook,Stationery,Midlands,1,9,0.05,Completed,8.55
+629,2025-05-14,Water Bottle,Lifestyle,North,2,18,0,Completed,36
+630,2025-07-26,Monitor Arm,Home Office,Midlands,2,79,0,Completed,158
+631,2025-02-21,Notebook,Stationery,Wales,2,9,0.1,Completed,16.2
+632,2025-06-22,Monitor Arm,Home Office,North,3,79,0,Completed,237
+633,2025-01-09,Wireless Mouse,Electronics,North,5,24,0,Completed,120
+634,2025-01-03,Laptop Stand,Accessories,Midlands,2,28,0.15,Returned,47.6
+635,2025-05-08,Monitor Arm,Home Office,North,2,79,0,Cancelled,158
+636,2025-11-29,Desk Lamp,Home Office,Wales,3,36,0.15,Returned,91.8
+637,2025-09-11,Keyboard,Electronics,South,5,55,0.15,Completed,233.75
+638,2025-07-29,Wireless Mouse,Electronics,Wales,5,24,0,Completed,120
+639,2025-02-05,Desk Lamp,Home Office,South,1,36,0,Completed,36
+640,2025-12-09,USB-C Hub,Electronics,North,1,42,0,Completed,42
+641,2025-09-18,Monitor Arm,Home Office,Midlands,5,79,0.15,Completed,335.75
+642,2025-02-24,Monitor Arm,Home Office,South,5,79,0.15,Completed,335.75
+643,2025-10-28,USB-C Hub,Electronics,Wales,5,42,0.1,Completed,189.0
+644,2025-11-16,Monitor Arm,Home Office,Midlands,5,79,0.15,Completed,335.75
+645,2025-09-26,Notebook,Stationery,South,1,9,0,Completed,9
+646,2025-08-30,Notebook,Stationery,North,3,9,0.15,Completed,22.95
+647,2025-10-25,Keyboard,Electronics,Midlands,5,55,0,Returned,275
+648,2025-09-12,USB-C Hub,Electronics,North,2,42,0.1,Completed,75.6
+649,2025-06-24,Wireless Mouse,Electronics,North,3,24,0.1,Completed,64.8
+650,2025-11-29,USB-C Hub,Electronics,South,2,42,0.1,Completed,75.6
+651,2025-08-13,Notebook,Stationery,Wales,3,9,0.1,Completed,24.3
+652,2025-10-31,Wireless Mouse,Electronics,Midlands,5,24,0,Completed,120
+653,2025-06-05,Monitor Arm,Home Office,Midlands,3,79,0.05,Returned,225.15
+654,2025-01-17,Keyboard,Electronics,Midlands,5,55,0.05,Completed,261.25
+655,2025-10-26,USB-C Hub,Electronics,North,2,42,0,Completed,84
+656,2025-03-04,USB-C Hub,Electronics,North,2,42,0.15,Completed,71.4
+657,2025-01-30,USB-C Hub,Electronics,North,5,42,0,Completed,210
+658,2025-12-23,Monitor Arm,Home Office,Wales,3,79,0.15,Completed,201.45
+659,2025-11-22,USB-C Hub,Electronics,North,5,42,0,Returned,210
+660,2025-03-02,Monitor Arm,Home Office,South,2,79,0.05,Returned,150.1
+661,2025-10-08,Monitor Arm,Home Office,North,4,79,0,Completed,316
+662,2025-04-28,Monitor Arm,Home Office,Midlands,5,79,0,Completed,395
+663,2025-07-02,Monitor Arm,Home Office,Wales,4,79,0.15,Completed,268.6
+664,2025-01-01,Keyboard,Electronics,Midlands,2,55,0,Completed,110
+665,2025-12-01,Keyboard,Electronics,South,4,55,0.15,Completed,187.0
+666,2025-09-23,Laptop Stand,Accessories,North,2,28,0.1,Returned,50.4
+667,2025-03-24,Notebook,Stationery,South,2,9,0,Completed,18
+668,2025-06-05,USB-C Hub,Electronics,North,2,42,0,Completed,84
+669,2025-01-18,Wireless Mouse,Electronics,Wales,1,24,0,Completed,24
+670,2025-03-19,Wireless Mouse,Electronics,Wales,1,24,0,Completed,24
+671,2025-04-15,Desk Lamp,Home Office,South,4,36,0.1,Returned,129.6
+672,2025-12-22,Desk Lamp,Home Office,North,2,36,0.1,Completed,64.8
+673,2025-01-17,Water Bottle,Lifestyle,Midlands,1,18,0,Completed,18
+674,2025-06-29,Keyboard,Electronics,South,5,55,0,Completed,275
+675,2025-09-13,Notebook,Stationery,South,4,9,0.15,Completed,30.6
+676,2025-11-21,Wireless Mouse,Electronics,North,4,24,0.15,Completed,81.6
+677,2025-02-23,Water Bottle,Lifestyle,South,1,18,0.1,Completed,16.2
+678,2025-03-23,Monitor Arm,Home Office,Midlands,1,79,0.15,Completed,67.15
+679,2025-02-02,Water Bottle,Lifestyle,Scotland,2,18,0.05,Completed,34.2
+680,2025-04-06,Keyboard,Electronics,Wales,3,55,0.1,Completed,148.5
+681,2025-03-24,USB-C Hub,Electronics,Scotland,2,42,0,Completed,84
+682,2025-10-12,USB-C Hub,Electronics,Midlands,3,42,0.15,Completed,107.1
+683,2025-08-13,Water Bottle,Lifestyle,Wales,3,18,0,Completed,54
+684,2025-08-24,Keyboard,Electronics,South,3,55,0.15,Completed,140.25
+685,2025-12-13,Water Bottle,Lifestyle,South,5,18,0,Completed,90
+686,2025-10-10,Laptop Stand,Accessories,Wales,1,28,0.1,Completed,25.2
+687,2025-02-06,Water Bottle,Lifestyle,Scotland,1,18,0,Completed,18
+688,2025-09-23,Water Bottle,Lifestyle,Midlands,2,18,0,Completed,36
+689,2025-11-23,Water Bottle,Lifestyle,North,5,18,0.05,Completed,85.5
+690,2025-03-25,Notebook,Stationery,Midlands,5,9,0,Completed,45
+691,2025-01-05,Laptop Stand,Accessories,North,2,28,0.05,Completed,53.2
+692,2025-10-25,Water Bottle,Lifestyle,South,1,18,0,Completed,18
+693,2025-01-28,Desk Lamp,Home Office,Midlands,1,36,0,Cancelled,36
+694,2025-10-31,Notebook,Stationery,Midlands,3,9,0,Completed,27
+695,2025-07-14,Wireless Mouse,Electronics,Midlands,1,24,0.1,Completed,21.6
+696,2025-04-12,Laptop Stand,Accessories,Midlands,4,28,0,Completed,112
+697,2025-06-13,USB-C Hub,Electronics,North,4,42,0.15,Returned,142.8
+698,2025-03-04,Notebook,Stationery,Wales,1,9,0.1,Completed,8.1
+699,2025-09-28,Laptop Stand,Accessories,North,5,28,0,Completed,140
+700,2025-09-24,Desk Lamp,Home Office,Wales,3,36,0.15,Completed,91.8
+701,2025-07-27,Desk Lamp,Home Office,South,4,36,0.05,Completed,136.8
+702,2025-11-27,Wireless Mouse,Electronics,Wales,3,24,0,Completed,72
+703,2025-02-24,Wireless Mouse,Electronics,Wales,5,24,0,Completed,120
+704,2025-03-16,Water Bottle,Lifestyle,Wales,2,18,0.1,Completed,32.4
+705,2025-04-26,Notebook,Stationery,Wales,2,9,0,Completed,18
+706,2025-06-27,USB-C Hub,Electronics,Scotland,5,42,0,Completed,210
+707,2025-07-10,Monitor Arm,Home Office,Scotland,3,79,0.05,Completed,225.15
+708,2025-04-22,Water Bottle,Lifestyle,Scotland,3,18,0.15,Completed,45.9
+709,2025-01-27,Desk Lamp,Home Office,North,1,36,0.1,Completed,32.4
+710,2025-04-23,USB-C Hub,Electronics,Scotland,4,42,0.15,Returned,142.8
+711,2025-04-09,Monitor Arm,Home Office,South,3,79,0.05,Completed,225.15
+712,2025-03-12,Notebook,Stationery,South,2,9,0.05,Completed,17.1
+713,2025-12-25,Water Bottle,Lifestyle,Midlands,5,18,0,Completed,90
+714,2025-08-25,Water Bottle,Lifestyle,Midlands,3,18,0.05,Completed,51.3
+715,2025-07-30,Notebook,Stationery,Wales,4,9,0,Completed,36
+716,2025-06-13,Notebook,Stationery,Midlands,5,9,0,Completed,45
+717,2025-11-15,Desk Lamp,Home Office,North,1,36,0.1,Completed,32.4
+718,2025-03-27,Desk Lamp,Home Office,Scotland,1,36,0,Completed,36
+719,2025-11-26,Wireless Mouse,Electronics,South,4,24,0.15,Completed,81.6
+720,2025-03-06,Wireless Mouse,Electronics,Midlands,4,24,0,Completed,96
+721,2025-03-28,Water Bottle,Lifestyle,North,1,18,0,Completed,18
+722,2025-01-13,Wireless Mouse,Electronics,Wales,4,24,0.05,Cancelled,91.2
+723,2025-05-06,Monitor Arm,Home Office,North,3,79,0,Completed,237
+724,2025-12-15,Water Bottle,Lifestyle,North,4,18,0,Completed,72
+725,2025-06-27,USB-C Hub,Electronics,Midlands,1,42,0,Completed,42
+726,2025-03-09,Desk Lamp,Home Office,Midlands,5,36,0.1,Returned,162.0
+727,2025-03-12,Monitor Arm,Home Office,North,2,79,0.1,Completed,142.2
+728,2025-06-22,Notebook,Stationery,Scotland,5,9,0.1,Completed,40.5
+729,2025-05-04,Wireless Mouse,Electronics,Wales,4,24,0.05,Returned,91.2
+730,2025-11-23,Wireless Mouse,Electronics,North,1,24,0.1,Completed,21.6
+731,2025-07-10,Desk Lamp,Home Office,Scotland,3,36,0,Returned,108
+732,2025-02-21,Laptop Stand,Accessories,North,5,28,0,Completed,140
+733,2025-07-03,USB-C Hub,Electronics,Wales,1,42,0.05,Completed,39.9
+734,2025-10-11,Notebook,Stationery,Wales,3,9,0,Returned,27
+735,2025-04-02,Water Bottle,Lifestyle,Scotland,3,18,0,Completed,54
+736,2025-01-03,Water Bottle,Lifestyle,Scotland,4,18,0,Completed,72
+737,2025-08-26,Monitor Arm,Home Office,Scotland,1,79,0.05,Completed,75.05
+738,2025-09-07,Notebook,Stationery,Midlands,4,9,0.1,Completed,32.4
+739,2025-04-07,USB-C Hub,Electronics,South,2,42,0.15,Completed,71.4
+740,2025-10-15,Water Bottle,Lifestyle,Midlands,1,18,0.1,Completed,16.2
+741,2025-09-25,USB-C Hub,Electronics,South,1,42,0.1,Completed,37.8
+742,2025-03-29,Desk Lamp,Home Office,Wales,2,36,0,Completed,72
+743,2025-12-26,Notebook,Stationery,Scotland,2,9,0,Completed,18
+744,2025-11-09,Wireless Mouse,Electronics,South,4,24,0.05,Completed,91.2
+745,2025-11-28,Keyboard,Electronics,Midlands,2,55,0.1,Completed,99.0
+746,2025-04-26,Monitor Arm,Home Office,North,3,79,0.1,Returned,213.3
+747,2025-03-23,Notebook,Stationery,South,1,9,0.05,Completed,8.55
+748,2025-08-17,USB-C Hub,Electronics,Midlands,5,42,0,Completed,210
+749,2025-12-21,Monitor Arm,Home Office,Wales,1,79,0.1,Completed,71.1
+750,2025-11-22,Wireless Mouse,Electronics,Midlands,1,24,0,Completed,24
+751,2025-12-04,Desk Lamp,Home Office,North,3,36,0.1,Completed,97.2
+752,2025-09-18,Notebook,Stationery,Scotland,4,9,0.1,Completed,32.4
+753,2025-03-15,Keyboard,Electronics,South,2,55,0.15,Completed,93.5
+754,2025-07-19,Monitor Arm,Home Office,North,2,79,0,Completed,158
+755,2025-10-05,Laptop Stand,Accessories,North,5,28,0.05,Completed,133.0
+756,2025-09-15,Laptop Stand,Accessories,Wales,1,28,0,Completed,28
+757,2025-01-06,Notebook,Stationery,Scotland,1,9,0.1,Completed,8.1
+758,2025-09-07,USB-C Hub,Electronics,Midlands,4,42,0.1,Completed,151.2
+759,2025-07-08,Notebook,Stationery,South,4,9,0.05,Completed,34.2
+760,2025-11-01,USB-C Hub,Electronics,Midlands,3,42,0,Completed,126
+761,2025-04-01,Laptop Stand,Accessories,Midlands,5,28,0.05,Completed,133.0
+762,2025-07-06,Monitor Arm,Home Office,North,5,79,0,Completed,395
+763,2025-11-10,Keyboard,Electronics,Scotland,3,55,0.1,Completed,148.5
+764,2025-05-11,Desk Lamp,Home Office,North,4,36,0,Completed,144
+765,2025-07-19,Laptop Stand,Accessories,Scotland,2,28,0,Completed,56
+766,2025-05-25,Wireless Mouse,Electronics,North,4,24,0,Completed,96
+767,2025-04-20,Water Bottle,Lifestyle,Midlands,4,18,0.05,Completed,68.4
+768,2025-05-04,Monitor Arm,Home Office,North,3,79,0,Completed,237
+769,2025-01-21,Laptop Stand,Accessories,South,4,28,0,Completed,112
+770,2025-07-26,Water Bottle,Lifestyle,North,2,18,0.05,Completed,34.2
+771,2025-05-22,USB-C Hub,Electronics,Wales,1,42,0.05,Completed,39.9
+772,2025-01-09,Keyboard,Electronics,Wales,3,55,0,Completed,165
+773,2025-01-31,Laptop Stand,Accessories,Wales,4,28,0,Completed,112
+774,2025-09-16,Notebook,Stationery,Wales,1,9,0,Completed,9
+775,2025-05-19,Notebook,Stationery,Wales,5,9,0,Completed,45
+776,2025-11-05,Keyboard,Electronics,South,3,55,0.05,Completed,156.75
+777,2025-03-17,Notebook,Stationery,South,4,9,0.15,Completed,30.6
+778,2025-07-30,Notebook,Stationery,South,3,9,0.15,Completed,22.95
+779,2025-08-28,Keyboard,Electronics,Scotland,2,55,0.15,Completed,93.5
+780,2025-08-10,Notebook,Stationery,Midlands,1,9,0,Completed,9
+781,2025-12-17,Desk Lamp,Home Office,Scotland,1,36,0.05,Completed,34.2
+782,2025-04-18,Wireless Mouse,Electronics,Scotland,4,24,0,Completed,96
+783,2025-09-14,Laptop Stand,Accessories,Midlands,1,28,0,Cancelled,28
+784,2025-03-06,Laptop Stand,Accessories,Scotland,1,28,0.05,Completed,26.6
+785,2025-07-22,Monitor Arm,Home Office,South,2,79,0.15,Completed,134.3
+786,2025-02-24,Laptop Stand,Accessories,Scotland,2,28,0,Completed,56
+787,2025-08-14,Wireless Mouse,Electronics,Midlands,1,24,0,Completed,24
+788,2025-07-21,Notebook,Stationery,South,1,9,0.05,Completed,8.55
+789,2025-07-01,Desk Lamp,Home Office,Scotland,4,36,0.05,Cancelled,136.8
+790,2025-03-26,Desk Lamp,Home Office,Wales,2,36,0.05,Completed,68.4
+791,2025-12-07,Desk Lamp,Home Office,North,3,36,0,Completed,108
+792,2025-01-10,Keyboard,Electronics,Scotland,5,55,0,Completed,275
+793,2025-08-31,Laptop Stand,Accessories,Midlands,1,28,0,Cancelled,28
+794,2025-03-14,USB-C Hub,Electronics,South,3,42,0,Completed,126
+795,2025-05-26,Monitor Arm,Home Office,Midlands,1,79,0,Completed,79
+796,2025-04-12,Wireless Mouse,Electronics,South,1,24,0.05,Completed,22.8
+797,2025-04-12,Laptop Stand,Accessories,South,4,28,0.15,Returned,95.2
+798,2025-04-24,Water Bottle,Lifestyle,Scotland,5,18,0,Cancelled,90
+799,2025-08-10,Notebook,Stationery,Scotland,5,9,0,Completed,45
+800,2025-08-06,Water Bottle,Lifestyle,Wales,1,18,0.05,Completed,17.1
+801,2025-02-23,Laptop Stand,Accessories,North,1,28,0.1,Completed,25.2
+802,2025-09-14,Notebook,Stationery,South,3,9,0,Completed,27
+803,2025-03-26,Water Bottle,Lifestyle,North,4,18,0,Completed,72
+804,2025-07-17,Wireless Mouse,Electronics,Midlands,5,24,0.1,Cancelled,108.0
+805,2025-04-08,Notebook,Stationery,North,5,9,0.05,Completed,42.75
+806,2025-03-19,Wireless Mouse,Electronics,Wales,3,24,0,Completed,72
+807,2025-11-01,Laptop Stand,Accessories,North,4,28,0.1,Completed,100.8
+808,2025-09-17,Keyboard,Electronics,South,5,55,0.15,Completed,233.75
+809,2025-05-07,Notebook,Stationery,Scotland,2,9,0.1,Completed,16.2
+810,2025-04-27,Monitor Arm,Home Office,South,2,79,0.1,Completed,142.2
+811,2025-04-20,Water Bottle,Lifestyle,South,3,18,0,Completed,54
+812,2025-10-01,Monitor Arm,Home Office,Scotland,2,79,0.1,Completed,142.2
+813,2025-04-15,Monitor Arm,Home Office,Wales,2,79,0,Completed,158
+814,2025-01-30,Wireless Mouse,Electronics,Scotland,2,24,0,Completed,48
+815,2025-01-27,Wireless Mouse,Electronics,North,4,24,0,Returned,96
+816,2025-02-27,Notebook,Stationery,Scotland,2,9,0.15,Completed,15.3
+817,2025-09-04,Desk Lamp,Home Office,Scotland,1,36,0,Completed,36
+818,2025-10-14,Laptop Stand,Accessories,Wales,5,28,0,Completed,140
+819,2025-04-03,Water Bottle,Lifestyle,North,3,18,0.1,Returned,48.6
+820,2025-06-02,Monitor Arm,Home Office,Wales,5,79,0.05,Completed,375.25
+821,2025-12-13,Wireless Mouse,Electronics,Midlands,1,24,0,Completed,24
+822,2025-07-11,Keyboard,Electronics,Scotland,1,55,0,Completed,55
+823,2025-08-21,USB-C Hub,Electronics,North,2,42,0,Completed,84
+824,2025-07-07,Wireless Mouse,Electronics,Wales,2,24,0.05,Completed,45.6
+825,2025-05-14,Desk Lamp,Home Office,Scotland,5,36,0.05,Completed,171.0
+826,2025-08-15,Keyboard,Electronics,Wales,4,55,0.05,Completed,209.0
+827,2025-06-03,Wireless Mouse,Electronics,South,3,24,0,Completed,72
+828,2025-04-24,Keyboard,Electronics,South,1,55,0,Completed,55
+829,2025-09-05,Wireless Mouse,Electronics,Midlands,2,24,0,Completed,48
+830,2025-12-02,Desk Lamp,Home Office,Wales,3,36,0,Completed,108
+831,2025-11-05,Laptop Stand,Accessories,Midlands,4,28,0.1,Completed,100.8
+832,2025-12-20,Water Bottle,Lifestyle,Scotland,4,18,0,Completed,72
+833,2025-01-03,Wireless Mouse,Electronics,Scotland,1,24,0,Completed,24
+834,2025-05-02,Monitor Arm,Home Office,North,1,79,0,Completed,79
+835,2025-09-17,Monitor Arm,Home Office,North,5,79,0,Completed,395
+836,2025-05-18,Water Bottle,Lifestyle,South,1,18,0,Completed,18
+837,2025-10-14,Keyboard,Electronics,North,3,55,0,Completed,165
+838,2025-04-16,Keyboard,Electronics,South,3,55,0,Completed,165
+839,2025-04-08,Water Bottle,Lifestyle,Wales,3,18,0.1,Completed,48.6
+840,2025-09-25,Desk Lamp,Home Office,Midlands,3,36,0,Completed,108
+841,2025-04-11,Wireless Mouse,Electronics,South,5,24,0.05,Cancelled,114.0
+842,2025-09-13,Keyboard,Electronics,North,5,55,0,Completed,275
+843,2025-08-28,Desk Lamp,Home Office,Wales,5,36,0.1,Completed,162.0
+844,2025-04-28,Water Bottle,Lifestyle,South,3,18,0.1,Completed,48.6
+845,2025-08-16,Notebook,Stationery,North,4,9,0.1,Completed,32.4
+846,2025-06-16,Water Bottle,Lifestyle,Midlands,2,18,0.15,Completed,30.6
+847,2025-10-27,Desk Lamp,Home Office,North,5,36,0.15,Completed,153.0
+848,2025-12-13,Desk Lamp,Home Office,South,5,36,0,Completed,180
+849,2025-08-27,Monitor Arm,Home Office,North,5,79,0.05,Completed,375.25
+850,2025-05-18,Wireless Mouse,Electronics,Wales,4,24,0.15,Completed,81.6
+851,2025-12-18,Desk Lamp,Home Office,Midlands,2,36,0,Completed,72
+852,2025-03-17,Keyboard,Electronics,Scotland,1,55,0,Completed,55
+853,2025-07-26,Water Bottle,Lifestyle,Wales,2,18,0,Cancelled,36
+854,2025-03-04,Notebook,Stationery,Midlands,4,9,0,Completed,36
+855,2025-01-13,Desk Lamp,Home Office,South,2,36,0,Completed,72
+856,2025-04-22,USB-C Hub,Electronics,Midlands,3,42,0,Completed,126
+857,2025-10-10,USB-C Hub,Electronics,North,2,42,0,Completed,84
+858,2025-11-05,Monitor Arm,Home Office,Midlands,4,79,0,Completed,316
+859,2025-05-09,Water Bottle,Lifestyle,Midlands,3,18,0.1,Returned,48.6
+860,2025-12-05,Desk Lamp,Home Office,South,2,36,0,Completed,72
+861,2025-04-25,Keyboard,Electronics,Wales,2,55,0,Completed,110
+862,2025-02-15,Notebook,Stationery,Scotland,1,9,0.05,Completed,8.55
+863,2025-10-23,Water Bottle,Lifestyle,Midlands,5,18,0.1,Completed,81.0
+864,2025-03-22,Desk Lamp,Home Office,South,3,36,0,Completed,108
+865,2025-10-03,Monitor Arm,Home Office,Wales,1,79,0.05,Completed,75.05
+866,2025-03-12,Monitor Arm,Home Office,Wales,3,79,0,Returned,237
+867,2025-09-12,Wireless Mouse,Electronics,Scotland,4,24,0,Cancelled,96
+868,2025-10-31,Monitor Arm,Home Office,Scotland,2,79,0.15,Cancelled,134.3
+869,2025-11-14,Desk Lamp,Home Office,Midlands,1,36,0,Returned,36
+870,2025-02-18,Laptop Stand,Accessories,North,5,28,0,Completed,140
+871,2025-06-22,Wireless Mouse,Electronics,North,4,24,0.15,Completed,81.6
+872,2025-05-17,Laptop Stand,Accessories,Wales,5,28,0,Completed,140
+873,2025-01-22,Wireless Mouse,Electronics,Wales,1,24,0.1,Completed,21.6
+874,2025-08-05,Water Bottle,Lifestyle,Wales,5,18,0,Cancelled,90
+875,2025-03-20,Keyboard,Electronics,South,5,55,0,Completed,275
+876,2025-04-23,Laptop Stand,Accessories,Wales,4,28,0,Completed,112
+877,2025-03-20,USB-C Hub,Electronics,South,5,42,0,Returned,210
+878,2025-04-14,Notebook,Stationery,Wales,4,9,0.15,Completed,30.6
+879,2025-05-14,Wireless Mouse,Electronics,North,3,24,0,Completed,72
+880,2025-10-28,Water Bottle,Lifestyle,North,3,18,0.1,Completed,48.6
+881,2025-08-12,Monitor Arm,Home Office,Midlands,5,79,0,Completed,395
+882,2025-09-18,Laptop Stand,Accessories,North,2,28,0,Completed,56
+883,2025-06-09,Water Bottle,Lifestyle,Scotland,2,18,0,Completed,36
+884,2025-08-03,Notebook,Stationery,Scotland,2,9,0,Completed,18
+885,2025-03-24,Desk Lamp,Home Office,Midlands,4,36,0.05,Completed,136.8
+886,2025-11-23,Water Bottle,Lifestyle,Scotland,1,18,0,Completed,18
+887,2025-09-29,Desk Lamp,Home Office,Scotland,3,36,0,Completed,108
+888,2025-01-03,Water Bottle,Lifestyle,Wales,5,18,0.1,Completed,81.0
+889,2025-12-25,Desk Lamp,Home Office,North,2,36,0,Cancelled,72
+890,2025-10-30,USB-C Hub,Electronics,Scotland,2,42,0,Completed,84
+891,2025-09-28,Keyboard,Electronics,South,4,55,0,Completed,220
+892,2025-02-06,Desk Lamp,Home Office,North,3,36,0,Completed,108
+893,2025-11-07,USB-C Hub,Electronics,North,2,42,0,Cancelled,84
+894,2025-06-04,Monitor Arm,Home Office,Wales,3,79,0.15,Returned,201.45
+895,2025-03-30,Keyboard,Electronics,South,3,55,0,Completed,165
+896,2025-06-26,Water Bottle,Lifestyle,Midlands,1,18,0.15,Completed,15.3
+897,2025-11-10,Desk Lamp,Home Office,South,4,36,0,Completed,144
+898,2025-08-24,Keyboard,Electronics,Midlands,2,55,0.1,Cancelled,99.0
+899,2025-01-29,Keyboard,Electronics,Scotland,4,55,0.15,Completed,187.0
+900,2025-01-14,USB-C Hub,Electronics,Wales,5,42,0.1,Completed,189.0
+901,2025-04-26,Monitor Arm,Home Office,Midlands,3,79,0.15,Completed,201.45
+902,2025-11-21,Keyboard,Electronics,Scotland,1,55,0,Completed,55
+903,2025-04-01,Monitor Arm,Home Office,South,2,79,0,Completed,158
+904,2025-05-22,Monitor Arm,Home Office,South,1,79,0,Completed,79
+905,2025-08-12,Monitor Arm,Home Office,Midlands,3,79,0.05,Completed,225.15
+906,2025-02-12,Monitor Arm,Home Office,Wales,3,79,0,Completed,237
+907,2025-01-11,Desk Lamp,Home Office,Wales,3,36,0,Completed,108
+908,2025-06-10,Laptop Stand,Accessories,Scotland,4,28,0,Completed,112
+909,2025-01-06,Laptop Stand,Accessories,Scotland,2,28,0.1,Completed,50.4
+910,2025-12-17,Monitor Arm,Home Office,Scotland,4,79,0.05,Completed,300.2
+911,2025-08-06,USB-C Hub,Electronics,Scotland,2,42,0,Cancelled,84
+912,2025-06-01,Wireless Mouse,Electronics,North,2,24,0,Returned,48
+913,2025-05-20,Water Bottle,Lifestyle,Scotland,4,18,0,Completed,72
+914,2025-03-28,Keyboard,Electronics,North,4,55,0,Completed,220
+915,2025-07-07,Wireless Mouse,Electronics,Midlands,5,24,0,Completed,120
+916,2025-12-24,Monitor Arm,Home Office,Midlands,5,79,0.1,Completed,355.5
+917,2025-07-08,Laptop Stand,Accessories,Scotland,5,28,0.15,Completed,119.0
+918,2025-05-20,Laptop Stand,Accessories,North,5,28,0.1,Completed,126.0
+919,2025-02-09,Water Bottle,Lifestyle,Midlands,5,18,0,Completed,90
+920,2025-01-10,Monitor Arm,Home Office,South,3,79,0.15,Completed,201.45
+921,2025-06-01,Laptop Stand,Accessories,Scotland,3,28,0.15,Completed,71.4
+922,2025-08-29,Monitor Arm,Home Office,South,2,79,0,Completed,158
+923,2025-08-30,Desk Lamp,Home Office,Midlands,4,36,0.15,Completed,122.4
+924,2025-10-24,Wireless Mouse,Electronics,Midlands,1,24,0.05,Completed,22.8
+925,2025-03-30,Notebook,Stationery,North,3,9,0.05,Completed,25.65
+926,2025-03-04,Laptop Stand,Accessories,Wales,2,28,0,Completed,56
+927,2025-01-09,Water Bottle,Lifestyle,South,2,18,0.05,Cancelled,34.2
+928,2025-09-20,Keyboard,Electronics,Midlands,2,55,0.15,Completed,93.5
+929,2025-02-05,Desk Lamp,Home Office,Scotland,2,36,0,Returned,72
+930,2025-03-13,Desk Lamp,Home Office,South,2,36,0.15,Completed,61.2
+931,2025-06-25,Monitor Arm,Home Office,Midlands,1,79,0,Completed,79
+932,2025-08-29,Keyboard,Electronics,Scotland,5,55,0,Completed,275
+933,2025-06-19,Laptop Stand,Accessories,North,5,28,0.1,Completed,126.0
+934,2025-09-19,Monitor Arm,Home Office,Wales,5,79,0,Completed,395
+935,2025-07-07,USB-C Hub,Electronics,North,1,42,0,Completed,42
+936,2025-12-20,Water Bottle,Lifestyle,Midlands,4,18,0.1,Completed,64.8
+937,2025-03-30,Wireless Mouse,Electronics,Midlands,5,24,0,Completed,120
+938,2025-05-30,Keyboard,Electronics,Wales,1,55,0,Completed,55
+939,2025-04-21,Laptop Stand,Accessories,Wales,1,28,0.05,Completed,26.6
+940,2025-09-29,Keyboard,Electronics,Wales,5,55,0,Completed,275
+941,2025-07-21,Water Bottle,Lifestyle,North,3,18,0,Completed,54
+942,2025-09-01,Laptop Stand,Accessories,Scotland,4,28,0,Completed,112
+943,2025-12-25,Desk Lamp,Home Office,Midlands,1,36,0.15,Completed,30.6
+944,2025-12-11,Notebook,Stationery,North,4,9,0,Completed,36
+945,2025-01-11,Laptop Stand,Accessories,Wales,2,28,0.05,Completed,53.2
+946,2025-04-07,Notebook,Stationery,Scotland,3,9,0.15,Completed,22.95
+947,2025-01-05,Wireless Mouse,Electronics,South,3,24,0.15,Completed,61.2
+948,2025-05-23,Laptop Stand,Accessories,Wales,1,28,0.1,Completed,25.2
+949,2025-03-12,USB-C Hub,Electronics,North,3,42,0,Completed,126
+950,2025-06-01,USB-C Hub,Electronics,South,1,42,0,Completed,42
+951,2025-07-01,Laptop Stand,Accessories,Midlands,4,28,0.15,Completed,95.2
+952,2025-01-21,Monitor Arm,Home Office,North,3,79,0.1,Completed,213.3
+953,2025-07-01,Notebook,Stationery,Wales,1,9,0,Completed,9
+954,2025-08-02,Keyboard,Electronics,Wales,5,55,0,Returned,275
+955,2025-01-28,USB-C Hub,Electronics,South,2,42,0,Completed,84
+956,2025-04-06,Notebook,Stationery,North,3,9,0.15,Completed,22.95
+957,2025-06-10,Monitor Arm,Home Office,Wales,3,79,0,Returned,237
+958,2025-04-06,Desk Lamp,Home Office,Wales,4,36,0.05,Completed,136.8
+959,2025-05-13,Monitor Arm,Home Office,Scotland,2,79,0,Completed,158
+960,2025-12-20,Monitor Arm,Home Office,Wales,3,79,0,Completed,237
+961,2025-03-11,Keyboard,Electronics,Midlands,2,55,0.05,Returned,104.5
+962,2025-03-03,Wireless Mouse,Electronics,Midlands,1,24,0,Completed,24
+963,2025-07-04,Notebook,Stationery,Midlands,1,9,0.15,Completed,7.65
+964,2025-06-18,Monitor Arm,Home Office,Wales,3,79,0.15,Cancelled,201.45
+965,2025-05-14,Water Bottle,Lifestyle,Scotland,5,18,0.15,Returned,76.5
+966,2025-05-09,Desk Lamp,Home Office,Scotland,2,36,0.15,Completed,61.2
+967,2025-03-29,Monitor Arm,Home Office,Midlands,5,79,0,Returned,395
+968,2025-01-21,Wireless Mouse,Electronics,North,2,24,0,Returned,48
+969,2025-03-12,USB-C Hub,Electronics,Scotland,1,42,0,Completed,42
+970,2025-09-28,Monitor Arm,Home Office,Scotland,3,79,0,Completed,237
+971,2025-05-28,Water Bottle,Lifestyle,North,4,18,0.1,Completed,64.8
+972,2025-01-26,Laptop Stand,Accessories,Scotland,2,28,0,Completed,56
+973,2025-08-30,Water Bottle,Lifestyle,North,4,18,0.1,Completed,64.8
+974,2025-01-14,Keyboard,Electronics,North,4,55,0,Completed,220
+975,2025-07-03,Monitor Arm,Home Office,Midlands,3,79,0.15,Returned,201.45
+976,2025-03-27,Desk Lamp,Home Office,North,4,36,0.15,Completed,122.4
+977,2025-01-04,Water Bottle,Lifestyle,Scotland,3,18,0.15,Completed,45.9
+978,2025-01-17,Water Bottle,Lifestyle,North,5,18,0,Returned,90
+979,2025-07-11,Wireless Mouse,Electronics,South,3,24,0.15,Returned,61.2
+980,2025-02-02,Notebook,Stationery,Scotland,1,9,0.1,Completed,8.1
+981,2025-09-21,Water Bottle,Lifestyle,Midlands,2,18,0.05,Completed,34.2
+982,2025-12-09,Desk Lamp,Home Office,Scotland,5,36,0.1,Completed,162.0
+983,2025-11-15,Desk Lamp,Home Office,North,3,36,0,Completed,108
+984,2025-04-28,Monitor Arm,Home Office,Scotland,4,79,0.15,Completed,268.6
+985,2025-04-28,USB-C Hub,Electronics,South,1,42,0.15,Completed,35.7
+986,2025-10-08,Water Bottle,Lifestyle,Midlands,1,18,0,Completed,18
+987,2025-03-18,Laptop Stand,Accessories,Wales,5,28,0,Completed,140
+988,2025-09-23,Monitor Arm,Home Office,Midlands,3,79,0,Cancelled,237
+989,2025-05-31,Water Bottle,Lifestyle,North,3,18,0,Completed,54
+990,2025-02-25,Laptop Stand,Accessories,South,5,28,0,Completed,140
+991,2025-03-09,Water Bottle,Lifestyle,South,5,18,0,Completed,90
+992,2025-12-23,Wireless Mouse,Electronics,South,2,24,0.05,Completed,45.6
+993,2025-11-02,USB-C Hub,Electronics,Scotland,1,42,0.05,Completed,39.9
+994,2025-05-27,Wireless Mouse,Electronics,Midlands,1,24,0,Completed,24
+995,2025-08-20,USB-C Hub,Electronics,South,3,42,0,Completed,126
+996,2025-08-04,Wireless Mouse,Electronics,Scotland,3,24,0,Completed,72
+997,2025-09-22,Notebook,Stationery,Midlands,5,9,0.1,Completed,40.5
+998,2025-05-17,Laptop Stand,Accessories,Scotland,5,28,0.05,Completed,133.0
+999,2025-02-02,Wireless Mouse,Electronics,Midlands,2,24,0.1,Cancelled,43.2
+1000,2025-05-02,Keyboard,Electronics,Scotland,2,55,0.05,Completed,104.5
+1001,2025-12-13,Water Bottle,Lifestyle,Scotland,2,18,0,Completed,36
+1002,2025-07-30,Water Bottle,Lifestyle,South,1,18,0.15,Completed,15.3
+1003,2025-06-26,Keyboard,Electronics,Midlands,3,55,0,Completed,165
+1004,2025-12-20,USB-C Hub,Electronics,South,4,42,0.1,Completed,151.2
+1005,2025-07-09,Desk Lamp,Home Office,South,1,36,0.15,Completed,30.6
+1006,2025-05-23,Monitor Arm,Home Office,Wales,3,79,0.05,Completed,225.15
+1007,2025-05-19,Notebook,Stationery,Midlands,2,9,0,Completed,18
+1008,2025-12-30,USB-C Hub,Electronics,North,3,42,0.05,Completed,119.7
+1009,2025-10-30,Monitor Arm,Home Office,Scotland,4,79,0.15,Completed,268.6
+1010,2025-02-11,Monitor Arm,Home Office,Midlands,1,79,0,Completed,79
+1011,2025-02-24,Water Bottle,Lifestyle,Midlands,4,18,0.15,Returned,61.2
+1012,2025-02-01,Notebook,Stationery,Scotland,4,9,0,Completed,36
+1013,2025-05-13,Monitor Arm,Home Office,North,3,79,0,Completed,237
+1014,2025-07-29,Desk Lamp,Home Office,Wales,3,36,0,Completed,108
+1015,2025-03-01,Keyboard,Electronics,Scotland,2,55,0,Completed,110
+1016,2025-09-05,USB-C Hub,Electronics,North,1,42,0.05,Completed,39.9
+1017,2025-10-15,Desk Lamp,Home Office,Midlands,5,36,0.05,Completed,171.0
+1018,2025-09-25,Wireless Mouse,Electronics,Scotland,4,24,0.15,Completed,81.6
+1019,2025-05-17,Laptop Stand,Accessories,Scotland,5,28,0,Completed,140
+1020,2025-12-31,USB-C Hub,Electronics,Scotland,4,42,0,Completed,168
+1021,2025-05-25,Monitor Arm,Home Office,Wales,4,79,0.1,Completed,284.4
+1022,2025-09-03,Water Bottle,Lifestyle,Wales,3,18,0,Completed,54
+1023,2025-04-30,Wireless Mouse,Electronics,Wales,2,24,0.05,Completed,45.6
+1024,2025-08-24,Notebook,Stationery,Midlands,4,9,0.15,Completed,30.6
+1025,2025-12-06,Notebook,Stationery,Wales,2,9,0.15,Completed,15.3
+1026,2025-11-06,Keyboard,Electronics,Wales,4,55,0.05,Completed,209.0
+1027,2025-01-11,Desk Lamp,Home Office,South,1,36,0.15,Completed,30.6
+1028,2025-02-20,Laptop Stand,Accessories,Scotland,4,28,0.1,Completed,100.8
+1029,2025-07-16,Keyboard,Electronics,South,1,55,0.1,Returned,49.5
+1030,2025-12-12,Notebook,Stationery,North,1,9,0,Completed,9
+1031,2025-01-29,Keyboard,Electronics,North,2,55,0,Completed,110
+1032,2025-07-01,Notebook,Stationery,Wales,4,9,0,Completed,36
+1033,2025-05-31,Wireless Mouse,Electronics,Wales,1,24,0,Completed,24
+1034,2025-09-24,Laptop Stand,Accessories,North,2,28,0,Completed,56
+1035,2025-06-28,Notebook,Stationery,Midlands,1,9,0.1,Completed,8.1
+1036,2025-07-03,USB-C Hub,Electronics,Scotland,5,42,0,Completed,210
+1037,2025-04-15,Laptop Stand,Accessories,Midlands,2,28,0,Completed,56
+1038,2025-09-25,Laptop Stand,Accessories,Midlands,2,28,0.1,Completed,50.4
+1039,2025-01-11,USB-C Hub,Electronics,South,2,42,0,Completed,84
+1040,2025-10-04,Notebook,Stationery,Wales,1,9,0,Completed,9
+1041,2025-11-06,Water Bottle,Lifestyle,North,2,18,0.05,Completed,34.2
+1042,2025-03-17,Water Bottle,Lifestyle,North,1,18,0.15,Completed,15.3
+1043,2025-09-30,USB-C Hub,Electronics,Midlands,4,42,0.15,Completed,142.8
+1044,2025-05-14,Laptop Stand,Accessories,Scotland,1,28,0.15,Returned,23.8
+1045,2025-11-24,Water Bottle,Lifestyle,Wales,1,18,0.1,Completed,16.2
+1046,2025-02-03,Water Bottle,Lifestyle,Midlands,2,18,0.05,Completed,34.2
+1047,2025-09-20,Keyboard,Electronics,Wales,3,55,0.1,Completed,148.5
+1048,2025-01-17,USB-C Hub,Electronics,Midlands,2,42,0.1,Completed,75.6
+1049,2025-06-19,Monitor Arm,Home Office,North,1,79,0.15,Returned,67.15
+1050,2025-07-25,Water Bottle,Lifestyle,Midlands,3,18,0,Completed,54
+1051,2025-11-15,USB-C Hub,Electronics,Wales,3,42,0,Completed,126
+1052,2025-05-06,USB-C Hub,Electronics,North,5,42,0,Completed,210
+1053,2025-12-05,Laptop Stand,Accessories,North,5,28,0,Completed,140
+1054,2025-12-19,USB-C Hub,Electronics,Scotland,2,42,0.15,Completed,71.4
+1055,2025-05-28,Water Bottle,Lifestyle,Scotland,4,18,0.05,Completed,68.4
+1056,2025-08-14,Notebook,Stationery,Scotland,4,9,0,Completed,36
+1057,2025-05-29,Desk Lamp,Home Office,Wales,5,36,0.1,Completed,162.0
+1058,2025-04-08,Keyboard,Electronics,North,5,55,0,Completed,275
+1059,2025-04-23,Notebook,Stationery,Scotland,1,9,0,Completed,9
+1060,2025-06-02,Wireless Mouse,Electronics,Wales,5,24,0,Completed,120
+1061,2025-04-13,Laptop Stand,Accessories,North,1,28,0.15,Completed,23.8
+1062,2025-04-06,Wireless Mouse,Electronics,Scotland,5,24,0,Completed,120
+1063,2025-10-18,USB-C Hub,Electronics,North,3,42,0,Completed,126
+1064,2025-01-18,Wireless Mouse,Electronics,Midlands,4,24,0,Completed,96
+1065,2025-07-12,Monitor Arm,Home Office,Scotland,1,79,0.15,Completed,67.15
+1066,2025-07-02,USB-C Hub,Electronics,Midlands,5,42,0,Completed,210
+1067,2025-10-03,USB-C Hub,Electronics,North,1,42,0,Completed,42
+1068,2025-04-03,USB-C Hub,Electronics,Wales,1,42,0,Completed,42
+1069,2025-04-23,Keyboard,Electronics,North,1,55,0,Completed,55
+1070,2025-01-13,Desk Lamp,Home Office,Wales,4,36,0.05,Completed,136.8
+1071,2025-05-22,Desk Lamp,Home Office,North,3,36,0.1,Completed,97.2
+1072,2025-05-07,Water Bottle,Lifestyle,South,1,18,0,Completed,18
+1073,2025-03-18,Keyboard,Electronics,Midlands,5,55,0.15,Completed,233.75
+1074,2025-01-10,Water Bottle,Lifestyle,South,4,18,0.05,Completed,68.4
+1075,2025-03-09,Monitor Arm,Home Office,Midlands,3,79,0.05,Cancelled,225.15
+1076,2025-03-25,Notebook,Stationery,Midlands,5,9,0,Returned,45
+1077,2025-11-26,Monitor Arm,Home Office,North,5,79,0,Completed,395
+1078,2025-11-24,Desk Lamp,Home Office,South,5,36,0,Returned,180
+1079,2025-03-19,Monitor Arm,Home Office,Wales,1,79,0,Completed,79
+1080,2025-03-21,Laptop Stand,Accessories,Scotland,5,28,0,Completed,140
+1081,2025-05-08,USB-C Hub,Electronics,Wales,5,42,0.05,Cancelled,199.5
+1082,2025-01-19,Laptop Stand,Accessories,South,1,28,0,Completed,28
+1083,2025-12-24,Monitor Arm,Home Office,Scotland,5,79,0,Cancelled,395
+1084,2025-01-31,Laptop Stand,Accessories,North,4,28,0,Completed,112
+1085,2025-10-23,Laptop Stand,Accessories,Scotland,1,28,0.15,Cancelled,23.8
+1086,2025-04-01,Notebook,Stationery,Scotland,5,9,0.05,Returned,42.75
+1087,2025-02-10,Laptop Stand,Accessories,Scotland,1,28,0,Completed,28
+1088,2025-11-22,USB-C Hub,Electronics,Wales,2,42,0,Completed,84
+1089,2025-10-19,USB-C Hub,Electronics,North,2,42,0,Completed,84
+1090,2025-08-04,Laptop Stand,Accessories,Scotland,4,28,0,Completed,112
+1091,2025-09-18,Desk Lamp,Home Office,South,3,36,0,Returned,108
+1092,2025-11-10,Laptop Stand,Accessories,Wales,3,28,0,Completed,84
+1093,2025-10-05,USB-C Hub,Electronics,Midlands,3,42,0,Completed,126
+1094,2025-06-02,Wireless Mouse,Electronics,South,3,24,0.05,Completed,68.4
+1095,2025-09-24,Monitor Arm,Home Office,South,5,79,0.1,Completed,355.5
+1096,2025-04-28,Keyboard,Electronics,North,4,55,0,Completed,220
+1097,2025-12-10,Keyboard,Electronics,South,2,55,0.1,Completed,99.0
+1098,2025-11-22,Laptop Stand,Accessories,Wales,3,28,0.1,Completed,75.6
+1099,2025-10-01,USB-C Hub,Electronics,South,2,42,0.15,Completed,71.4
+1100,2025-08-14,Keyboard,Electronics,Scotland,4,55,0.05,Completed,209.0
+1101,2025-11-13,Water Bottle,Lifestyle,Wales,2,18,0,Completed,36
+1102,2025-02-20,Laptop Stand,Accessories,South,5,28,0,Completed,140
+1103,2025-02-09,Monitor Arm,Home Office,North,3,79,0,Completed,237
+1104,2025-09-23,Monitor Arm,Home Office,Wales,1,79,0.1,Completed,71.1
+1105,2025-08-15,Notebook,Stationery,North,5,9,0.05,Completed,42.75
+1106,2025-02-14,Monitor Arm,Home Office,Midlands,2,79,0,Completed,158
+1107,2025-10-08,Wireless Mouse,Electronics,Wales,5,24,0,Completed,120
+1108,2025-08-09,USB-C Hub,Electronics,Midlands,2,42,0.1,Completed,75.6
+1109,2025-08-13,Desk Lamp,Home Office,Midlands,4,36,0,Returned,144
+1110,2025-05-26,Wireless Mouse,Electronics,Midlands,1,24,0,Completed,24
+1111,2025-10-03,Monitor Arm,Home Office,Scotland,5,79,0,Completed,395
+1112,2025-05-20,Laptop Stand,Accessories,South,2,28,0.15,Completed,47.6
+1113,2025-12-29,USB-C Hub,Electronics,South,2,42,0.1,Completed,75.6
+1114,2025-05-06,Keyboard,Electronics,South,4,55,0.05,Completed,209.0
+1115,2025-04-05,Wireless Mouse,Electronics,South,5,24,0.05,Completed,114.0
+1116,2025-06-21,USB-C Hub,Electronics,North,2,42,0.05,Completed,79.8
+1117,2025-10-23,Water Bottle,Lifestyle,Wales,5,18,0,Cancelled,90
+1118,2025-12-13,Laptop Stand,Accessories,Midlands,3,28,0,Returned,84
+1119,2025-02-05,Keyboard,Electronics,North,3,55,0,Completed,165
+1120,2025-10-27,Notebook,Stationery,South,1,9,0.05,Completed,8.55
+1121,2025-03-03,USB-C Hub,Electronics,Wales,2,42,0.05,Completed,79.8
+1122,2025-08-07,Laptop Stand,Accessories,North,5,28,0.1,Completed,126.0
+1123,2025-10-25,Wireless Mouse,Electronics,North,3,24,0,Completed,72
+1124,2025-05-28,Keyboard,Electronics,South,5,55,0,Completed,275
+1125,2025-07-13,USB-C Hub,Electronics,Scotland,3,42,0.1,Completed,113.4
+1126,2025-08-13,Desk Lamp,Home Office,Wales,5,36,0.1,Completed,162.0
+1127,2025-01-03,Water Bottle,Lifestyle,Midlands,4,18,0,Completed,72
+1128,2025-06-02,Water Bottle,Lifestyle,Scotland,5,18,0.05,Completed,85.5
+1129,2025-01-19,Keyboard,Electronics,South,2,55,0,Cancelled,110
+1130,2025-10-23,Desk Lamp,Home Office,North,2,36,0.1,Completed,64.8
+1131,2025-05-18,Desk Lamp,Home Office,South,4,36,0.05,Completed,136.8
+1132,2025-09-28,Keyboard,Electronics,Midlands,5,55,0,Cancelled,275
+1133,2025-03-10,Notebook,Stationery,Midlands,1,9,0.15,Completed,7.65
+1134,2025-10-27,Desk Lamp,Home Office,Wales,2,36,0.05,Completed,68.4
+1135,2025-05-24,Keyboard,Electronics,North,5,55,0.05,Completed,261.25
+1136,2025-10-02,Water Bottle,Lifestyle,South,1,18,0,Completed,18
+1137,2025-09-07,Monitor Arm,Home Office,North,2,79,0,Completed,158
+1138,2025-09-29,Water Bottle,Lifestyle,Scotland,2,18,0,Cancelled,36
+1139,2025-09-05,Notebook,Stationery,North,1,9,0.05,Completed,8.55
+1140,2025-04-09,Water Bottle,Lifestyle,Midlands,4,18,0,Completed,72
+1141,2025-09-26,Monitor Arm,Home Office,Midlands,4,79,0.15,Completed,268.6
+1142,2025-06-15,Laptop Stand,Accessories,Wales,5,28,0,Completed,140
+1143,2025-06-03,Keyboard,Electronics,Midlands,5,55,0.05,Completed,261.25
+1144,2025-07-18,Wireless Mouse,Electronics,Scotland,3,24,0,Completed,72
+1145,2025-10-12,Notebook,Stationery,Wales,3,9,0.15,Completed,22.95
+1146,2025-01-16,Water Bottle,Lifestyle,Midlands,5,18,0.15,Completed,76.5
+1147,2025-12-19,Water Bottle,Lifestyle,South,5,18,0,Completed,90
+1148,2025-04-04,Wireless Mouse,Electronics,Scotland,4,24,0,Completed,96
+1149,2025-12-26,Monitor Arm,Home Office,North,3,79,0.1,Returned,213.3
+1150,2025-06-14,Laptop Stand,Accessories,Wales,5,28,0,Completed,140
+1151,2025-12-06,Keyboard,Electronics,Scotland,4,55,0,Completed,220
+1152,2025-11-07,Desk Lamp,Home Office,Wales,4,36,0,Completed,144
+1153,2025-04-04,Desk Lamp,Home Office,Wales,1,36,0,Completed,36
+1154,2025-03-25,USB-C Hub,Electronics,Wales,4,42,0.05,Returned,159.6
+1155,2025-08-01,Desk Lamp,Home Office,Midlands,1,36,0,Completed,36
+1156,2025-01-02,Desk Lamp,Home Office,South,3,36,0.05,Completed,102.6
+1157,2025-04-27,Laptop Stand,Accessories,South,5,28,0.1,Completed,126.0
+1158,2025-02-15,Keyboard,Electronics,Scotland,4,55,0.05,Completed,209.0
+1159,2025-11-10,Keyboard,Electronics,North,4,55,0,Cancelled,220
+1160,2025-06-09,Keyboard,Electronics,South,3,55,0.05,Completed,156.75
+1161,2025-08-31,Monitor Arm,Home Office,South,1,79,0,Completed,79
+1162,2025-06-12,Desk Lamp,Home Office,Wales,2,36,0.15,Completed,61.2
+1163,2025-10-06,Desk Lamp,Home Office,Scotland,2,36,0.05,Returned,68.4
+1164,2025-05-15,Wireless Mouse,Electronics,Midlands,4,24,0,Completed,96
+1165,2025-10-28,Notebook,Stationery,Wales,1,9,0,Completed,9
+1166,2025-04-13,Desk Lamp,Home Office,Wales,3,36,0,Completed,108
+1167,2025-06-01,Laptop Stand,Accessories,Scotland,1,28,0,Completed,28
+1168,2025-12-12,Water Bottle,Lifestyle,North,2,18,0.05,Completed,34.2
+1169,2025-10-25,Water Bottle,Lifestyle,Scotland,2,18,0.1,Returned,32.4
+1170,2025-11-03,Keyboard,Electronics,North,2,55,0.1,Completed,99.0
+1171,2025-08-20,Monitor Arm,Home Office,North,5,79,0.05,Completed,375.25
+1172,2025-05-04,Monitor Arm,Home Office,Scotland,1,79,0,Completed,79
+1173,2025-06-15,Laptop Stand,Accessories,North,5,28,0.05,Completed,133.0
+1174,2025-07-14,Notebook,Stationery,Midlands,4,9,0.1,Completed,32.4
+1175,2025-05-09,Keyboard,Electronics,Wales,1,55,0.05,Completed,52.25
+1176,2025-09-21,Monitor Arm,Home Office,Wales,1,79,0,Completed,79
+1177,2025-12-10,Wireless Mouse,Electronics,North,3,24,0,Completed,72
+1178,2025-05-09,Desk Lamp,Home Office,South,4,36,0,Completed,144
+1179,2025-05-27,Laptop Stand,Accessories,South,2,28,0,Completed,56
+1180,2025-02-06,Keyboard,Electronics,North,3,55,0.1,Completed,148.5
+1181,2025-09-03,Laptop Stand,Accessories,South,1,28,0,Completed,28
+1182,2025-06-22,Notebook,Stationery,North,2,9,0.15,Completed,15.3
+1183,2025-09-09,Wireless Mouse,Electronics,South,2,24,0.1,Completed,43.2
+1184,2025-01-05,Desk Lamp,Home Office,North,4,36,0.1,Completed,129.6
+1185,2025-11-14,Water Bottle,Lifestyle,Wales,4,18,0,Completed,72
+1186,2025-11-06,USB-C Hub,Electronics,North,4,42,0.05,Completed,159.6
+1187,2025-03-10,Desk Lamp,Home Office,Scotland,5,36,0.1,Cancelled,162.0
+1188,2025-04-18,Keyboard,Electronics,Midlands,2,55,0.1,Cancelled,99.0
+1189,2025-01-05,Water Bottle,Lifestyle,North,4,18,0,Completed,72
+1190,2025-06-14,Water Bottle,Lifestyle,Wales,1,18,0,Completed,18
+1191,2025-07-16,Water Bottle,Lifestyle,North,4,18,0.05,Completed,68.4
+1192,2025-09-18,Water Bottle,Lifestyle,Midlands,2,18,0,Completed,36
+1193,2025-11-14,Keyboard,Electronics,North,2,55,0,Completed,110
+1194,2025-06-13,Keyboard,Electronics,Scotland,2,55,0,Returned,110
+1195,2025-05-03,Water Bottle,Lifestyle,Scotland,2,18,0,Completed,36
+1196,2025-04-02,Notebook,Stationery,Wales,2,9,0,Completed,18
+1197,2025-01-27,Desk Lamp,Home Office,Midlands,1,36,0.05,Completed,34.2
+1198,2025-10-30,Laptop Stand,Accessories,Scotland,2,28,0.1,Completed,50.4
+1199,2025-08-31,Keyboard,Electronics,Scotland,2,55,0,Completed,110
+1200,2025-01-12,Keyboard,Electronics,Midlands,2,55,0.1,Completed,99.0
