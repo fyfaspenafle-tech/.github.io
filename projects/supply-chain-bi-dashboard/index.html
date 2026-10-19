@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Interactive supply chain business intelligence dashboard built from synthetic shipment data.">
+  <title>Supply Chain BI Dashboard | Latifa Bey</title>
+  <style>
+    :root { --navy:#10233f; --blue:#2563eb; --paper:#f3f6fb; --ink:#253247; --muted:#59697e; --line:#e0e8f2; }
+    * { box-sizing: border-box; }
+    body { margin:0; background:var(--paper); color:var(--ink); font: 16px/1.55 system-ui,-apple-system,Segoe UI,sans-serif; }
+    header { background:var(--navy); color:white; padding:30px max(18px,calc((100vw - 1050px)/2)); }
+    header a { color:#c9ddff; text-decoration:none; }
+    h1 { margin:12px 0 4px; font-size:clamp(1.7rem,4vw,2.5rem); }
+    header p { margin:0; color:#dbe5f4; }
+    main { max-width:1090px; margin:auto; padding:25px 18px 60px; }
+    .note { border-left:4px solid var(--blue); padding:12px 16px; background:#e9f0fd; border-radius:4px; margin-bottom:18px; }
+    .filters { background:white; padding:16px 20px; border-radius:12px; display:flex; flex-wrap:wrap; gap:16px; align-items:end; border:1px solid var(--line); }
+    label { display:grid; gap:4px; color:var(--muted); font-size:.88rem; font-weight:650; }
+    select { font:inherit; min-width:190px; border:1px solid #abbacd; padding:8px 11px; border-radius:7px; background:white; color:var(--ink); }
+    .kpis { display:grid; grid-template-columns:repeat(auto-fit,minmax(185px,1fr)); gap:16px; margin:20px 0; }
+    .card { background:white; border:1px solid var(--line); border-radius:12px; padding:20px; box-shadow:0 3px 12px rgba(0,0,0,.035); }
+    .kpi-label { color:var(--muted); font-size:.9rem; }
+    .kpi-num { font-size:clamp(1.5rem,3vw,2.1rem); font-weight:750; color:var(--navy); margin-top:6px; font-variant-numeric:tabular-nums; }
+    .charts { display:grid; grid-template-columns: 1.25fr 1fr; gap:18px; }
+    h2 { font-size:1.1rem; color:var(--navy); margin:0 0 12px; }
+    .subtle { font-size:.82rem; color:var(--muted); margin:0 0 10px; }
+    svg { display:block; width:100%; height:auto; overflow:visible; }
+    .barrow { display:grid; grid-template-columns:100px minmax(100px,1fr) 54px; align-items:center; gap:10px; margin:14px 0; font-size:.84rem; }
+    .track { height:17px; background:#ecf2fc; border-radius:5px; overflow:hidden; }
+    .fill { background:#2563eb; height:100%; border-radius:5px; }
+    .metrics-table { width:100%; border-collapse:collapse; font-size:.88rem; }
+    .metrics-table th,.metrics-table td { padding:10px 8px; border-bottom:1px solid var(--line); text-align:right; }
+    .metrics-table th:first-child,.metrics-table td:first-child { text-align:left; }
+    .tablewrap { overflow-x:auto; }
+    .method { margin-top:20px; }
+    a.link { color:var(--blue); font-weight:650; }
+    .pill { font-size:.8rem; background:#e5efff; color:#123c7f; padding:3px 9px; border-radius:20px; display:inline-block; margin-right:6px; }
+    @media(max-width:720px){.charts{grid-template-columns:1fr}.barrow{grid-template-columns:88px minmax(100px,1fr) 48px}.filters{align-items:stretch} select{width:100%} }
+  </style>
+  <script src="data.js" defer></script>
+  <script src="dashboard.js" defer></script>
+</head>
+<body>
+<header>
+  <a href="../../">&larr; Back to portfolio</a>
+  <h1>Supply Chain BI Dashboard</h1>
+  <p>Project 3 · Interactive reporting · JavaScript, Python and CSV</p>
+</header>
+<main>
+  <div class="note"><strong>Portfolio demonstration:</strong> All 1,800 shipment records are synthetic. This is an interactive browser dashboard, not a published Power BI report.</div>
+  <div class="filters" aria-label="Dashboard filters">
+    <label for="warehouse">Warehouse
+      <select id="warehouse"><option value="all">All warehouses</option></select>
+    </label>
+    <label for="category">Product category
+      <select id="category"><option value="all">All categories</option></select>
+    </label>
+    <span class="pill">2025 shipment data</span>
+  </div>
+  <div class="kpis" aria-live="polite">
+    <div class="card"><div class="kpi-label">Shipments</div><div class="kpi-num" id="shipments">—</div></div>
+    <div class="card"><div class="kpi-label">On-time delivery rate</div><div class="kpi-num" id="ontime">—</div></div>
+    <div class="card"><div class="kpi-label">Stockout incident rate</div><div class="kpi-num" id="stockout">—</div></div>
+    <div class="card"><div class="kpi-label">Average shipping cost</div><div class="kpi-num" id="cost">—</div></div>
+  </div>
+  <div class="charts">
+    <section class="card">
+      <h2>Monthly on-time delivery rate</h2>
+      <p class="subtle">Percentage of shipments delivered on time by month</p>
+      <svg id="trend" viewBox="0 0 560 270" role="img" aria-label="Line chart of monthly on-time delivery rates"></svg>
+    </section>
+    <section class="card">
+      <h2>On-time rate by warehouse</h2>
+      <p class="subtle">Updates when a filter is selected</p>
+      <div id="warehousebars"></div>
+    </section>
+  </div>
+  <section class="card method">
+    <h2>Warehouse performance table</h2>
+    <div class="tablewrap"><table class="metrics-table"><thead><tr><th scope="col">Warehouse</th><th scope="col">Shipments</th><th scope="col">On time</th><th scope="col">Stockouts</th><th scope="col">Avg cost</th></tr></thead><tbody id="tablebody"></tbody></table></div>
+  </section>
+  <section class="card method">
+    <h2>Business questions and methodology</h2>
+    <p>Which warehouse has the highest on-time delivery rate? How do stockout incidents and shipping costs vary? Filter the data to explore segments and identify candidates for further investigation.</p>
+    <p><strong>Definitions:</strong> On-time rate = shipments marked on time / all shipments. Stockout rate = shipments with a stockout incident / all shipments. Average shipping cost = total shipping costs / shipment count. Missing periods are omitted from the line chart.</p>
+    <p><strong>Limitations:</strong> Synthetic data cannot establish real-world causes or justify operational investment. Differences need validation with genuine data, service-level agreements and staffing context.</p>
+    <p><a class="link" href="shipments.csv" download>Download synthetic dataset (CSV)</a> · <a class="link" href="analysis.py">View reproducible Python analysis</a> · <a class="link" href="README.md">Read project documentation</a></p>
+  </section>
+</main>
+</body>
+</html>

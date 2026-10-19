@@ -1,0 +1,1801 @@
+shipment_id,date,warehouse,category,units,dispatch_delay_days,delivered_on_time,stockout,shipping_cost_gbp
+SHP-00001,2025-10-29,Birmingham,Office,2,1,1,0,6.69
+SHP-00002,2025-01-15,Birmingham,Electronics,9,1,1,0,10.77
+SHP-00003,2025-06-11,Manchester,Home & Living,5,0,1,0,8.38
+SHP-00004,2025-06-23,Manchester,Beauty,11,0,1,0,10.93
+SHP-00005,2025-02-20,Leeds,Home & Living,1,0,1,0,7.63
+SHP-00006,2025-07-01,Leeds,Home & Living,10,1,1,0,11.58
+SHP-00007,2025-11-08,Manchester,Office,8,0,1,0,11.59
+SHP-00008,2025-07-12,Manchester,Home & Living,10,0,1,0,12.86
+SHP-00009,2025-05-04,Birmingham,Office,5,2,0,1,10.76
+SHP-00010,2025-10-31,Birmingham,Sports,9,4,0,0,12.78
+SHP-00011,2025-06-22,Birmingham,Electronics,11,8,0,1,16.58
+SHP-00012,2025-05-15,Bristol,Home & Living,12,3,0,1,16.28
+SHP-00013,2025-10-15,Bristol,Electronics,12,0,1,0,12.01
+SHP-00014,2025-04-16,Birmingham,Home & Living,6,0,1,0,7.88
+SHP-00015,2025-05-18,Leeds,Sports,5,3,0,0,9.44
+SHP-00016,2025-11-15,Leeds,Office,3,0,1,0,7.68
+SHP-00017,2025-01-10,Leeds,Electronics,3,2,1,0,7.98
+SHP-00018,2025-01-27,Manchester,Electronics,2,6,0,1,8.82
+SHP-00019,2025-08-10,Birmingham,Office,11,1,1,0,12.83
+SHP-00020,2025-08-03,Bristol,Home & Living,9,0,1,0,12.87
+SHP-00021,2025-03-26,Birmingham,Home & Living,8,0,1,0,11.4
+SHP-00022,2025-06-27,Bristol,Sports,2,3,0,1,7.84
+SHP-00023,2025-06-24,Birmingham,Electronics,9,3,0,0,14.99
+SHP-00024,2025-11-10,Bristol,Electronics,8,1,1,0,9.3
+SHP-00025,2025-01-19,Manchester,Electronics,9,0,1,0,10.25
+SHP-00026,2025-07-31,Birmingham,Electronics,11,1,1,0,11.65
+SHP-00027,2025-11-16,Bristol,Beauty,3,1,1,0,10.17
+SHP-00028,2025-11-09,Birmingham,Office,5,1,1,0,7.95
+SHP-00029,2025-01-24,Bristol,Home & Living,3,4,0,0,9.37
+SHP-00030,2025-01-03,Bristol,Home & Living,6,1,1,0,10.26
+SHP-00031,2025-04-13,Leeds,Office,7,0,1,0,8.66
+SHP-00032,2025-01-28,Manchester,Home & Living,6,0,1,0,11.15
+SHP-00033,2025-06-03,Leeds,Beauty,2,1,1,0,6.41
+SHP-00034,2025-12-30,Leeds,Home & Living,11,0,1,0,12.5
+SHP-00035,2025-05-09,Manchester,Electronics,12,3,0,0,15.27
+SHP-00036,2025-08-05,Birmingham,Electronics,6,0,1,0,11.14
+SHP-00037,2025-01-16,Manchester,Home & Living,11,0,1,0,13.3
+SHP-00038,2025-12-12,Manchester,Home & Living,10,3,0,0,12.18
+SHP-00039,2025-08-11,Birmingham,Beauty,3,1,1,0,8.73
+SHP-00040,2025-10-22,Manchester,Beauty,6,1,1,0,10.16
+SHP-00041,2025-08-21,Leeds,Office,12,0,1,0,13.63
+SHP-00042,2025-01-04,Manchester,Beauty,7,1,1,0,11.99
+SHP-00043,2025-04-17,Bristol,Electronics,5,0,1,0,8.9
+SHP-00044,2025-08-11,Manchester,Office,4,3,0,0,10.71
+SHP-00045,2025-05-21,Manchester,Beauty,8,1,1,0,12.31
+SHP-00046,2025-06-29,Bristol,Electronics,8,0,1,0,8.68
+SHP-00047,2025-12-11,Manchester,Sports,6,0,1,0,11.48
+SHP-00048,2025-04-04,Leeds,Home & Living,10,1,1,0,12.69
+SHP-00049,2025-01-30,Manchester,Sports,4,4,0,0,8.65
+SHP-00050,2025-09-02,Manchester,Sports,6,0,1,0,10.86
+SHP-00051,2025-02-14,Birmingham,Electronics,7,3,0,1,13.87
+SHP-00052,2025-07-28,Manchester,Sports,10,1,1,0,12.75
+SHP-00053,2025-03-20,Manchester,Office,3,3,0,0,10.95
+SHP-00054,2025-02-01,Manchester,Electronics,8,0,1,0,8.85
+SHP-00055,2025-05-21,Manchester,Office,5,2,1,0,9.84
+SHP-00056,2025-12-23,Birmingham,Office,2,4,0,0,9.84
+SHP-00057,2025-01-14,Manchester,Electronics,12,0,1,0,14.82
+SHP-00058,2025-06-03,Leeds,Home & Living,10,3,0,0,12.26
+SHP-00059,2025-01-02,Manchester,Beauty,1,1,1,0,6.25
+SHP-00060,2025-01-24,Bristol,Home & Living,11,0,1,0,11.44
+SHP-00061,2025-04-21,Manchester,Office,2,0,1,0,6.49
+SHP-00062,2025-02-19,Bristol,Electronics,8,0,1,0,9.49
+SHP-00063,2025-08-03,Manchester,Electronics,10,1,1,0,11.87
+SHP-00064,2025-10-30,Manchester,Sports,10,1,1,0,14.17
+SHP-00065,2025-03-19,Leeds,Electronics,7,0,1,0,8.0
+SHP-00066,2025-12-23,Manchester,Sports,9,1,1,0,11.17
+SHP-00067,2025-06-16,Leeds,Sports,7,1,1,0,10.5
+SHP-00068,2025-10-21,Birmingham,Beauty,8,4,0,0,11.84
+SHP-00069,2025-10-14,Manchester,Office,12,0,1,0,13.13
+SHP-00070,2025-04-24,Manchester,Sports,5,2,1,0,11.18
+SHP-00071,2025-07-31,Birmingham,Electronics,5,0,1,0,8.74
+SHP-00072,2025-04-12,Birmingham,Home & Living,12,4,0,1,15.93
+SHP-00073,2025-02-11,Manchester,Sports,2,0,1,0,9.21
+SHP-00074,2025-03-19,Birmingham,Home & Living,9,1,1,0,11.41
+SHP-00075,2025-05-18,Manchester,Sports,9,0,1,0,11.86
+SHP-00076,2025-04-04,Manchester,Beauty,10,0,1,0,11.87
+SHP-00077,2025-09-16,Birmingham,Sports,2,0,1,0,5.74
+SHP-00078,2025-07-24,Birmingham,Office,7,2,1,0,9.69
+SHP-00079,2025-08-12,Birmingham,Electronics,8,3,0,0,10.95
+SHP-00080,2025-04-15,Birmingham,Beauty,1,0,1,0,8.16
+SHP-00081,2025-03-03,Birmingham,Home & Living,4,0,1,0,10.33
+SHP-00082,2025-05-05,Manchester,Electronics,3,2,1,0,7.34
+SHP-00083,2025-12-27,Manchester,Home & Living,2,1,1,0,5.76
+SHP-00084,2025-01-11,Bristol,Beauty,7,0,1,0,10.08
+SHP-00085,2025-01-14,Birmingham,Electronics,12,1,1,0,11.66
+SHP-00086,2025-04-23,Manchester,Electronics,5,0,1,0,8.85
+SHP-00087,2025-09-10,Manchester,Office,2,2,0,1,6.37
+SHP-00088,2025-08-04,Leeds,Electronics,7,3,0,1,13.28
+SHP-00089,2025-06-03,Manchester,Sports,5,2,1,0,12.18
+SHP-00090,2025-10-04,Leeds,Office,4,0,1,0,8.64
+SHP-00091,2025-04-10,Birmingham,Sports,10,0,1,0,12.38
+SHP-00092,2025-11-21,Leeds,Electronics,4,0,1,0,8.8
+SHP-00093,2025-04-02,Birmingham,Home & Living,9,0,1,0,12.13
+SHP-00094,2025-04-03,Leeds,Sports,11,0,1,0,13.99
+SHP-00095,2025-02-20,Bristol,Beauty,5,1,1,0,10.45
+SHP-00096,2025-01-18,Bristol,Home & Living,12,2,1,0,14.06
+SHP-00097,2025-04-30,Bristol,Office,4,2,1,0,10.01
+SHP-00098,2025-02-01,Leeds,Sports,5,0,1,0,10.41
+SHP-00099,2025-03-12,Manchester,Electronics,7,0,1,0,8.35
+SHP-00100,2025-08-18,Manchester,Office,7,0,1,0,11.71
+SHP-00101,2025-07-14,Leeds,Home & Living,6,1,1,0,10.22
+SHP-00102,2025-06-20,Bristol,Sports,2,3,0,0,9.09
+SHP-00103,2025-04-13,Manchester,Electronics,2,2,1,0,9.32
+SHP-00104,2025-01-23,Leeds,Electronics,11,0,1,0,14.26
+SHP-00105,2025-04-18,Manchester,Office,11,1,1,0,12.59
+SHP-00106,2025-04-09,Manchester,Electronics,8,2,0,1,12.5
+SHP-00107,2025-03-12,Bristol,Sports,1,0,1,0,7.32
+SHP-00108,2025-01-15,Leeds,Sports,8,1,1,0,13.02
+SHP-00109,2025-09-06,Birmingham,Home & Living,1,0,1,0,6.98
+SHP-00110,2025-09-30,Leeds,Home & Living,2,2,1,0,9.29
+SHP-00111,2025-01-31,Manchester,Electronics,10,4,0,1,15.59
+SHP-00112,2025-04-26,Manchester,Office,2,2,1,0,6.78
+SHP-00113,2025-04-09,Manchester,Electronics,12,2,0,1,15.37
+SHP-00114,2025-09-10,Birmingham,Sports,8,4,0,1,13.39
+SHP-00115,2025-09-23,Manchester,Sports,1,2,1,0,8.81
+SHP-00116,2025-01-17,Leeds,Beauty,3,1,0,1,10.37
+SHP-00117,2025-06-26,Manchester,Electronics,12,4,0,1,15.36
+SHP-00118,2025-07-30,Leeds,Electronics,1,0,1,0,4.74
+SHP-00119,2025-11-13,Manchester,Electronics,2,4,0,0,11.4
+SHP-00120,2025-06-18,Birmingham,Home & Living,9,1,1,0,12.04
+SHP-00121,2025-08-28,Birmingham,Beauty,12,1,1,0,11.6
+SHP-00122,2025-04-20,Bristol,Home & Living,3,2,1,0,9.13
+SHP-00123,2025-08-16,Leeds,Electronics,6,3,0,1,12.16
+SHP-00124,2025-07-06,Birmingham,Home & Living,1,0,1,0,5.6
+SHP-00125,2025-04-02,Manchester,Beauty,4,0,1,0,6.31
+SHP-00126,2025-02-15,Birmingham,Office,10,0,1,0,11.18
+SHP-00127,2025-08-18,Leeds,Electronics,11,1,1,0,13.85
+SHP-00128,2025-06-15,Leeds,Beauty,3,0,1,0,9.35
+SHP-00129,2025-01-28,Bristol,Office,2,2,1,0,8.51
+SHP-00130,2025-11-12,Leeds,Home & Living,6,2,1,0,10.36
+SHP-00131,2025-09-07,Birmingham,Electronics,11,2,1,0,11.67
+SHP-00132,2025-05-15,Bristol,Office,3,0,1,0,8.0
+SHP-00133,2025-12-29,Manchester,Beauty,10,0,1,0,12.89
+SHP-00134,2025-06-14,Birmingham,Beauty,10,2,1,0,11.07
+SHP-00135,2025-04-28,Bristol,Electronics,9,1,1,0,13.54
+SHP-00136,2025-02-25,Bristol,Beauty,1,0,1,0,7.53
+SHP-00137,2025-07-04,Birmingham,Home & Living,6,4,0,1,10.79
+SHP-00138,2025-07-14,Bristol,Office,8,5,0,1,14.58
+SHP-00139,2025-10-31,Birmingham,Electronics,5,0,1,0,9.51
+SHP-00140,2025-02-14,Manchester,Sports,7,0,1,0,10.01
+SHP-00141,2025-03-24,Manchester,Electronics,3,0,1,0,7.26
+SHP-00142,2025-07-21,Birmingham,Electronics,7,3,0,1,11.44
+SHP-00143,2025-10-14,Manchester,Electronics,12,6,0,1,18.3
+SHP-00144,2025-01-21,Birmingham,Electronics,6,0,1,0,10.48
+SHP-00145,2025-09-23,Birmingham,Home & Living,8,0,1,0,8.69
+SHP-00146,2025-11-13,Bristol,Electronics,1,2,1,0,8.79
+SHP-00147,2025-01-19,Manchester,Electronics,8,0,1,0,10.0
+SHP-00148,2025-09-15,Manchester,Beauty,3,4,0,1,8.17
+SHP-00149,2025-06-24,Leeds,Electronics,10,0,1,0,10.83
+SHP-00150,2025-08-17,Bristol,Electronics,5,0,1,0,7.74
+SHP-00151,2025-01-25,Manchester,Office,4,0,1,0,7.32
+SHP-00152,2025-11-26,Birmingham,Electronics,12,0,1,0,13.34
+SHP-00153,2025-09-10,Birmingham,Electronics,6,1,1,0,9.02
+SHP-00154,2025-07-15,Bristol,Sports,3,3,0,1,8.87
+SHP-00155,2025-01-03,Manchester,Sports,12,3,0,0,14.08
+SHP-00156,2025-05-08,Birmingham,Office,6,2,1,0,11.17
+SHP-00157,2025-10-03,Leeds,Electronics,12,2,0,1,15.42
+SHP-00158,2025-01-17,Birmingham,Beauty,7,0,1,0,10.16
+SHP-00159,2025-04-17,Birmingham,Home & Living,11,1,0,1,13.83
+SHP-00160,2025-02-08,Manchester,Office,10,2,1,0,14.7
+SHP-00161,2025-01-01,Manchester,Beauty,9,0,1,0,12.56
+SHP-00162,2025-08-16,Manchester,Electronics,1,1,1,0,5.45
+SHP-00163,2025-04-01,Manchester,Home & Living,8,0,1,0,8.82
+SHP-00164,2025-05-03,Birmingham,Office,4,1,1,0,9.17
+SHP-00165,2025-07-28,Bristol,Office,10,0,1,0,9.62
+SHP-00166,2025-06-16,Bristol,Home & Living,11,0,1,0,12.58
+SHP-00167,2025-04-03,Manchester,Sports,1,2,1,0,8.85
+SHP-00168,2025-10-06,Bristol,Beauty,11,0,1,0,13.43
+SHP-00169,2025-01-16,Manchester,Office,10,0,1,0,9.63
+SHP-00170,2025-05-23,Manchester,Office,6,0,1,0,7.78
+SHP-00171,2025-04-17,Manchester,Electronics,7,3,0,0,10.35
+SHP-00172,2025-07-07,Birmingham,Electronics,2,0,1,0,8.5
+SHP-00173,2025-10-20,Leeds,Beauty,6,2,1,0,10.48
+SHP-00174,2025-09-22,Leeds,Beauty,8,2,1,0,9.92
+SHP-00175,2025-06-28,Manchester,Electronics,11,1,1,0,11.12
+SHP-00176,2025-12-17,Bristol,Electronics,8,1,1,0,12.86
+SHP-00177,2025-03-14,Birmingham,Sports,7,1,1,0,9.5
+SHP-00178,2025-10-27,Leeds,Office,1,0,1,0,4.45
+SHP-00179,2025-11-21,Birmingham,Office,9,1,1,0,12.36
+SHP-00180,2025-12-06,Manchester,Office,4,3,0,1,10.33
+SHP-00181,2025-02-05,Birmingham,Sports,5,1,1,0,10.2
+SHP-00182,2025-03-19,Manchester,Beauty,3,2,1,0,8.82
+SHP-00183,2025-09-26,Bristol,Home & Living,12,1,1,0,12.91
+SHP-00184,2025-05-13,Birmingham,Sports,10,0,1,0,12.9
+SHP-00185,2025-03-08,Leeds,Office,8,1,1,0,13.15
+SHP-00186,2025-11-21,Leeds,Office,8,0,1,0,10.16
+SHP-00187,2025-05-17,Birmingham,Office,6,0,1,0,9.5
+SHP-00188,2025-09-19,Manchester,Home & Living,10,0,1,0,12.19
+SHP-00189,2025-10-12,Manchester,Electronics,6,2,1,0,11.3
+SHP-00190,2025-10-09,Manchester,Beauty,4,0,1,0,8.3
+SHP-00191,2025-06-14,Leeds,Electronics,1,0,1,0,5.84
+SHP-00192,2025-12-31,Birmingham,Office,4,0,1,0,6.73
+SHP-00193,2025-06-29,Manchester,Sports,12,0,1,0,14.78
+SHP-00194,2025-08-19,Bristol,Home & Living,10,0,1,0,13.16
+SHP-00195,2025-11-17,Leeds,Beauty,5,1,1,0,10.6
+SHP-00196,2025-01-21,Manchester,Home & Living,8,4,0,0,12.94
+SHP-00197,2025-02-13,Bristol,Sports,11,0,1,0,11.02
+SHP-00198,2025-04-15,Manchester,Electronics,2,0,1,0,5.84
+SHP-00199,2025-06-13,Leeds,Beauty,4,1,1,0,10.49
+SHP-00200,2025-07-07,Birmingham,Beauty,7,0,1,0,11.3
+SHP-00201,2025-10-28,Bristol,Office,6,0,1,0,9.02
+SHP-00202,2025-06-21,Bristol,Sports,8,0,1,0,11.99
+SHP-00203,2025-08-07,Bristol,Beauty,4,0,1,0,6.98
+SHP-00204,2025-06-14,Birmingham,Electronics,4,1,1,0,9.14
+SHP-00205,2025-07-18,Manchester,Home & Living,7,1,1,0,9.88
+SHP-00206,2025-07-15,Manchester,Beauty,11,1,0,1,14.19
+SHP-00207,2025-09-30,Leeds,Home & Living,5,2,0,1,8.19
+SHP-00208,2025-06-14,Manchester,Sports,12,0,1,0,12.4
+SHP-00209,2025-04-28,Birmingham,Home & Living,8,1,1,0,12.39
+SHP-00210,2025-06-05,Leeds,Sports,5,0,1,0,9.53
+SHP-00211,2025-07-25,Leeds,Sports,12,2,0,1,13.95
+SHP-00212,2025-02-08,Manchester,Office,4,2,1,0,7.38
+SHP-00213,2025-02-28,Leeds,Home & Living,9,2,1,0,14.14
+SHP-00214,2025-01-11,Birmingham,Electronics,10,0,1,0,13.15
+SHP-00215,2025-01-18,Leeds,Home & Living,6,5,0,0,11.42
+SHP-00216,2025-06-21,Manchester,Office,2,0,1,0,8.85
+SHP-00217,2025-06-27,Leeds,Electronics,6,0,1,0,10.54
+SHP-00218,2025-10-22,Bristol,Office,3,1,0,1,6.44
+SHP-00219,2025-08-11,Bristol,Electronics,2,4,0,0,11.7
+SHP-00220,2025-11-18,Bristol,Home & Living,10,1,1,0,11.21
+SHP-00221,2025-09-18,Leeds,Electronics,9,0,1,0,9.7
+SHP-00222,2025-03-23,Manchester,Beauty,7,7,0,1,16.42
+SHP-00223,2025-06-11,Birmingham,Home & Living,6,2,0,1,10.56
+SHP-00224,2025-03-02,Bristol,Sports,4,1,1,0,7.87
+SHP-00225,2025-10-10,Manchester,Office,3,0,1,0,5.58
+SHP-00226,2025-11-26,Leeds,Office,4,3,0,0,10.15
+SHP-00227,2025-12-08,Manchester,Electronics,6,1,1,0,8.76
+SHP-00228,2025-11-21,Birmingham,Electronics,7,4,0,0,11.95
+SHP-00229,2025-07-10,Birmingham,Electronics,7,1,1,0,12.6
+SHP-00230,2025-08-24,Bristol,Home & Living,12,3,0,1,14.42
+SHP-00231,2025-05-05,Leeds,Office,1,0,1,0,7.33
+SHP-00232,2025-03-25,Leeds,Beauty,4,0,1,0,8.89
+SHP-00233,2025-01-25,Leeds,Sports,8,1,1,0,12.8
+SHP-00234,2025-06-01,Leeds,Sports,7,4,0,0,12.88
+SHP-00235,2025-09-14,Birmingham,Sports,8,0,1,0,8.56
+SHP-00236,2025-03-16,Bristol,Home & Living,3,1,1,0,8.53
+SHP-00237,2025-08-29,Bristol,Sports,7,1,1,0,11.2
+SHP-00238,2025-08-04,Birmingham,Electronics,5,7,0,1,12.31
+SHP-00239,2025-04-27,Bristol,Home & Living,1,3,0,1,8.48
+SHP-00240,2025-03-08,Leeds,Home & Living,8,1,1,0,12.49
+SHP-00241,2025-11-20,Leeds,Office,1,1,1,0,7.92
+SHP-00242,2025-10-10,Birmingham,Beauty,6,0,1,0,7.6
+SHP-00243,2025-10-08,Manchester,Electronics,4,0,1,0,8.0
+SHP-00244,2025-08-29,Bristol,Sports,10,0,1,0,10.18
+SHP-00245,2025-08-20,Manchester,Electronics,10,0,1,0,12.11
+SHP-00246,2025-12-27,Birmingham,Sports,9,0,1,0,12.16
+SHP-00247,2025-01-10,Birmingham,Electronics,9,0,1,0,9.99
+SHP-00248,2025-01-14,Leeds,Home & Living,9,0,1,0,10.53
+SHP-00249,2025-06-22,Birmingham,Home & Living,4,0,1,0,7.22
+SHP-00250,2025-03-13,Leeds,Office,3,1,1,0,6.27
+SHP-00251,2025-10-13,Manchester,Sports,9,0,1,0,12.22
+SHP-00252,2025-06-19,Manchester,Home & Living,1,4,0,0,9.14
+SHP-00253,2025-04-07,Leeds,Office,3,2,0,1,9.86
+SHP-00254,2025-10-03,Birmingham,Beauty,2,1,1,0,5.94
+SHP-00255,2025-05-05,Birmingham,Office,11,1,1,0,14.33
+SHP-00256,2025-04-20,Birmingham,Home & Living,8,1,1,0,9.32
+SHP-00257,2025-12-14,Manchester,Office,8,2,1,0,11.23
+SHP-00258,2025-05-23,Birmingham,Office,5,3,0,0,12.34
+SHP-00259,2025-08-21,Birmingham,Electronics,10,1,1,0,13.52
+SHP-00260,2025-10-06,Birmingham,Sports,8,4,0,0,12.36
+SHP-00261,2025-12-24,Manchester,Electronics,12,3,0,0,14.95
+SHP-00262,2025-07-22,Leeds,Home & Living,11,5,0,0,16.52
+SHP-00263,2025-09-15,Birmingham,Home & Living,11,0,1,0,11.48
+SHP-00264,2025-08-10,Bristol,Electronics,5,5,0,0,13.18
+SHP-00265,2025-12-18,Bristol,Office,9,0,1,0,10.59
+SHP-00266,2025-04-09,Birmingham,Office,8,3,0,1,14.13
+SHP-00267,2025-06-29,Manchester,Home & Living,9,6,0,1,15.01
+SHP-00268,2025-02-07,Manchester,Home & Living,2,1,0,1,8.05
+SHP-00269,2025-09-07,Manchester,Sports,6,0,1,0,8.15
+SHP-00270,2025-07-04,Birmingham,Office,9,1,1,0,10.94
+SHP-00271,2025-03-29,Manchester,Electronics,5,1,1,0,7.97
+SHP-00272,2025-05-12,Birmingham,Electronics,6,0,1,0,11.08
+SHP-00273,2025-03-13,Leeds,Sports,1,0,1,0,6.92
+SHP-00274,2025-08-16,Birmingham,Office,1,3,0,0,8.82
+SHP-00275,2025-03-29,Manchester,Sports,4,1,0,1,8.3
+SHP-00276,2025-09-10,Leeds,Electronics,12,0,1,0,11.96
+SHP-00277,2025-07-29,Leeds,Office,3,3,0,0,8.97
+SHP-00278,2025-12-11,Manchester,Home & Living,6,1,1,0,10.89
+SHP-00279,2025-07-06,Leeds,Home & Living,6,1,1,0,9.31
+SHP-00280,2025-08-05,Manchester,Office,4,0,1,0,8.94
+SHP-00281,2025-09-28,Manchester,Electronics,12,0,1,0,12.56
+SHP-00282,2025-01-09,Leeds,Home & Living,9,0,1,0,9.11
+SHP-00283,2025-08-21,Bristol,Home & Living,10,0,1,0,10.97
+SHP-00284,2025-07-12,Manchester,Home & Living,7,0,1,0,10.43
+SHP-00285,2025-03-29,Manchester,Electronics,2,1,1,0,6.31
+SHP-00286,2025-11-12,Birmingham,Electronics,3,2,1,0,7.38
+SHP-00287,2025-11-09,Leeds,Electronics,11,3,0,0,12.53
+SHP-00288,2025-08-27,Bristol,Sports,7,0,1,0,10.56
+SHP-00289,2025-05-24,Manchester,Beauty,4,2,1,0,11.36
+SHP-00290,2025-10-16,Birmingham,Sports,10,0,1,0,12.42
+SHP-00291,2025-05-06,Bristol,Electronics,4,0,1,0,6.99
+SHP-00292,2025-10-17,Bristol,Electronics,5,0,1,0,8.35
+SHP-00293,2025-05-24,Birmingham,Office,2,0,1,0,6.27
+SHP-00294,2025-12-26,Manchester,Office,9,0,1,0,10.3
+SHP-00295,2025-03-06,Leeds,Office,8,2,1,0,10.11
+SHP-00296,2025-04-26,Birmingham,Office,12,0,1,0,14.42
+SHP-00297,2025-05-02,Manchester,Home & Living,7,1,1,0,9.16
+SHP-00298,2025-05-13,Manchester,Electronics,3,1,1,0,9.46
+SHP-00299,2025-04-05,Manchester,Sports,12,5,0,0,13.88
+SHP-00300,2025-08-28,Birmingham,Office,7,1,0,1,10.13
+SHP-00301,2025-05-13,Bristol,Office,12,0,1,0,12.06
+SHP-00302,2025-12-03,Birmingham,Office,4,0,1,0,6.87
+SHP-00303,2025-06-27,Bristol,Beauty,2,0,1,0,5.95
+SHP-00304,2025-08-03,Manchester,Office,6,0,1,0,8.79
+SHP-00305,2025-01-28,Leeds,Electronics,12,0,1,0,11.52
+SHP-00306,2025-05-01,Manchester,Office,6,0,1,0,7.27
+SHP-00307,2025-10-12,Bristol,Electronics,10,3,0,0,14.99
+SHP-00308,2025-06-09,Manchester,Office,2,4,0,0,10.1
+SHP-00309,2025-02-02,Manchester,Office,4,1,1,0,8.84
+SHP-00310,2025-12-03,Leeds,Electronics,7,1,1,0,10.53
+SHP-00311,2025-06-14,Bristol,Electronics,11,1,1,0,14.66
+SHP-00312,2025-03-14,Manchester,Sports,9,2,0,1,11.99
+SHP-00313,2025-10-04,Leeds,Sports,8,4,0,1,14.1
+SHP-00314,2025-05-15,Birmingham,Sports,4,0,1,0,10.0
+SHP-00315,2025-05-11,Birmingham,Home & Living,5,2,1,0,9.88
+SHP-00316,2025-09-07,Manchester,Electronics,3,0,1,0,6.42
+SHP-00317,2025-11-26,Bristol,Office,1,0,1,0,4.92
+SHP-00318,2025-07-19,Manchester,Home & Living,4,1,1,0,9.66
+SHP-00319,2025-02-10,Manchester,Office,10,0,1,0,11.3
+SHP-00320,2025-01-12,Birmingham,Office,11,0,1,0,11.76
+SHP-00321,2025-07-20,Leeds,Office,5,0,1,0,6.74
+SHP-00322,2025-01-17,Bristol,Electronics,11,0,1,0,10.95
+SHP-00323,2025-01-01,Bristol,Electronics,10,0,1,0,12.61
+SHP-00324,2025-09-22,Manchester,Home & Living,5,2,1,0,8.59
+SHP-00325,2025-08-07,Birmingham,Home & Living,8,2,1,0,10.71
+SHP-00326,2025-01-02,Bristol,Sports,4,1,1,0,7.84
+SHP-00327,2025-11-26,Birmingham,Beauty,1,3,0,0,9.15
+SHP-00328,2025-04-10,Leeds,Office,4,4,0,0,10.87
+SHP-00329,2025-03-08,Manchester,Office,5,0,1,0,7.91
+SHP-00330,2025-09-07,Birmingham,Home & Living,7,0,1,0,11.08
+SHP-00331,2025-10-24,Birmingham,Home & Living,3,2,1,0,8.91
+SHP-00332,2025-05-01,Birmingham,Home & Living,10,5,0,0,13.62
+SHP-00333,2025-03-12,Manchester,Beauty,2,0,1,0,6.38
+SHP-00334,2025-04-11,Manchester,Office,12,4,0,0,16.47
+SHP-00335,2025-10-26,Birmingham,Home & Living,7,1,1,0,10.84
+SHP-00336,2025-09-01,Bristol,Sports,10,0,1,0,13.5
+SHP-00337,2025-02-14,Manchester,Home & Living,2,0,1,0,8.73
+SHP-00338,2025-06-10,Leeds,Electronics,5,1,1,0,9.97
+SHP-00339,2025-07-26,Leeds,Home & Living,8,0,1,0,10.06
+SHP-00340,2025-01-05,Manchester,Office,7,1,1,0,8.51
+SHP-00341,2025-11-29,Manchester,Office,10,0,1,0,12.12
+SHP-00342,2025-04-30,Birmingham,Office,8,3,0,1,14.17
+SHP-00343,2025-09-04,Birmingham,Office,12,2,1,0,13.58
+SHP-00344,2025-06-18,Leeds,Electronics,9,1,0,1,13.03
+SHP-00345,2025-05-31,Manchester,Electronics,8,2,1,0,12.18
+SHP-00346,2025-10-21,Birmingham,Electronics,11,0,1,0,11.65
+SHP-00347,2025-05-28,Leeds,Sports,8,1,1,0,11.5
+SHP-00348,2025-08-06,Leeds,Home & Living,1,1,1,0,5.96
+SHP-00349,2025-08-08,Leeds,Office,10,1,1,0,13.6
+SHP-00350,2025-07-02,Leeds,Office,12,3,0,0,15.97
+SHP-00351,2025-03-07,Manchester,Office,3,4,0,0,10.43
+SHP-00352,2025-03-03,Manchester,Beauty,11,2,1,0,14.71
+SHP-00353,2025-05-16,Manchester,Office,1,0,1,0,7.59
+SHP-00354,2025-11-11,Bristol,Electronics,2,0,1,0,8.43
+SHP-00355,2025-05-15,Birmingham,Home & Living,9,1,1,0,12.98
+SHP-00356,2025-11-05,Manchester,Electronics,1,0,1,0,4.68
+SHP-00357,2025-12-18,Manchester,Home & Living,7,0,1,0,8.56
+SHP-00358,2025-05-04,Birmingham,Home & Living,10,0,1,0,9.89
+SHP-00359,2025-04-03,Manchester,Electronics,12,4,0,0,17.18
+SHP-00360,2025-07-05,Birmingham,Home & Living,10,0,1,0,12.03
+SHP-00361,2025-08-02,Leeds,Home & Living,10,0,1,0,10.2
+SHP-00362,2025-03-14,Bristol,Office,3,1,0,1,8.54
+SHP-00363,2025-07-19,Manchester,Beauty,8,2,1,0,12.34
+SHP-00364,2025-11-10,Manchester,Office,3,0,1,0,8.58
+SHP-00365,2025-09-23,Bristol,Beauty,10,1,1,0,14.45
+SHP-00366,2025-12-07,Manchester,Sports,1,0,1,0,6.91
+SHP-00367,2025-07-05,Leeds,Electronics,9,3,0,0,14.06
+SHP-00368,2025-06-05,Leeds,Electronics,7,1,1,0,9.03
+SHP-00369,2025-07-26,Manchester,Home & Living,7,0,1,0,8.78
+SHP-00370,2025-05-09,Birmingham,Office,9,0,1,0,12.39
+SHP-00371,2025-06-22,Bristol,Sports,8,2,1,0,11.41
+SHP-00372,2025-06-21,Manchester,Electronics,2,2,1,0,7.22
+SHP-00373,2025-04-09,Bristol,Beauty,1,0,1,0,8.59
+SHP-00374,2025-10-06,Bristol,Office,3,0,1,0,8.19
+SHP-00375,2025-06-28,Bristol,Sports,6,5,0,0,12.05
+SHP-00376,2025-01-19,Manchester,Office,9,3,0,1,11.53
+SHP-00377,2025-06-13,Bristol,Electronics,3,0,1,0,8.09
+SHP-00378,2025-11-01,Leeds,Office,3,2,1,0,9.31
+SHP-00379,2025-09-03,Birmingham,Home & Living,4,6,0,1,13.13
+SHP-00380,2025-05-17,Birmingham,Office,10,0,1,0,9.82
+SHP-00381,2025-01-24,Bristol,Office,8,2,1,0,10.98
+SHP-00382,2025-11-07,Bristol,Beauty,3,1,1,0,8.79
+SHP-00383,2025-05-01,Manchester,Beauty,1,1,1,0,7.57
+SHP-00384,2025-08-13,Birmingham,Office,2,4,0,0,10.66
+SHP-00385,2025-03-24,Manchester,Electronics,5,4,0,0,12.85
+SHP-00386,2025-03-06,Manchester,Electronics,3,1,1,0,7.4
+SHP-00387,2025-07-08,Leeds,Office,7,0,1,0,9.06
+SHP-00388,2025-01-20,Manchester,Sports,11,3,0,1,14.35
+SHP-00389,2025-07-08,Bristol,Office,10,4,0,1,15.77
+SHP-00390,2025-05-13,Bristol,Office,5,4,0,0,13.02
+SHP-00391,2025-03-09,Birmingham,Beauty,12,5,0,1,17.48
+SHP-00392,2025-01-18,Leeds,Beauty,8,1,1,0,10.47
+SHP-00393,2025-07-22,Birmingham,Home & Living,9,0,1,0,12.17
+SHP-00394,2025-01-21,Manchester,Home & Living,1,0,1,0,7.66
+SHP-00395,2025-06-10,Manchester,Sports,9,2,1,0,10.82
+SHP-00396,2025-06-02,Birmingham,Sports,11,1,1,0,14.6
+SHP-00397,2025-06-27,Birmingham,Beauty,4,1,1,0,7.97
+SHP-00398,2025-02-27,Birmingham,Beauty,2,5,0,1,11.14
+SHP-00399,2025-08-22,Leeds,Beauty,9,0,1,0,9.08
+SHP-00400,2025-04-29,Manchester,Sports,6,4,0,1,12.43
+SHP-00401,2025-10-24,Birmingham,Office,11,0,1,0,14.43
+SHP-00402,2025-08-09,Manchester,Electronics,2,2,0,1,7.17
+SHP-00403,2025-09-23,Leeds,Office,1,3,0,1,10.5
+SHP-00404,2025-01-10,Birmingham,Home & Living,2,2,1,0,10.34
+SHP-00405,2025-03-28,Bristol,Electronics,8,0,1,0,8.98
+SHP-00406,2025-04-08,Birmingham,Home & Living,9,0,1,0,9.95
+SHP-00407,2025-03-09,Leeds,Sports,5,0,1,0,9.81
+SHP-00408,2025-07-15,Leeds,Sports,11,5,0,0,17.43
+SHP-00409,2025-09-11,Birmingham,Office,4,0,1,0,9.3
+SHP-00410,2025-07-07,Bristol,Beauty,7,4,0,0,14.05
+SHP-00411,2025-05-31,Manchester,Office,2,1,1,0,8.46
+SHP-00412,2025-04-01,Manchester,Home & Living,8,2,1,0,11.81
+SHP-00413,2025-06-12,Birmingham,Electronics,10,0,1,0,13.63
+SHP-00414,2025-02-23,Birmingham,Beauty,7,0,1,0,10.72
+SHP-00415,2025-10-24,Leeds,Home & Living,5,0,1,0,7.76
+SHP-00416,2025-11-29,Leeds,Office,11,4,0,0,14.61
+SHP-00417,2025-01-08,Manchester,Beauty,3,5,0,0,12.49
+SHP-00418,2025-05-12,Bristol,Office,8,0,1,0,10.92
+SHP-00419,2025-01-28,Birmingham,Electronics,1,2,1,0,6.66
+SHP-00420,2025-10-28,Manchester,Electronics,12,0,1,0,14.71
+SHP-00421,2025-03-21,Birmingham,Electronics,8,3,0,0,13.45
+SHP-00422,2025-08-13,Manchester,Electronics,10,0,1,0,12.08
+SHP-00423,2025-08-28,Bristol,Beauty,4,1,1,0,8.45
+SHP-00424,2025-07-09,Birmingham,Electronics,4,0,1,0,6.74
+SHP-00425,2025-09-02,Birmingham,Beauty,9,3,0,0,12.59
+SHP-00426,2025-09-21,Birmingham,Sports,1,0,1,0,5.81
+SHP-00427,2025-03-01,Leeds,Beauty,3,6,0,1,12.88
+SHP-00428,2025-07-24,Leeds,Sports,9,0,1,0,10.35
+SHP-00429,2025-01-23,Birmingham,Beauty,9,0,1,0,10.25
+SHP-00430,2025-06-20,Birmingham,Electronics,6,0,1,0,8.55
+SHP-00431,2025-03-17,Birmingham,Home & Living,6,0,1,0,9.74
+SHP-00432,2025-02-01,Birmingham,Sports,1,0,1,0,6.48
+SHP-00433,2025-04-30,Birmingham,Home & Living,1,0,1,0,7.41
+SHP-00434,2025-07-05,Birmingham,Sports,9,4,0,0,14.14
+SHP-00435,2025-09-26,Leeds,Office,10,0,1,0,11.68
+SHP-00436,2025-05-27,Manchester,Electronics,7,0,1,0,9.71
+SHP-00437,2025-02-20,Birmingham,Beauty,3,2,1,0,9.68
+SHP-00438,2025-01-19,Leeds,Office,7,0,1,0,9.3
+SHP-00439,2025-10-05,Manchester,Sports,12,0,1,0,14.79
+SHP-00440,2025-01-25,Manchester,Electronics,4,4,0,1,11.57
+SHP-00441,2025-12-25,Leeds,Office,1,0,1,0,6.45
+SHP-00442,2025-06-10,Leeds,Office,5,0,1,0,10.35
+SHP-00443,2025-10-03,Birmingham,Office,3,4,0,0,10.23
+SHP-00444,2025-05-27,Bristol,Office,6,0,1,0,10.71
+SHP-00445,2025-11-27,Leeds,Sports,3,4,0,0,11.08
+SHP-00446,2025-12-15,Leeds,Sports,9,3,0,0,13.82
+SHP-00447,2025-09-28,Birmingham,Beauty,2,3,0,0,7.43
+SHP-00448,2025-01-01,Leeds,Home & Living,5,0,1,0,9.25
+SHP-00449,2025-10-12,Manchester,Office,6,0,1,0,9.32
+SHP-00450,2025-02-10,Leeds,Electronics,3,0,1,0,5.86
+SHP-00451,2025-05-09,Manchester,Sports,8,4,0,0,11.48
+SHP-00452,2025-04-10,Birmingham,Home & Living,5,2,1,0,10.43
+SHP-00453,2025-04-25,Manchester,Electronics,9,1,1,0,12.79
+SHP-00454,2025-08-14,Manchester,Office,10,0,1,0,11.21
+SHP-00455,2025-06-04,Manchester,Home & Living,4,0,1,0,10.31
+SHP-00456,2025-04-09,Manchester,Office,11,0,1,0,12.33
+SHP-00457,2025-12-02,Bristol,Electronics,12,0,1,0,13.88
+SHP-00458,2025-03-22,Birmingham,Sports,6,0,1,0,9.88
+SHP-00459,2025-07-23,Bristol,Electronics,1,0,1,0,8.19
+SHP-00460,2025-10-22,Birmingham,Office,1,1,1,0,5.24
+SHP-00461,2025-07-09,Birmingham,Beauty,9,3,0,0,14.99
+SHP-00462,2025-09-30,Manchester,Beauty,3,5,0,0,9.03
+SHP-00463,2025-10-11,Bristol,Office,1,0,1,0,7.98
+SHP-00464,2025-01-26,Manchester,Home & Living,6,2,1,0,9.62
+SHP-00465,2025-05-04,Bristol,Home & Living,9,1,1,0,12.8
+SHP-00466,2025-10-10,Manchester,Beauty,5,1,0,1,9.35
+SHP-00467,2025-12-25,Birmingham,Electronics,12,0,1,0,10.8
+SHP-00468,2025-07-31,Birmingham,Home & Living,6,0,1,0,10.4
+SHP-00469,2025-08-04,Bristol,Electronics,10,3,0,0,12.89
+SHP-00470,2025-02-13,Manchester,Beauty,6,0,1,0,7.8
+SHP-00471,2025-04-13,Birmingham,Home & Living,4,0,1,0,9.44
+SHP-00472,2025-11-27,Birmingham,Office,3,3,0,0,9.48
+SHP-00473,2025-06-26,Bristol,Home & Living,3,1,1,0,8.62
+SHP-00474,2025-10-22,Birmingham,Beauty,10,1,1,0,14.45
+SHP-00475,2025-01-25,Birmingham,Home & Living,5,0,1,0,9.19
+SHP-00476,2025-12-31,Leeds,Sports,10,0,1,0,10.21
+SHP-00477,2025-11-19,Birmingham,Electronics,10,4,0,1,16.05
+SHP-00478,2025-09-12,Birmingham,Office,11,2,0,1,14.58
+SHP-00479,2025-07-06,Bristol,Sports,1,2,0,1,8.49
+SHP-00480,2025-06-27,Leeds,Office,8,0,1,0,9.58
+SHP-00481,2025-03-22,Manchester,Office,5,1,1,0,9.72
+SHP-00482,2025-06-30,Birmingham,Electronics,3,1,1,0,7.62
+SHP-00483,2025-11-26,Bristol,Electronics,2,5,0,0,9.02
+SHP-00484,2025-02-21,Manchester,Electronics,12,4,0,1,16.73
+SHP-00485,2025-06-29,Manchester,Sports,11,2,1,0,13.91
+SHP-00486,2025-10-14,Birmingham,Office,9,1,1,0,11.49
+SHP-00487,2025-10-02,Bristol,Electronics,5,2,1,0,8.9
+SHP-00488,2025-02-18,Manchester,Sports,8,2,1,0,11.06
+SHP-00489,2025-04-07,Manchester,Sports,6,3,0,0,10.14
+SHP-00490,2025-05-25,Leeds,Electronics,10,4,0,0,15.2
+SHP-00491,2025-01-29,Birmingham,Beauty,3,1,1,0,6.34
+SHP-00492,2025-11-29,Birmingham,Beauty,3,1,1,0,6.87
+SHP-00493,2025-04-24,Leeds,Beauty,9,1,1,0,12.37
+SHP-00494,2025-02-02,Birmingham,Sports,5,0,1,0,8.41
+SHP-00495,2025-04-04,Bristol,Home & Living,12,4,0,0,15.92
+SHP-00496,2025-07-16,Manchester,Sports,10,0,1,0,10.73
+SHP-00497,2025-02-26,Manchester,Electronics,11,2,0,1,14.4
+SHP-00498,2025-01-30,Leeds,Electronics,9,0,1,0,11.96
+SHP-00499,2025-11-18,Bristol,Home & Living,10,1,1,0,12.84
+SHP-00500,2025-02-12,Leeds,Electronics,8,5,0,1,13.89
+SHP-00501,2025-09-08,Manchester,Home & Living,2,1,1,0,6.85
+SHP-00502,2025-09-28,Leeds,Home & Living,8,0,1,0,11.39
+SHP-00503,2025-10-22,Manchester,Office,3,4,0,1,11.86
+SHP-00504,2025-11-25,Birmingham,Office,11,6,0,1,18.1
+SHP-00505,2025-04-18,Leeds,Sports,2,0,1,0,7.14
+SHP-00506,2025-04-19,Manchester,Electronics,6,0,1,0,7.76
+SHP-00507,2025-07-27,Manchester,Beauty,3,0,1,0,8.54
+SHP-00508,2025-10-24,Manchester,Sports,11,0,1,0,13.95
+SHP-00509,2025-03-31,Bristol,Home & Living,4,2,1,0,7.4
+SHP-00510,2025-01-17,Birmingham,Home & Living,2,0,1,0,7.32
+SHP-00511,2025-06-25,Bristol,Sports,8,0,1,0,11.28
+SHP-00512,2025-09-20,Bristol,Office,11,2,1,0,11.92
+SHP-00513,2025-02-23,Bristol,Electronics,11,0,1,0,10.81
+SHP-00514,2025-02-09,Bristol,Home & Living,6,5,0,1,12.23
+SHP-00515,2025-11-09,Bristol,Home & Living,6,1,1,0,10.63
+SHP-00516,2025-03-24,Manchester,Electronics,8,0,1,0,9.75
+SHP-00517,2025-04-03,Bristol,Home & Living,7,0,1,0,9.97
+SHP-00518,2025-08-24,Manchester,Sports,1,1,1,0,7.17
+SHP-00519,2025-10-26,Birmingham,Electronics,1,3,0,1,9.35
+SHP-00520,2025-02-06,Leeds,Office,7,3,0,1,13.51
+SHP-00521,2025-09-23,Birmingham,Electronics,9,0,1,0,11.64
+SHP-00522,2025-10-31,Leeds,Office,10,2,1,0,13.24
+SHP-00523,2025-01-27,Birmingham,Electronics,1,2,1,0,7.49
+SHP-00524,2025-02-14,Birmingham,Beauty,7,0,1,0,9.78
+SHP-00525,2025-01-28,Leeds,Beauty,9,0,1,0,12.23
+SHP-00526,2025-10-31,Leeds,Home & Living,7,3,0,0,10.43
+SHP-00527,2025-11-04,Bristol,Home & Living,1,0,1,0,6.93
+SHP-00528,2025-05-10,Manchester,Electronics,8,1,1,0,10.63
+SHP-00529,2025-03-04,Manchester,Office,2,2,0,1,8.69
+SHP-00530,2025-12-26,Leeds,Electronics,11,0,1,0,13.85
+SHP-00531,2025-12-24,Birmingham,Home & Living,7,0,1,0,10.76
+SHP-00532,2025-12-06,Leeds,Home & Living,3,2,1,0,8.93
+SHP-00533,2025-04-06,Bristol,Electronics,10,3,0,1,12.71
+SHP-00534,2025-04-26,Manchester,Sports,1,1,1,0,5.41
+SHP-00535,2025-10-26,Manchester,Beauty,6,0,1,0,7.57
+SHP-00536,2025-09-12,Manchester,Home & Living,12,1,1,0,12.45
+SHP-00537,2025-01-22,Birmingham,Office,1,0,1,0,4.68
+SHP-00538,2025-12-15,Leeds,Home & Living,8,2,1,0,12.79
+SHP-00539,2025-07-25,Bristol,Electronics,10,0,1,0,13.15
+SHP-00540,2025-05-07,Bristol,Sports,6,2,1,0,9.94
+SHP-00541,2025-07-15,Leeds,Home & Living,2,2,1,0,8.1
+SHP-00542,2025-06-28,Birmingham,Home & Living,9,1,1,0,10.97
+SHP-00543,2025-05-20,Manchester,Home & Living,1,2,1,0,6.34
+SHP-00544,2025-01-28,Birmingham,Office,3,1,1,0,6.9
+SHP-00545,2025-03-06,Leeds,Electronics,2,1,0,1,9.58
+SHP-00546,2025-07-29,Manchester,Home & Living,6,1,0,1,9.51
+SHP-00547,2025-10-04,Manchester,Beauty,5,1,1,0,10.2
+SHP-00548,2025-08-10,Birmingham,Electronics,11,4,0,1,13.08
+SHP-00549,2025-02-03,Bristol,Beauty,3,1,1,0,9.26
+SHP-00550,2025-03-12,Birmingham,Electronics,7,0,1,0,8.62
+SHP-00551,2025-11-06,Leeds,Home & Living,8,3,0,0,11.02
+SHP-00552,2025-09-06,Leeds,Beauty,3,7,0,1,13.54
+SHP-00553,2025-07-10,Leeds,Home & Living,6,2,1,0,11.58
+SHP-00554,2025-02-21,Leeds,Electronics,10,1,1,0,11.72
+SHP-00555,2025-01-01,Birmingham,Beauty,9,4,0,0,15.43
+SHP-00556,2025-01-07,Leeds,Sports,10,0,1,0,9.7
+SHP-00557,2025-11-21,Leeds,Office,1,0,1,0,4.72
+SHP-00558,2025-12-06,Birmingham,Home & Living,7,0,1,0,11.7
+SHP-00559,2025-09-14,Manchester,Home & Living,10,3,0,1,11.89
+SHP-00560,2025-03-15,Bristol,Sports,9,1,1,0,11.61
+SHP-00561,2025-05-19,Leeds,Beauty,10,0,1,0,11.51
+SHP-00562,2025-05-03,Manchester,Sports,5,0,1,0,7.1
+SHP-00563,2025-12-26,Manchester,Sports,5,3,0,0,11.96
+SHP-00564,2025-11-09,Leeds,Electronics,7,0,1,0,11.86
+SHP-00565,2025-06-11,Manchester,Beauty,6,3,0,0,10.53
+SHP-00566,2025-10-17,Leeds,Electronics,2,0,1,0,5.78
+SHP-00567,2025-02-07,Leeds,Office,4,0,1,0,9.47
+SHP-00568,2025-08-20,Bristol,Beauty,8,5,0,0,11.7
+SHP-00569,2025-07-25,Birmingham,Office,12,3,0,0,14.92
+SHP-00570,2025-11-18,Bristol,Office,11,0,1,0,11.91
+SHP-00571,2025-07-16,Manchester,Electronics,12,3,0,1,14.72
+SHP-00572,2025-05-07,Leeds,Home & Living,1,0,1,0,6.22
+SHP-00573,2025-06-12,Leeds,Electronics,1,5,0,1,9.66
+SHP-00574,2025-10-31,Manchester,Electronics,7,1,1,0,9.92
+SHP-00575,2025-07-07,Birmingham,Electronics,7,0,1,0,12.1
+SHP-00576,2025-11-01,Manchester,Sports,6,0,1,0,7.42
+SHP-00577,2025-11-08,Leeds,Electronics,5,0,1,0,6.86
+SHP-00578,2025-06-03,Leeds,Office,12,0,1,0,13.35
+SHP-00579,2025-03-07,Birmingham,Office,8,3,0,0,13.37
+SHP-00580,2025-01-17,Bristol,Electronics,3,0,1,0,6.7
+SHP-00581,2025-08-22,Leeds,Electronics,1,4,0,0,9.02
+SHP-00582,2025-10-18,Leeds,Office,8,0,1,0,9.43
+SHP-00583,2025-05-25,Manchester,Electronics,1,1,0,1,5.87
+SHP-00584,2025-08-12,Manchester,Beauty,2,0,1,0,7.74
+SHP-00585,2025-10-30,Manchester,Home & Living,8,0,1,0,10.01
+SHP-00586,2025-05-30,Birmingham,Beauty,4,0,1,0,7.58
+SHP-00587,2025-05-19,Manchester,Sports,9,1,1,0,11.13
+SHP-00588,2025-12-30,Bristol,Home & Living,7,4,0,0,11.15
+SHP-00589,2025-12-27,Birmingham,Electronics,7,0,1,0,10.52
+SHP-00590,2025-12-13,Manchester,Home & Living,11,2,0,1,11.73
+SHP-00591,2025-04-15,Birmingham,Office,5,0,1,0,7.05
+SHP-00592,2025-06-29,Manchester,Electronics,8,8,0,1,13.66
+SHP-00593,2025-06-11,Leeds,Home & Living,1,4,0,1,8.55
+SHP-00594,2025-03-22,Bristol,Electronics,2,2,1,0,6.81
+SHP-00595,2025-09-01,Birmingham,Electronics,2,0,1,0,9.21
+SHP-00596,2025-01-21,Birmingham,Sports,6,0,1,0,9.09
+SHP-00597,2025-08-26,Birmingham,Sports,5,0,1,0,9.24
+SHP-00598,2025-12-07,Birmingham,Home & Living,5,2,0,1,11.75
+SHP-00599,2025-12-18,Bristol,Beauty,5,1,1,0,7.45
+SHP-00600,2025-06-22,Manchester,Electronics,12,0,1,0,11.48
+SHP-00601,2025-12-17,Leeds,Sports,2,0,1,0,5.76
+SHP-00602,2025-02-07,Birmingham,Office,11,0,1,0,12.26
+SHP-00603,2025-11-15,Manchester,Home & Living,9,2,1,0,12.09
+SHP-00604,2025-12-28,Bristol,Electronics,9,0,1,0,12.05
+SHP-00605,2025-08-06,Leeds,Electronics,8,1,1,0,11.44
+SHP-00606,2025-02-27,Birmingham,Beauty,9,0,1,0,11.72
+SHP-00607,2025-04-30,Manchester,Home & Living,3,0,1,0,8.15
+SHP-00608,2025-03-06,Leeds,Sports,6,2,1,0,11.17
+SHP-00609,2025-12-21,Leeds,Electronics,10,0,1,0,10.28
+SHP-00610,2025-11-01,Manchester,Beauty,11,3,0,1,12.84
+SHP-00611,2025-03-17,Manchester,Beauty,10,0,1,0,12.22
+SHP-00612,2025-03-21,Birmingham,Electronics,3,2,1,0,8.01
+SHP-00613,2025-08-31,Leeds,Beauty,4,0,1,0,6.95
+SHP-00614,2025-03-10,Manchester,Electronics,1,3,0,0,9.16
+SHP-00615,2025-03-22,Leeds,Electronics,6,0,1,0,11.17
+SHP-00616,2025-08-08,Manchester,Home & Living,2,3,0,0,10.16
+SHP-00617,2025-04-10,Manchester,Home & Living,7,0,1,0,8.34
+SHP-00618,2025-09-02,Birmingham,Beauty,5,1,1,0,8.06
+SHP-00619,2025-06-06,Birmingham,Electronics,5,3,0,0,10.61
+SHP-00620,2025-09-04,Birmingham,Office,11,0,1,0,10.52
+SHP-00621,2025-09-28,Manchester,Sports,9,1,1,0,10.62
+SHP-00622,2025-06-01,Birmingham,Home & Living,2,0,1,0,8.28
+SHP-00623,2025-07-07,Bristol,Electronics,4,0,1,0,10.19
+SHP-00624,2025-12-09,Birmingham,Office,8,3,0,0,14.52
+SHP-00625,2025-05-26,Leeds,Home & Living,3,0,1,0,9.4
+SHP-00626,2025-04-24,Leeds,Home & Living,1,0,1,0,8.08
+SHP-00627,2025-03-28,Manchester,Office,11,1,1,0,14.6
+SHP-00628,2025-02-07,Birmingham,Beauty,12,5,0,0,16.25
+SHP-00629,2025-10-22,Manchester,Home & Living,3,0,1,0,6.27
+SHP-00630,2025-02-21,Birmingham,Office,4,5,0,0,9.34
+SHP-00631,2025-01-19,Bristol,Office,12,2,1,0,14.3
+SHP-00632,2025-10-14,Manchester,Home & Living,5,0,1,0,10.45
+SHP-00633,2025-04-12,Bristol,Beauty,6,0,1,0,8.11
+SHP-00634,2025-06-12,Bristol,Office,3,0,1,0,7.21
+SHP-00635,2025-11-10,Manchester,Beauty,9,3,0,0,11.95
+SHP-00636,2025-03-05,Leeds,Electronics,11,1,1,0,14.9
+SHP-00637,2025-05-03,Birmingham,Home & Living,1,0,1,0,5.49
+SHP-00638,2025-10-15,Manchester,Beauty,7,0,1,0,11.64
+SHP-00639,2025-08-16,Manchester,Beauty,2,3,0,0,9.75
+SHP-00640,2025-07-28,Manchester,Sports,5,2,1,0,9.93
+SHP-00641,2025-12-13,Manchester,Electronics,12,2,1,0,13.91
+SHP-00642,2025-09-01,Birmingham,Electronics,3,0,1,0,8.92
+SHP-00643,2025-12-18,Leeds,Electronics,6,3,0,0,9.58
+SHP-00644,2025-06-20,Bristol,Sports,7,0,1,0,11.9
+SHP-00645,2025-01-16,Leeds,Sports,2,0,1,0,8.34
+SHP-00646,2025-05-27,Manchester,Home & Living,3,2,1,0,10.08
+SHP-00647,2025-02-06,Birmingham,Electronics,5,3,0,0,9.26
+SHP-00648,2025-10-31,Manchester,Beauty,5,2,1,0,11.97
+SHP-00649,2025-05-09,Birmingham,Beauty,5,1,1,0,10.47
+SHP-00650,2025-03-15,Manchester,Beauty,4,0,1,0,8.99
+SHP-00651,2025-12-06,Bristol,Electronics,10,0,1,0,12.34
+SHP-00652,2025-08-19,Birmingham,Office,10,3,0,0,12.12
+SHP-00653,2025-06-04,Leeds,Office,2,0,1,0,8.75
+SHP-00654,2025-03-01,Birmingham,Sports,10,3,0,1,13.98
+SHP-00655,2025-09-12,Manchester,Sports,5,1,1,0,9.95
+SHP-00656,2025-04-02,Bristol,Sports,7,3,0,0,9.77
+SHP-00657,2025-03-28,Birmingham,Electronics,6,0,1,0,8.01
+SHP-00658,2025-10-30,Leeds,Electronics,11,1,0,1,13.3
+SHP-00659,2025-03-08,Manchester,Office,9,0,1,0,9.65
+SHP-00660,2025-10-08,Manchester,Sports,2,0,1,0,4.94
+SHP-00661,2025-04-24,Bristol,Sports,11,5,0,0,15.87
+SHP-00662,2025-11-11,Birmingham,Electronics,10,2,1,0,14.88
+SHP-00663,2025-04-24,Manchester,Office,11,5,0,0,14.4
+SHP-00664,2025-05-24,Manchester,Beauty,10,2,1,0,14.66
+SHP-00665,2025-05-22,Birmingham,Electronics,7,1,1,0,10.81
+SHP-00666,2025-05-23,Birmingham,Electronics,3,0,1,0,7.19
+SHP-00667,2025-03-07,Manchester,Electronics,7,4,0,0,11.08
+SHP-00668,2025-07-22,Manchester,Sports,7,1,1,0,9.57
+SHP-00669,2025-10-25,Leeds,Electronics,3,1,1,0,8.4
+SHP-00670,2025-05-16,Birmingham,Electronics,7,0,1,0,10.07
+SHP-00671,2025-09-28,Manchester,Office,5,4,0,0,13.3
+SHP-00672,2025-01-13,Bristol,Office,2,1,1,0,7.38
+SHP-00673,2025-09-28,Birmingham,Office,6,2,1,0,11.11
+SHP-00674,2025-06-25,Manchester,Sports,12,1,1,0,14.77
+SHP-00675,2025-04-27,Leeds,Sports,2,0,1,0,7.01
+SHP-00676,2025-07-22,Bristol,Electronics,5,1,1,0,8.76
+SHP-00677,2025-11-26,Leeds,Office,12,1,1,0,14.65
+SHP-00678,2025-06-05,Birmingham,Beauty,12,3,0,0,14.17
+SHP-00679,2025-11-05,Leeds,Office,1,1,1,0,8.64
+SHP-00680,2025-08-27,Manchester,Beauty,6,0,1,0,10.4
+SHP-00681,2025-08-10,Birmingham,Office,1,3,0,1,8.22
+SHP-00682,2025-12-06,Leeds,Electronics,2,2,0,1,6.65
+SHP-00683,2025-05-25,Bristol,Electronics,7,3,0,0,11.77
+SHP-00684,2025-12-10,Leeds,Office,8,2,1,0,12.17
+SHP-00685,2025-06-03,Birmingham,Sports,10,0,1,0,11.3
+SHP-00686,2025-11-01,Birmingham,Electronics,4,0,1,0,9.02
+SHP-00687,2025-07-19,Leeds,Beauty,8,1,1,0,9.73
+SHP-00688,2025-08-28,Manchester,Electronics,5,1,1,0,8.45
+SHP-00689,2025-10-20,Bristol,Office,8,2,1,0,11.46
+SHP-00690,2025-11-05,Manchester,Electronics,11,5,0,1,17.54
+SHP-00691,2025-05-13,Bristol,Beauty,1,0,1,0,7.92
+SHP-00692,2025-11-18,Manchester,Office,7,2,1,0,10.24
+SHP-00693,2025-01-19,Bristol,Sports,12,0,1,0,13.03
+SHP-00694,2025-05-06,Birmingham,Electronics,5,3,0,0,9.81
+SHP-00695,2025-05-11,Bristol,Beauty,8,0,1,0,11.55
+SHP-00696,2025-04-26,Birmingham,Home & Living,11,1,1,0,14.23
+SHP-00697,2025-10-30,Manchester,Beauty,7,0,1,0,8.74
+SHP-00698,2025-06-28,Birmingham,Office,2,0,1,0,6.4
+SHP-00699,2025-09-13,Birmingham,Home & Living,4,0,1,0,8.27
+SHP-00700,2025-06-29,Bristol,Electronics,9,4,0,0,14.83
+SHP-00701,2025-05-31,Manchester,Sports,8,0,1,0,9.34
+SHP-00702,2025-12-31,Bristol,Sports,6,0,1,0,9.31
+SHP-00703,2025-06-05,Leeds,Home & Living,9,1,1,0,11.66
+SHP-00704,2025-01-06,Leeds,Beauty,1,2,0,1,6.89
+SHP-00705,2025-09-19,Birmingham,Electronics,3,0,1,0,7.28
+SHP-00706,2025-09-24,Manchester,Sports,3,0,1,0,5.61
+SHP-00707,2025-12-06,Leeds,Sports,12,1,1,0,12.91
+SHP-00708,2025-06-15,Manchester,Beauty,1,4,0,1,10.57
+SHP-00709,2025-06-23,Birmingham,Electronics,11,0,1,0,11.95
+SHP-00710,2025-06-18,Birmingham,Home & Living,8,1,0,1,10.86
+SHP-00711,2025-06-04,Manchester,Home & Living,11,5,0,0,14.2
+SHP-00712,2025-08-22,Manchester,Home & Living,2,3,0,0,7.53
+SHP-00713,2025-02-05,Birmingham,Sports,12,2,1,0,12.94
+SHP-00714,2025-06-09,Bristol,Electronics,5,2,1,0,8.66
+SHP-00715,2025-05-23,Manchester,Electronics,1,4,0,0,7.39
+SHP-00716,2025-01-29,Birmingham,Electronics,12,2,0,1,12.68
+SHP-00717,2025-07-01,Manchester,Home & Living,6,0,1,0,9.35
+SHP-00718,2025-11-10,Manchester,Electronics,6,0,1,0,7.67
+SHP-00719,2025-10-14,Birmingham,Home & Living,9,1,1,0,9.83
+SHP-00720,2025-04-12,Manchester,Home & Living,4,0,1,0,9.57
+SHP-00721,2025-12-21,Birmingham,Electronics,8,3,0,0,12.75
+SHP-00722,2025-06-02,Birmingham,Office,10,0,1,0,10.05
+SHP-00723,2025-08-24,Birmingham,Office,8,0,1,0,8.81
+SHP-00724,2025-10-07,Bristol,Beauty,4,0,1,0,9.95
+SHP-00725,2025-04-06,Manchester,Electronics,6,0,1,0,8.17
+SHP-00726,2025-06-13,Birmingham,Beauty,12,2,1,0,15.74
+SHP-00727,2025-11-24,Leeds,Office,11,0,1,0,14.3
+SHP-00728,2025-12-28,Birmingham,Sports,7,0,1,0,10.99
+SHP-00729,2025-09-06,Manchester,Home & Living,9,3,0,0,11.03
+SHP-00730,2025-05-05,Manchester,Electronics,11,0,1,0,10.18
+SHP-00731,2025-02-05,Bristol,Home & Living,8,2,1,0,11.41
+SHP-00732,2025-08-10,Leeds,Office,7,0,1,0,8.03
+SHP-00733,2025-11-22,Leeds,Electronics,1,1,1,0,9.16
+SHP-00734,2025-08-23,Bristol,Office,1,2,1,0,7.25
+SHP-00735,2025-01-22,Leeds,Home & Living,11,4,0,0,13.93
+SHP-00736,2025-07-03,Manchester,Home & Living,12,2,1,0,12.0
+SHP-00737,2025-05-20,Bristol,Office,8,0,1,0,10.67
+SHP-00738,2025-01-31,Leeds,Home & Living,3,3,0,0,10.97
+SHP-00739,2025-12-18,Manchester,Sports,2,0,1,0,6.8
+SHP-00740,2025-07-31,Manchester,Home & Living,7,1,1,0,11.32
+SHP-00741,2025-10-22,Leeds,Home & Living,12,0,1,0,12.27
+SHP-00742,2025-01-08,Bristol,Electronics,7,0,1,0,9.93
+SHP-00743,2025-02-07,Manchester,Office,4,0,1,0,6.36
+SHP-00744,2025-02-24,Leeds,Electronics,9,3,0,1,11.25
+SHP-00745,2025-10-08,Birmingham,Home & Living,5,0,1,0,7.92
+SHP-00746,2025-02-18,Manchester,Office,1,1,1,0,5.1
+SHP-00747,2025-03-16,Manchester,Office,2,5,0,0,8.74
+SHP-00748,2025-04-01,Bristol,Home & Living,9,0,1,0,11.91
+SHP-00749,2025-01-22,Birmingham,Office,5,0,1,0,6.86
+SHP-00750,2025-08-20,Bristol,Office,2,2,0,1,9.59
+SHP-00751,2025-03-27,Leeds,Office,12,0,1,0,13.18
+SHP-00752,2025-08-30,Birmingham,Sports,10,0,1,0,9.64
+SHP-00753,2025-12-02,Birmingham,Sports,7,0,1,0,8.08
+SHP-00754,2025-03-09,Manchester,Sports,12,2,1,0,15.72
+SHP-00755,2025-05-02,Birmingham,Sports,9,0,1,0,10.74
+SHP-00756,2025-01-10,Manchester,Home & Living,11,0,1,0,13.41
+SHP-00757,2025-01-18,Bristol,Office,3,0,1,0,9.17
+SHP-00758,2025-02-15,Bristol,Sports,6,0,1,0,7.44
+SHP-00759,2025-12-31,Manchester,Home & Living,11,0,1,0,11.71
+SHP-00760,2025-05-03,Bristol,Office,8,0,1,0,11.02
+SHP-00761,2025-09-30,Manchester,Office,3,0,1,0,9.72
+SHP-00762,2025-11-12,Manchester,Home & Living,10,1,1,0,13.35
+SHP-00763,2025-12-21,Manchester,Sports,2,5,0,0,12.09
+SHP-00764,2025-07-26,Bristol,Electronics,7,2,1,0,11.16
+SHP-00765,2025-02-01,Manchester,Sports,8,0,1,0,11.03
+SHP-00766,2025-01-08,Birmingham,Home & Living,11,0,1,0,11.17
+SHP-00767,2025-03-16,Leeds,Home & Living,2,1,0,1,7.96
+SHP-00768,2025-11-09,Leeds,Home & Living,12,3,0,0,16.71
+SHP-00769,2025-08-16,Bristol,Office,3,2,1,0,9.9
+SHP-00770,2025-01-09,Bristol,Electronics,5,3,0,0,8.85
+SHP-00771,2025-03-17,Manchester,Home & Living,5,0,1,0,8.87
+SHP-00772,2025-09-26,Leeds,Home & Living,7,2,1,0,11.15
+SHP-00773,2025-12-16,Birmingham,Electronics,8,2,1,0,11.97
+SHP-00774,2025-04-27,Bristol,Sports,12,1,1,0,14.19
+SHP-00775,2025-10-14,Manchester,Office,3,0,1,0,8.09
+SHP-00776,2025-11-22,Bristol,Home & Living,9,3,0,1,14.24
+SHP-00777,2025-04-20,Manchester,Electronics,9,5,0,1,15.81
+SHP-00778,2025-06-15,Manchester,Sports,3,0,1,0,8.08
+SHP-00779,2025-01-18,Manchester,Electronics,5,2,1,0,9.43
+SHP-00780,2025-10-25,Bristol,Sports,11,0,1,0,13.98
+SHP-00781,2025-10-06,Manchester,Electronics,1,1,1,0,8.56
+SHP-00782,2025-10-25,Birmingham,Sports,4,2,0,1,8.24
+SHP-00783,2025-03-02,Birmingham,Electronics,6,2,1,0,9.1
+SHP-00784,2025-05-23,Birmingham,Electronics,4,0,1,0,7.88
+SHP-00785,2025-09-25,Manchester,Beauty,1,2,1,0,6.0
+SHP-00786,2025-04-04,Manchester,Office,9,0,1,0,9.76
+SHP-00787,2025-07-30,Birmingham,Beauty,7,0,1,0,9.77
+SHP-00788,2025-02-10,Leeds,Office,1,2,1,0,5.82
+SHP-00789,2025-03-05,Birmingham,Beauty,6,0,1,0,10.44
+SHP-00790,2025-05-28,Birmingham,Office,1,4,0,0,7.13
+SHP-00791,2025-07-24,Manchester,Home & Living,2,1,1,0,7.08
+SHP-00792,2025-06-03,Leeds,Office,1,3,0,0,8.76
+SHP-00793,2025-10-12,Birmingham,Home & Living,10,0,1,0,12.78
+SHP-00794,2025-09-01,Manchester,Office,7,0,1,0,11.9
+SHP-00795,2025-11-15,Bristol,Office,2,0,1,0,6.06
+SHP-00796,2025-11-03,Bristol,Electronics,10,0,1,0,12.39
+SHP-00797,2025-12-08,Leeds,Electronics,1,0,1,0,8.27
+SHP-00798,2025-04-02,Manchester,Home & Living,7,1,1,0,9.2
+SHP-00799,2025-07-17,Leeds,Beauty,4,5,0,0,12.07
+SHP-00800,2025-05-02,Manchester,Beauty,12,3,0,0,15.64
+SHP-00801,2025-11-17,Bristol,Beauty,6,1,1,0,9.27
+SHP-00802,2025-01-27,Bristol,Electronics,10,0,1,0,10.32
+SHP-00803,2025-12-30,Birmingham,Electronics,10,0,1,0,11.76
+SHP-00804,2025-01-24,Manchester,Office,2,1,1,0,6.34
+SHP-00805,2025-10-20,Manchester,Home & Living,8,0,1,0,8.71
+SHP-00806,2025-02-05,Manchester,Office,11,0,1,0,14.34
+SHP-00807,2025-06-21,Leeds,Home & Living,8,1,1,0,12.55
+SHP-00808,2025-07-02,Bristol,Electronics,2,0,1,0,5.37
+SHP-00809,2025-05-30,Manchester,Electronics,10,3,0,1,13.93
+SHP-00810,2025-06-13,Manchester,Office,2,3,0,1,8.56
+SHP-00811,2025-06-06,Leeds,Beauty,5,4,0,0,10.97
+SHP-00812,2025-02-05,Manchester,Sports,1,0,1,0,7.07
+SHP-00813,2025-11-13,Bristol,Electronics,5,3,0,1,10.49
+SHP-00814,2025-04-13,Leeds,Home & Living,8,0,1,0,9.09
+SHP-00815,2025-10-20,Manchester,Office,11,1,1,0,12.72
+SHP-00816,2025-01-06,Leeds,Office,9,0,1,0,10.56
+SHP-00817,2025-10-30,Bristol,Office,3,1,1,0,9.87
+SHP-00818,2025-09-23,Birmingham,Electronics,10,0,1,0,13.71
+SHP-00819,2025-09-05,Birmingham,Office,2,4,0,0,9.7
+SHP-00820,2025-01-19,Manchester,Electronics,4,2,1,0,9.6
+SHP-00821,2025-08-13,Birmingham,Electronics,7,6,0,1,11.74
+SHP-00822,2025-12-13,Leeds,Beauty,4,0,1,0,6.76
+SHP-00823,2025-07-14,Manchester,Electronics,1,0,1,0,6.24
+SHP-00824,2025-11-22,Leeds,Electronics,4,0,1,0,9.19
+SHP-00825,2025-10-19,Bristol,Office,4,0,1,0,7.88
+SHP-00826,2025-01-08,Leeds,Electronics,5,3,0,0,10.59
+SHP-00827,2025-11-19,Bristol,Home & Living,1,0,1,0,4.44
+SHP-00828,2025-05-09,Bristol,Office,9,0,1,0,9.25
+SHP-00829,2025-10-12,Birmingham,Home & Living,12,0,1,0,13.44
+SHP-00830,2025-03-22,Birmingham,Beauty,1,2,1,0,8.28
+SHP-00831,2025-07-16,Manchester,Office,11,2,1,0,15.5
+SHP-00832,2025-04-18,Birmingham,Beauty,5,0,1,0,8.95
+SHP-00833,2025-03-30,Bristol,Office,4,0,1,0,6.33
+SHP-00834,2025-11-23,Birmingham,Beauty,7,0,1,0,11.99
+SHP-00835,2025-12-24,Birmingham,Electronics,9,1,0,1,11.72
+SHP-00836,2025-03-25,Manchester,Electronics,9,0,1,0,12.31
+SHP-00837,2025-04-25,Birmingham,Home & Living,12,0,1,0,14.67
+SHP-00838,2025-02-14,Leeds,Electronics,8,2,1,0,12.01
+SHP-00839,2025-11-27,Birmingham,Office,10,0,1,0,11.73
+SHP-00840,2025-08-09,Leeds,Beauty,4,1,1,0,8.59
+SHP-00841,2025-06-02,Leeds,Home & Living,12,0,1,0,14.32
+SHP-00842,2025-01-31,Manchester,Home & Living,9,3,0,0,14.39
+SHP-00843,2025-10-14,Manchester,Beauty,5,0,1,0,7.82
+SHP-00844,2025-05-03,Bristol,Office,11,6,0,1,14.97
+SHP-00845,2025-04-13,Manchester,Sports,7,2,1,0,9.94
+SHP-00846,2025-12-26,Manchester,Beauty,8,0,1,0,11.52
+SHP-00847,2025-04-10,Leeds,Office,2,3,0,0,10.94
+SHP-00848,2025-07-04,Leeds,Beauty,11,0,1,0,14.06
+SHP-00849,2025-05-11,Bristol,Beauty,6,0,1,0,9.75
+SHP-00850,2025-10-01,Leeds,Sports,11,2,0,1,11.91
+SHP-00851,2025-09-17,Birmingham,Office,8,1,1,0,12.24
+SHP-00852,2025-01-15,Leeds,Beauty,1,2,1,0,6.15
+SHP-00853,2025-02-27,Bristol,Electronics,5,1,1,0,10.61
+SHP-00854,2025-03-14,Leeds,Office,11,1,1,0,12.48
+SHP-00855,2025-08-13,Manchester,Beauty,2,1,1,0,8.67
+SHP-00856,2025-08-03,Birmingham,Home & Living,11,0,1,0,13.4
+SHP-00857,2025-06-29,Leeds,Electronics,12,0,1,0,14.8
+SHP-00858,2025-03-25,Birmingham,Electronics,10,3,0,1,12.67
+SHP-00859,2025-09-01,Bristol,Office,9,1,1,0,11.12
+SHP-00860,2025-08-09,Manchester,Electronics,11,0,1,0,13.86
+SHP-00861,2025-10-06,Leeds,Electronics,1,3,0,0,7.42
+SHP-00862,2025-09-18,Birmingham,Electronics,9,1,1,0,13.61
+SHP-00863,2025-08-12,Birmingham,Sports,8,0,1,0,8.79
+SHP-00864,2025-09-29,Bristol,Electronics,8,1,1,0,12.23
+SHP-00865,2025-01-07,Birmingham,Beauty,4,0,1,0,10.08
+SHP-00866,2025-01-11,Bristol,Home & Living,8,2,1,0,13.04
+SHP-00867,2025-07-01,Birmingham,Sports,2,1,1,0,7.03
+SHP-00868,2025-12-05,Leeds,Home & Living,7,3,0,0,10.79
+SHP-00869,2025-03-16,Bristol,Office,6,0,1,0,9.62
+SHP-00870,2025-05-02,Birmingham,Home & Living,10,3,0,1,15.08
+SHP-00871,2025-06-24,Bristol,Beauty,1,0,1,0,5.11
+SHP-00872,2025-07-16,Manchester,Sports,7,2,1,0,11.66
+SHP-00873,2025-02-25,Birmingham,Electronics,1,1,1,0,7.57
+SHP-00874,2025-11-29,Leeds,Home & Living,6,1,1,0,11.05
+SHP-00875,2025-04-18,Bristol,Beauty,3,1,1,0,6.53
+SHP-00876,2025-02-02,Manchester,Beauty,3,0,1,0,7.25
+SHP-00877,2025-06-11,Leeds,Home & Living,5,3,0,1,8.56
+SHP-00878,2025-07-07,Leeds,Home & Living,4,1,1,0,7.69
+SHP-00879,2025-12-17,Leeds,Office,4,3,0,1,9.67
+SHP-00880,2025-08-25,Bristol,Sports,8,3,0,1,11.8
+SHP-00881,2025-07-18,Bristol,Electronics,8,2,1,0,9.89
+SHP-00882,2025-03-21,Manchester,Electronics,5,4,0,0,12.71
+SHP-00883,2025-11-02,Birmingham,Office,4,3,0,0,11.03
+SHP-00884,2025-07-30,Manchester,Home & Living,3,2,1,0,8.35
+SHP-00885,2025-04-09,Manchester,Beauty,9,3,0,0,11.96
+SHP-00886,2025-06-23,Leeds,Beauty,9,2,1,0,10.7
+SHP-00887,2025-06-24,Birmingham,Sports,7,0,1,0,10.11
+SHP-00888,2025-10-25,Bristol,Home & Living,9,2,1,0,12.8
+SHP-00889,2025-06-28,Manchester,Electronics,2,5,0,0,11.77
+SHP-00890,2025-08-25,Manchester,Electronics,4,1,1,0,8.01
+SHP-00891,2025-03-18,Birmingham,Home & Living,1,1,1,0,6.16
+SHP-00892,2025-02-26,Leeds,Sports,11,0,1,0,11.7
+SHP-00893,2025-06-25,Manchester,Home & Living,8,3,0,0,12.45
+SHP-00894,2025-09-21,Leeds,Electronics,11,4,0,1,13.29
+SHP-00895,2025-04-29,Birmingham,Office,5,0,1,0,7.39
+SHP-00896,2025-03-24,Manchester,Sports,1,4,0,0,7.69
+SHP-00897,2025-10-04,Birmingham,Home & Living,4,1,1,0,10.73
+SHP-00898,2025-01-22,Manchester,Beauty,3,1,1,0,9.63
+SHP-00899,2025-05-21,Manchester,Beauty,3,2,1,0,9.82
+SHP-00900,2025-04-03,Leeds,Home & Living,10,3,0,0,14.11
+SHP-00901,2025-09-13,Birmingham,Beauty,10,1,0,1,10.76
+SHP-00902,2025-09-20,Birmingham,Home & Living,8,0,1,0,8.96
+SHP-00903,2025-10-18,Leeds,Home & Living,7,0,1,0,9.63
+SHP-00904,2025-01-10,Birmingham,Electronics,4,2,1,0,9.9
+SHP-00905,2025-12-29,Birmingham,Office,6,0,1,0,9.83
+SHP-00906,2025-05-03,Manchester,Electronics,6,0,1,0,7.9
+SHP-00907,2025-03-31,Manchester,Home & Living,11,0,1,0,13.97
+SHP-00908,2025-05-03,Birmingham,Sports,2,1,0,1,9.59
+SHP-00909,2025-09-16,Leeds,Beauty,4,0,1,0,9.17
+SHP-00910,2025-11-07,Manchester,Sports,2,1,1,0,8.3
+SHP-00911,2025-06-06,Birmingham,Electronics,6,3,0,0,10.94
+SHP-00912,2025-08-31,Birmingham,Electronics,11,0,1,0,13.05
+SHP-00913,2025-11-04,Bristol,Office,8,2,1,0,10.64
+SHP-00914,2025-01-10,Bristol,Electronics,3,0,1,0,5.62
+SHP-00915,2025-02-26,Leeds,Electronics,3,2,0,1,8.09
+SHP-00916,2025-10-16,Bristol,Office,5,3,0,0,10.27
+SHP-00917,2025-01-01,Bristol,Beauty,6,1,1,0,9.4
+SHP-00918,2025-11-15,Manchester,Home & Living,9,3,0,1,10.9
+SHP-00919,2025-05-27,Manchester,Beauty,3,3,0,0,10.92
+SHP-00920,2025-12-18,Bristol,Home & Living,10,2,0,1,12.82
+SHP-00921,2025-11-04,Birmingham,Electronics,1,1,1,0,5.79
+SHP-00922,2025-09-23,Manchester,Electronics,9,0,1,0,12.86
+SHP-00923,2025-04-11,Manchester,Beauty,9,1,1,0,13.07
+SHP-00924,2025-11-16,Bristol,Home & Living,2,1,1,0,5.7
+SHP-00925,2025-06-02,Birmingham,Beauty,2,5,0,1,10.74
+SHP-00926,2025-07-04,Manchester,Beauty,4,0,1,0,8.98
+SHP-00927,2025-05-20,Birmingham,Beauty,10,1,1,0,12.44
+SHP-00928,2025-02-09,Birmingham,Beauty,3,6,0,1,11.85
+SHP-00929,2025-07-01,Manchester,Beauty,12,0,1,0,14.02
+SHP-00930,2025-02-14,Bristol,Electronics,9,3,0,0,11.04
+SHP-00931,2025-12-11,Manchester,Beauty,1,4,0,0,7.82
+SHP-00932,2025-04-03,Leeds,Electronics,12,2,1,0,12.83
+SHP-00933,2025-07-08,Bristol,Beauty,3,1,1,0,6.91
+SHP-00934,2025-05-02,Bristol,Home & Living,11,0,1,0,12.17
+SHP-00935,2025-03-07,Birmingham,Sports,9,0,1,0,10.65
+SHP-00936,2025-07-11,Manchester,Beauty,9,2,1,0,11.09
+SHP-00937,2025-06-04,Leeds,Office,7,3,0,0,10.13
+SHP-00938,2025-09-11,Manchester,Home & Living,1,1,1,0,9.13
+SHP-00939,2025-05-18,Bristol,Sports,1,1,1,0,8.09
+SHP-00940,2025-01-24,Birmingham,Office,2,0,1,0,7.6
+SHP-00941,2025-11-01,Manchester,Home & Living,6,0,1,0,9.65
+SHP-00942,2025-06-07,Bristol,Beauty,11,1,1,0,13.25
+SHP-00943,2025-06-16,Bristol,Sports,5,1,1,0,10.57
+SHP-00944,2025-02-19,Leeds,Electronics,4,1,1,0,7.82
+SHP-00945,2025-05-27,Manchester,Beauty,2,3,0,0,9.01
+SHP-00946,2025-11-07,Bristol,Electronics,3,3,0,1,10.84
+SHP-00947,2025-11-26,Manchester,Sports,8,1,1,0,10.38
+SHP-00948,2025-05-21,Leeds,Electronics,9,0,1,0,10.51
+SHP-00949,2025-08-18,Manchester,Home & Living,6,1,1,0,7.98
+SHP-00950,2025-07-28,Leeds,Office,11,0,1,0,13.9
+SHP-00951,2025-05-06,Manchester,Home & Living,11,4,0,0,15.69
+SHP-00952,2025-06-22,Leeds,Home & Living,12,0,1,0,13.15
+SHP-00953,2025-06-26,Manchester,Sports,2,2,1,0,9.37
+SHP-00954,2025-11-23,Birmingham,Electronics,5,3,0,1,10.23
+SHP-00955,2025-03-14,Bristol,Office,6,1,1,0,10.29
+SHP-00956,2025-04-09,Bristol,Beauty,9,0,1,0,10.42
+SHP-00957,2025-02-23,Manchester,Beauty,8,2,1,0,11.87
+SHP-00958,2025-04-22,Leeds,Sports,3,2,1,0,10.83
+SHP-00959,2025-10-14,Leeds,Home & Living,5,0,1,0,7.84
+SHP-00960,2025-10-13,Manchester,Sports,10,0,1,0,12.64
+SHP-00961,2025-10-02,Bristol,Sports,5,1,1,0,9.19
+SHP-00962,2025-09-20,Bristol,Sports,5,2,0,1,8.61
+SHP-00963,2025-12-17,Leeds,Sports,9,0,1,0,10.21
+SHP-00964,2025-07-24,Manchester,Electronics,11,0,1,0,12.64
+SHP-00965,2025-07-08,Leeds,Beauty,12,3,0,0,15.09
+SHP-00966,2025-02-28,Birmingham,Sports,10,0,1,0,11.97
+SHP-00967,2025-08-29,Manchester,Sports,5,3,0,0,12.64
+SHP-00968,2025-03-22,Bristol,Office,3,0,1,0,7.62
+SHP-00969,2025-10-04,Birmingham,Sports,11,0,1,0,10.36
+SHP-00970,2025-12-25,Bristol,Electronics,1,2,0,1,9.1
+SHP-00971,2025-08-10,Birmingham,Electronics,4,0,1,0,6.09
+SHP-00972,2025-08-07,Birmingham,Sports,11,2,1,0,14.65
+SHP-00973,2025-01-18,Bristol,Home & Living,10,2,1,0,11.31
+SHP-00974,2025-07-03,Bristol,Office,9,3,0,0,12.36
+SHP-00975,2025-02-08,Manchester,Beauty,9,0,1,0,10.72
+SHP-00976,2025-08-07,Bristol,Home & Living,1,1,1,0,6.18
+SHP-00977,2025-05-17,Bristol,Electronics,6,4,0,0,10.75
+SHP-00978,2025-11-18,Manchester,Electronics,8,4,0,0,14.01
+SHP-00979,2025-10-16,Birmingham,Electronics,2,0,1,0,8.8
+SHP-00980,2025-12-26,Manchester,Office,7,1,1,0,9.05
+SHP-00981,2025-02-25,Leeds,Home & Living,12,3,0,1,16.46
+SHP-00982,2025-10-16,Birmingham,Electronics,6,0,1,0,9.88
+SHP-00983,2025-12-23,Birmingham,Electronics,12,0,1,0,14.74
+SHP-00984,2025-02-02,Manchester,Home & Living,9,2,1,0,10.78
+SHP-00985,2025-07-20,Manchester,Electronics,10,0,1,0,10.95
+SHP-00986,2025-06-10,Manchester,Home & Living,7,3,0,0,12.2
+SHP-00987,2025-05-21,Manchester,Beauty,11,1,0,1,12.1
+SHP-00988,2025-05-03,Manchester,Home & Living,8,0,1,0,10.12
+SHP-00989,2025-05-05,Leeds,Beauty,6,1,1,0,9.16
+SHP-00990,2025-06-30,Manchester,Electronics,1,0,1,0,5.52
+SHP-00991,2025-06-16,Manchester,Office,9,1,1,0,9.95
+SHP-00992,2025-08-01,Bristol,Beauty,3,3,0,1,9.91
+SHP-00993,2025-10-01,Bristol,Beauty,9,1,0,1,10.99
+SHP-00994,2025-06-28,Birmingham,Electronics,11,0,1,0,13.91
+SHP-00995,2025-12-15,Leeds,Home & Living,9,0,1,0,9.56
+SHP-00996,2025-09-09,Birmingham,Beauty,5,0,1,0,8.99
+SHP-00997,2025-07-12,Leeds,Beauty,7,0,1,0,9.17
+SHP-00998,2025-04-19,Leeds,Beauty,4,2,1,0,9.94
+SHP-00999,2025-10-31,Leeds,Electronics,5,2,1,0,12.08
+SHP-01000,2025-03-23,Bristol,Home & Living,2,2,1,0,9.72
+SHP-01001,2025-09-25,Bristol,Home & Living,9,2,0,1,13.67
+SHP-01002,2025-09-26,Birmingham,Home & Living,7,0,1,0,10.99
+SHP-01003,2025-05-09,Bristol,Sports,1,2,1,0,7.67
+SHP-01004,2025-08-21,Leeds,Office,4,0,1,0,9.93
+SHP-01005,2025-03-09,Manchester,Beauty,3,0,1,0,6.8
+SHP-01006,2025-04-10,Birmingham,Home & Living,9,0,1,0,12.11
+SHP-01007,2025-03-18,Birmingham,Office,3,3,0,1,8.17
+SHP-01008,2025-02-05,Leeds,Electronics,3,0,1,0,8.63
+SHP-01009,2025-03-13,Birmingham,Beauty,3,1,1,0,10.16
+SHP-01010,2025-12-24,Leeds,Sports,10,0,1,0,13.25
+SHP-01011,2025-10-24,Birmingham,Office,7,0,1,0,8.97
+SHP-01012,2025-01-08,Birmingham,Beauty,7,2,1,0,13.04
+SHP-01013,2025-12-06,Birmingham,Office,3,1,1,0,8.65
+SHP-01014,2025-02-22,Bristol,Electronics,12,0,1,0,13.41
+SHP-01015,2025-05-09,Birmingham,Electronics,1,3,0,1,9.84
+SHP-01016,2025-05-01,Birmingham,Electronics,11,1,1,0,12.47
+SHP-01017,2025-09-21,Manchester,Beauty,2,2,1,0,7.05
+SHP-01018,2025-02-03,Manchester,Electronics,8,3,0,1,10.88
+SHP-01019,2025-05-02,Birmingham,Sports,10,0,1,0,12.03
+SHP-01020,2025-11-21,Birmingham,Sports,12,3,0,0,13.3
+SHP-01021,2025-04-08,Manchester,Electronics,10,0,1,0,10.99
+SHP-01022,2025-03-10,Birmingham,Electronics,12,4,0,0,16.25
+SHP-01023,2025-11-03,Bristol,Office,5,1,1,0,9.99
+SHP-01024,2025-03-27,Manchester,Sports,5,0,1,0,9.42
+SHP-01025,2025-01-26,Birmingham,Office,9,0,1,0,9.36
+SHP-01026,2025-08-14,Leeds,Sports,1,0,1,0,6.5
+SHP-01027,2025-06-17,Birmingham,Electronics,7,0,1,0,12.08
+SHP-01028,2025-04-14,Birmingham,Office,6,2,1,0,12.73
+SHP-01029,2025-03-06,Manchester,Electronics,5,4,0,0,11.28
+SHP-01030,2025-07-24,Birmingham,Beauty,8,2,1,0,12.12
+SHP-01031,2025-01-28,Manchester,Home & Living,9,4,0,0,14.59
+SHP-01032,2025-10-17,Birmingham,Electronics,11,4,0,1,13.55
+SHP-01033,2025-09-12,Manchester,Sports,4,0,1,0,7.26
+SHP-01034,2025-10-19,Manchester,Beauty,1,1,1,0,9.08
+SHP-01035,2025-12-18,Manchester,Beauty,5,1,1,0,8.83
+SHP-01036,2025-08-11,Bristol,Electronics,2,3,0,1,8.3
+SHP-01037,2025-07-22,Birmingham,Sports,3,0,1,0,8.79
+SHP-01038,2025-10-12,Bristol,Electronics,5,0,1,0,7.54
+SHP-01039,2025-07-04,Bristol,Office,8,0,1,0,11.9
+SHP-01040,2025-03-06,Manchester,Home & Living,1,1,1,0,7.19
+SHP-01041,2025-04-10,Leeds,Electronics,2,4,0,0,10.27
+SHP-01042,2025-07-19,Manchester,Electronics,8,2,1,0,12.69
+SHP-01043,2025-03-06,Manchester,Beauty,11,0,1,0,11.29
+SHP-01044,2025-07-09,Manchester,Electronics,8,0,1,0,12.17
+SHP-01045,2025-12-24,Bristol,Electronics,8,1,1,0,11.03
+SHP-01046,2025-12-10,Leeds,Beauty,1,0,1,0,4.43
+SHP-01047,2025-03-05,Manchester,Office,6,4,0,1,12.1
+SHP-01048,2025-03-23,Birmingham,Electronics,1,3,0,1,6.89
+SHP-01049,2025-10-24,Birmingham,Electronics,12,3,0,0,15.86
+SHP-01050,2025-08-28,Bristol,Beauty,8,0,1,0,9.37
+SHP-01051,2025-01-23,Bristol,Home & Living,1,2,1,0,7.9
+SHP-01052,2025-01-23,Birmingham,Home & Living,1,3,0,1,8.65
+SHP-01053,2025-10-23,Manchester,Office,6,1,1,0,8.82
+SHP-01054,2025-02-21,Manchester,Home & Living,6,0,1,0,9.08
+SHP-01055,2025-08-01,Leeds,Electronics,9,2,1,0,12.36
+SHP-01056,2025-08-07,Manchester,Sports,10,2,0,1,13.05
+SHP-01057,2025-10-19,Manchester,Office,7,0,1,0,8.7
+SHP-01058,2025-11-04,Leeds,Home & Living,3,3,0,0,10.76
+SHP-01059,2025-01-02,Manchester,Electronics,8,0,1,0,11.56
+SHP-01060,2025-01-15,Birmingham,Home & Living,3,0,1,0,6.03
+SHP-01061,2025-01-04,Birmingham,Electronics,10,0,1,0,12.31
+SHP-01062,2025-04-18,Leeds,Electronics,12,1,1,0,11.79
+SHP-01063,2025-10-08,Birmingham,Sports,8,0,1,0,11.35
+SHP-01064,2025-12-19,Manchester,Home & Living,5,0,1,0,8.47
+SHP-01065,2025-11-13,Bristol,Office,3,2,1,0,9.73
+SHP-01066,2025-12-03,Manchester,Home & Living,6,2,1,0,12.79
+SHP-01067,2025-07-05,Manchester,Home & Living,7,1,1,0,11.07
+SHP-01068,2025-08-09,Leeds,Home & Living,12,0,1,0,10.73
+SHP-01069,2025-04-16,Birmingham,Sports,7,0,1,0,11.42
+SHP-01070,2025-09-04,Bristol,Office,1,3,0,0,6.93
+SHP-01071,2025-12-09,Manchester,Sports,3,0,1,0,6.26
+SHP-01072,2025-07-04,Birmingham,Electronics,7,1,1,0,12.19
+SHP-01073,2025-01-02,Birmingham,Beauty,7,0,1,0,8.61
+SHP-01074,2025-06-27,Bristol,Home & Living,1,2,1,0,6.77
+SHP-01075,2025-08-23,Manchester,Beauty,2,1,0,1,7.14
+SHP-01076,2025-02-18,Bristol,Electronics,6,0,1,0,11.51
+SHP-01077,2025-11-26,Manchester,Home & Living,8,0,1,0,9.37
+SHP-01078,2025-09-25,Manchester,Electronics,8,0,1,0,11.02
+SHP-01079,2025-11-29,Manchester,Beauty,8,2,1,0,11.67
+SHP-01080,2025-12-02,Leeds,Electronics,10,5,0,0,16.9
+SHP-01081,2025-02-11,Bristol,Home & Living,6,4,0,1,12.42
+SHP-01082,2025-06-15,Bristol,Office,3,6,0,1,9.65
+SHP-01083,2025-12-17,Manchester,Home & Living,7,5,0,0,13.9
+SHP-01084,2025-06-24,Birmingham,Beauty,2,5,0,0,9.62
+SHP-01085,2025-09-08,Bristol,Office,8,3,0,0,13.98
+SHP-01086,2025-10-10,Bristol,Home & Living,2,4,0,1,8.87
+SHP-01087,2025-09-23,Manchester,Beauty,6,0,1,0,8.2
+SHP-01088,2025-04-05,Bristol,Office,4,0,1,0,8.22
+SHP-01089,2025-09-14,Birmingham,Home & Living,4,0,1,0,6.38
+SHP-01090,2025-09-12,Manchester,Beauty,11,1,1,0,14.45
+SHP-01091,2025-02-02,Manchester,Office,9,2,1,0,14.13
+SHP-01092,2025-11-25,Leeds,Office,12,0,1,0,12.83
+SHP-01093,2025-05-03,Birmingham,Office,6,0,1,0,8.2
+SHP-01094,2025-12-03,Bristol,Sports,3,1,1,0,8.53
+SHP-01095,2025-11-14,Bristol,Sports,11,0,1,0,13.58
+SHP-01096,2025-04-27,Bristol,Office,2,1,1,0,8.11
+SHP-01097,2025-02-28,Birmingham,Office,12,0,1,0,12.14
+SHP-01098,2025-04-24,Birmingham,Electronics,7,1,1,0,10.81
+SHP-01099,2025-07-12,Manchester,Office,11,0,1,0,10.61
+SHP-01100,2025-08-31,Manchester,Home & Living,9,0,1,0,13.17
+SHP-01101,2025-12-20,Leeds,Electronics,6,1,1,0,11.99
+SHP-01102,2025-01-07,Manchester,Office,2,0,1,0,7.98
+SHP-01103,2025-10-12,Manchester,Office,1,3,0,1,8.26
+SHP-01104,2025-03-29,Manchester,Office,8,1,1,0,10.64
+SHP-01105,2025-10-30,Birmingham,Office,10,3,0,0,14.01
+SHP-01106,2025-12-07,Bristol,Beauty,5,0,1,0,7.32
+SHP-01107,2025-05-21,Manchester,Office,3,3,0,0,11.28
+SHP-01108,2025-11-26,Leeds,Sports,4,3,0,0,11.23
+SHP-01109,2025-11-05,Birmingham,Electronics,7,2,1,0,12.53
+SHP-01110,2025-07-08,Birmingham,Office,3,0,1,0,9.17
+SHP-01111,2025-04-07,Manchester,Beauty,2,2,1,0,9.84
+SHP-01112,2025-08-31,Manchester,Electronics,2,3,0,0,8.14
+SHP-01113,2025-10-13,Manchester,Sports,12,2,1,0,14.84
+SHP-01114,2025-11-24,Bristol,Beauty,3,2,1,0,9.42
+SHP-01115,2025-03-06,Birmingham,Home & Living,5,0,1,0,7.66
+SHP-01116,2025-11-10,Birmingham,Electronics,9,0,1,0,11.47
+SHP-01117,2025-12-08,Bristol,Sports,2,1,1,0,9.06
+SHP-01118,2025-12-03,Manchester,Electronics,8,1,1,0,11.37
+SHP-01119,2025-11-03,Bristol,Sports,2,1,0,1,7.2
+SHP-01120,2025-05-01,Manchester,Home & Living,1,0,1,0,4.48
+SHP-01121,2025-05-19,Birmingham,Office,11,0,1,0,13.92
+SHP-01122,2025-01-01,Leeds,Sports,9,0,1,0,9.88
+SHP-01123,2025-06-17,Manchester,Electronics,8,1,1,0,11.72
+SHP-01124,2025-08-17,Manchester,Home & Living,3,2,1,0,9.22
+SHP-01125,2025-08-11,Manchester,Beauty,5,2,0,1,10.87
+SHP-01126,2025-02-28,Bristol,Beauty,5,2,0,1,8.94
+SHP-01127,2025-01-16,Birmingham,Office,1,1,1,0,6.88
+SHP-01128,2025-07-26,Birmingham,Beauty,4,1,1,0,9.02
+SHP-01129,2025-08-11,Birmingham,Office,12,1,1,0,15.06
+SHP-01130,2025-07-10,Manchester,Office,11,0,1,0,10.91
+SHP-01131,2025-09-25,Manchester,Office,12,0,1,0,12.59
+SHP-01132,2025-02-04,Manchester,Sports,7,0,1,0,11.26
+SHP-01133,2025-06-17,Manchester,Electronics,5,1,1,0,11.12
+SHP-01134,2025-05-02,Bristol,Beauty,2,0,1,0,7.35
+SHP-01135,2025-05-05,Manchester,Sports,6,3,0,0,9.3
+SHP-01136,2025-05-21,Manchester,Office,8,1,1,0,10.65
+SHP-01137,2025-01-02,Manchester,Electronics,7,3,0,1,10.61
+SHP-01138,2025-12-14,Birmingham,Electronics,9,0,1,0,10.19
+SHP-01139,2025-02-05,Manchester,Home & Living,5,3,0,0,9.57
+SHP-01140,2025-05-06,Leeds,Office,2,0,1,0,5.01
+SHP-01141,2025-11-24,Manchester,Beauty,10,0,1,0,11.01
+SHP-01142,2025-02-15,Bristol,Home & Living,11,4,0,0,13.34
+SHP-01143,2025-12-04,Leeds,Office,8,0,1,0,11.02
+SHP-01144,2025-06-30,Birmingham,Office,3,0,1,0,8.61
+SHP-01145,2025-10-10,Bristol,Home & Living,8,0,1,0,10.99
+SHP-01146,2025-12-04,Bristol,Beauty,7,8,0,1,15.51
+SHP-01147,2025-12-24,Leeds,Beauty,6,2,1,0,8.92
+SHP-01148,2025-02-20,Manchester,Home & Living,4,2,1,0,8.88
+SHP-01149,2025-04-24,Birmingham,Home & Living,1,1,1,0,7.25
+SHP-01150,2025-12-10,Leeds,Home & Living,6,5,0,0,12.23
+SHP-01151,2025-11-04,Manchester,Home & Living,4,1,1,0,9.09
+SHP-01152,2025-05-02,Leeds,Electronics,11,1,1,0,12.27
+SHP-01153,2025-04-13,Manchester,Home & Living,3,3,0,0,10.22
+SHP-01154,2025-02-16,Manchester,Office,12,0,1,0,14.31
+SHP-01155,2025-12-22,Manchester,Sports,5,2,1,0,10.43
+SHP-01156,2025-07-17,Manchester,Beauty,1,0,1,0,5.14
+SHP-01157,2025-12-11,Birmingham,Office,6,1,1,0,9.74
+SHP-01158,2025-05-30,Manchester,Home & Living,11,1,1,0,12.6
+SHP-01159,2025-09-25,Manchester,Beauty,9,0,1,0,10.78
+SHP-01160,2025-11-04,Bristol,Sports,2,1,1,0,8.64
+SHP-01161,2025-06-04,Bristol,Electronics,9,0,1,0,10.26
+SHP-01162,2025-01-03,Birmingham,Home & Living,7,1,1,0,10.77
+SHP-01163,2025-12-22,Bristol,Electronics,9,0,1,0,12.0
+SHP-01164,2025-07-28,Birmingham,Home & Living,4,1,1,0,9.24
+SHP-01165,2025-12-26,Bristol,Sports,2,0,1,0,7.45
+SHP-01166,2025-01-14,Manchester,Beauty,1,0,1,0,7.87
+SHP-01167,2025-08-06,Manchester,Home & Living,8,0,1,0,9.02
+SHP-01168,2025-04-08,Birmingham,Office,3,5,0,0,12.29
+SHP-01169,2025-02-07,Manchester,Home & Living,4,0,1,0,10.34
+SHP-01170,2025-12-17,Leeds,Office,2,1,1,0,8.14
+SHP-01171,2025-03-30,Manchester,Beauty,11,3,0,0,13.16
+SHP-01172,2025-07-06,Bristol,Electronics,7,4,0,1,12.86
+SHP-01173,2025-05-10,Birmingham,Sports,1,5,0,0,10.73
+SHP-01174,2025-12-18,Birmingham,Home & Living,2,3,0,0,8.55
+SHP-01175,2025-09-15,Leeds,Office,8,2,0,1,12.86
+SHP-01176,2025-04-06,Leeds,Sports,7,1,0,1,11.05
+SHP-01177,2025-05-07,Birmingham,Sports,4,0,1,0,7.57
+SHP-01178,2025-01-24,Manchester,Home & Living,1,1,1,0,6.48
+SHP-01179,2025-07-30,Leeds,Home & Living,12,0,1,0,13.73
+SHP-01180,2025-07-22,Leeds,Sports,9,0,1,0,12.96
+SHP-01181,2025-11-11,Birmingham,Sports,6,3,0,0,11.48
+SHP-01182,2025-01-16,Leeds,Home & Living,3,0,1,0,6.18
+SHP-01183,2025-10-31,Bristol,Electronics,11,3,0,0,15.49
+SHP-01184,2025-09-03,Birmingham,Office,6,0,1,0,8.64
+SHP-01185,2025-03-07,Leeds,Home & Living,12,3,0,0,13.47
+SHP-01186,2025-08-07,Birmingham,Electronics,6,0,1,0,9.84
+SHP-01187,2025-09-07,Bristol,Office,12,0,1,0,12.78
+SHP-01188,2025-10-31,Birmingham,Electronics,10,0,1,0,10.88
+SHP-01189,2025-06-14,Bristol,Home & Living,2,0,1,0,5.61
+SHP-01190,2025-09-18,Bristol,Home & Living,5,1,1,0,9.29
+SHP-01191,2025-01-02,Bristol,Beauty,8,0,1,0,8.83
+SHP-01192,2025-01-16,Birmingham,Electronics,4,1,1,0,7.06
+SHP-01193,2025-01-10,Leeds,Electronics,3,0,1,0,6.84
+SHP-01194,2025-08-26,Birmingham,Home & Living,6,3,0,0,9.68
+SHP-01195,2025-11-17,Bristol,Office,5,4,0,0,11.45
+SHP-01196,2025-10-17,Manchester,Beauty,10,2,1,0,11.81
+SHP-01197,2025-05-02,Birmingham,Home & Living,8,0,1,0,9.68
+SHP-01198,2025-03-23,Bristol,Office,12,1,1,0,14.7
+SHP-01199,2025-10-18,Leeds,Home & Living,2,1,1,0,7.55
+SHP-01200,2025-12-27,Leeds,Office,5,2,1,0,11.21
+SHP-01201,2025-08-31,Bristol,Office,3,0,1,0,8.81
+SHP-01202,2025-02-22,Birmingham,Home & Living,12,0,1,0,12.43
+SHP-01203,2025-10-19,Manchester,Home & Living,7,1,1,0,8.45
+SHP-01204,2025-04-16,Bristol,Home & Living,8,5,0,0,14.49
+SHP-01205,2025-09-19,Leeds,Home & Living,6,3,0,0,9.98
+SHP-01206,2025-01-19,Bristol,Office,2,1,1,0,8.56
+SHP-01207,2025-12-25,Manchester,Office,10,3,0,0,14.17
+SHP-01208,2025-06-26,Bristol,Home & Living,4,2,1,0,10.72
+SHP-01209,2025-01-06,Birmingham,Electronics,10,1,0,1,14.04
+SHP-01210,2025-05-17,Manchester,Home & Living,12,2,1,0,13.06
+SHP-01211,2025-12-13,Birmingham,Electronics,10,0,1,0,9.75
+SHP-01212,2025-06-06,Leeds,Office,8,1,1,0,9.24
+SHP-01213,2025-02-18,Manchester,Beauty,7,1,1,0,10.86
+SHP-01214,2025-03-12,Manchester,Home & Living,2,0,1,0,7.83
+SHP-01215,2025-11-16,Bristol,Home & Living,8,2,0,1,12.0
+SHP-01216,2025-04-29,Bristol,Electronics,10,2,0,1,14.39
+SHP-01217,2025-03-14,Manchester,Home & Living,6,2,1,0,8.57
+SHP-01218,2025-02-25,Birmingham,Sports,1,0,1,0,6.98
+SHP-01219,2025-04-14,Bristol,Office,12,1,1,0,11.86
+SHP-01220,2025-07-23,Manchester,Electronics,11,0,1,0,13.15
+SHP-01221,2025-09-08,Birmingham,Office,7,0,1,0,7.91
+SHP-01222,2025-06-27,Leeds,Home & Living,7,4,0,0,11.72
+SHP-01223,2025-01-23,Birmingham,Electronics,11,1,1,0,11.95
+SHP-01224,2025-02-16,Birmingham,Beauty,1,0,1,0,7.03
+SHP-01225,2025-03-18,Leeds,Beauty,7,0,1,0,9.74
+SHP-01226,2025-10-13,Birmingham,Electronics,10,0,1,0,11.14
+SHP-01227,2025-02-05,Leeds,Sports,11,3,0,0,12.18
+SHP-01228,2025-05-07,Manchester,Beauty,2,3,0,0,9.18
+SHP-01229,2025-08-09,Leeds,Office,11,0,1,0,10.96
+SHP-01230,2025-10-28,Birmingham,Electronics,11,4,0,0,15.09
+SHP-01231,2025-01-22,Manchester,Office,10,3,0,0,15.34
+SHP-01232,2025-09-23,Manchester,Sports,5,0,1,0,7.44
+SHP-01233,2025-10-14,Leeds,Home & Living,1,0,1,0,5.17
+SHP-01234,2025-12-23,Bristol,Office,8,3,0,1,14.35
+SHP-01235,2025-01-11,Leeds,Office,1,0,1,0,5.4
+SHP-01236,2025-06-19,Leeds,Sports,3,0,1,0,8.66
+SHP-01237,2025-08-10,Birmingham,Home & Living,3,3,0,1,9.95
+SHP-01238,2025-02-09,Birmingham,Home & Living,6,0,1,0,8.95
+SHP-01239,2025-05-05,Manchester,Sports,7,0,1,0,10.27
+SHP-01240,2025-11-02,Birmingham,Office,5,1,1,0,8.5
+SHP-01241,2025-11-18,Birmingham,Home & Living,9,0,1,0,10.81
+SHP-01242,2025-08-03,Manchester,Beauty,7,0,1,0,9.08
+SHP-01243,2025-07-18,Leeds,Electronics,2,1,1,0,9.47
+SHP-01244,2025-09-17,Manchester,Office,10,1,0,1,14.23
+SHP-01245,2025-08-29,Manchester,Electronics,1,0,1,0,6.77
+SHP-01246,2025-04-14,Manchester,Home & Living,10,3,0,0,12.24
+SHP-01247,2025-05-05,Birmingham,Office,2,0,1,0,6.05
+SHP-01248,2025-05-18,Bristol,Electronics,6,2,1,0,10.99
+SHP-01249,2025-12-28,Bristol,Electronics,1,1,1,0,7.45
+SHP-01250,2025-12-15,Bristol,Beauty,7,1,1,0,11.62
+SHP-01251,2025-03-15,Leeds,Beauty,9,3,0,1,11.44
+SHP-01252,2025-07-08,Manchester,Office,10,0,1,0,12.35
+SHP-01253,2025-11-25,Birmingham,Electronics,3,1,1,0,8.84
+SHP-01254,2025-04-22,Manchester,Electronics,11,2,1,0,13.91
+SHP-01255,2025-04-13,Manchester,Sports,12,1,1,0,13.36
+SHP-01256,2025-02-09,Birmingham,Home & Living,6,4,0,1,10.02
+SHP-01257,2025-01-23,Birmingham,Office,8,3,0,1,11.89
+SHP-01258,2025-05-31,Bristol,Home & Living,12,1,0,1,15.18
+SHP-01259,2025-01-19,Leeds,Office,7,0,1,0,11.7
+SHP-01260,2025-04-13,Bristol,Beauty,2,6,0,1,9.05
+SHP-01261,2025-07-28,Birmingham,Home & Living,4,1,0,1,9.04
+SHP-01262,2025-08-13,Birmingham,Sports,3,2,1,0,8.19
+SHP-01263,2025-10-17,Birmingham,Office,6,2,1,0,10.75
+SHP-01264,2025-08-13,Manchester,Beauty,11,0,1,0,11.13
+SHP-01265,2025-05-20,Bristol,Office,8,0,1,0,10.38
+SHP-01266,2025-08-25,Leeds,Sports,8,2,0,1,11.92
+SHP-01267,2025-05-25,Leeds,Electronics,10,0,1,0,10.02
+SHP-01268,2025-11-22,Manchester,Office,12,2,1,0,15.66
+SHP-01269,2025-02-16,Birmingham,Beauty,4,0,1,0,8.85
+SHP-01270,2025-12-02,Bristol,Office,5,3,0,1,10.23
+SHP-01271,2025-12-03,Birmingham,Home & Living,4,0,1,0,8.62
+SHP-01272,2025-01-09,Bristol,Sports,3,4,0,0,9.47
+SHP-01273,2025-08-04,Manchester,Office,5,0,1,0,10.07
+SHP-01274,2025-06-17,Bristol,Electronics,10,1,1,0,14.38
+SHP-01275,2025-11-11,Leeds,Sports,1,3,0,0,7.7
+SHP-01276,2025-12-21,Manchester,Home & Living,11,4,0,0,16.09
+SHP-01277,2025-05-01,Manchester,Electronics,10,3,0,1,12.04
+SHP-01278,2025-02-27,Manchester,Beauty,3,1,1,0,7.85
+SHP-01279,2025-02-14,Manchester,Beauty,3,2,1,0,7.05
+SHP-01280,2025-02-22,Birmingham,Beauty,1,1,1,0,7.31
+SHP-01281,2025-03-31,Birmingham,Sports,4,3,0,1,10.86
+SHP-01282,2025-10-20,Manchester,Electronics,7,5,0,0,12.15
+SHP-01283,2025-11-29,Manchester,Electronics,4,2,1,0,8.48
+SHP-01284,2025-09-16,Leeds,Home & Living,11,4,0,0,14.31
+SHP-01285,2025-04-19,Birmingham,Electronics,8,0,1,0,10.32
+SHP-01286,2025-10-03,Leeds,Home & Living,10,0,1,0,12.68
+SHP-01287,2025-04-05,Birmingham,Beauty,7,1,1,0,9.26
+SHP-01288,2025-08-06,Bristol,Home & Living,2,4,0,0,8.07
+SHP-01289,2025-11-07,Manchester,Electronics,11,3,0,0,13.62
+SHP-01290,2025-04-06,Birmingham,Electronics,8,2,1,0,12.29
+SHP-01291,2025-05-11,Leeds,Sports,6,0,1,0,10.36
+SHP-01292,2025-11-08,Leeds,Office,9,4,0,1,13.69
+SHP-01293,2025-03-28,Manchester,Beauty,12,0,1,0,11.95
+SHP-01294,2025-09-02,Leeds,Beauty,8,0,1,0,9.07
+SHP-01295,2025-08-20,Manchester,Electronics,2,3,0,0,7.01
+SHP-01296,2025-09-30,Manchester,Electronics,12,1,1,0,14.84
+SHP-01297,2025-09-15,Manchester,Sports,4,5,0,0,9.69
+SHP-01298,2025-11-10,Birmingham,Home & Living,9,0,1,0,13.11
+SHP-01299,2025-12-10,Manchester,Electronics,10,1,1,0,11.75
+SHP-01300,2025-03-08,Bristol,Electronics,1,0,1,0,7.9
+SHP-01301,2025-02-16,Bristol,Office,11,3,0,1,15.14
+SHP-01302,2025-01-01,Manchester,Office,1,1,0,1,8.48
+SHP-01303,2025-06-06,Birmingham,Beauty,4,0,1,0,10.24
+SHP-01304,2025-01-30,Leeds,Home & Living,6,0,1,0,8.8
+SHP-01305,2025-01-01,Bristol,Office,10,2,1,0,11.61
+SHP-01306,2025-01-30,Leeds,Office,10,0,1,0,12.06
+SHP-01307,2025-02-22,Birmingham,Electronics,2,8,0,1,11.55
+SHP-01308,2025-01-05,Bristol,Electronics,9,3,0,0,13.31
+SHP-01309,2025-05-21,Manchester,Home & Living,2,0,1,0,6.95
+SHP-01310,2025-01-06,Leeds,Office,1,2,1,0,9.7
+SHP-01311,2025-12-01,Birmingham,Office,10,3,0,0,11.66
+SHP-01312,2025-08-12,Bristol,Home & Living,12,0,1,0,14.75
+SHP-01313,2025-12-27,Leeds,Office,12,0,1,0,11.93
+SHP-01314,2025-01-19,Birmingham,Office,2,1,1,0,9.68
+SHP-01315,2025-08-18,Manchester,Home & Living,10,1,1,0,14.15
+SHP-01316,2025-11-29,Birmingham,Office,7,0,1,0,10.74
+SHP-01317,2025-12-13,Manchester,Electronics,10,3,0,0,13.39
+SHP-01318,2025-12-02,Birmingham,Electronics,10,3,0,1,14.53
+SHP-01319,2025-07-13,Leeds,Electronics,7,0,1,0,9.78
+SHP-01320,2025-08-31,Birmingham,Beauty,4,0,1,0,9.69
+SHP-01321,2025-05-10,Leeds,Beauty,9,1,1,0,11.88
+SHP-01322,2025-07-16,Birmingham,Home & Living,9,3,0,0,12.67
+SHP-01323,2025-12-02,Leeds,Sports,4,0,1,0,9.83
+SHP-01324,2025-02-21,Birmingham,Beauty,10,3,0,0,14.52
+SHP-01325,2025-06-05,Birmingham,Electronics,11,0,1,0,12.57
+SHP-01326,2025-03-20,Leeds,Office,5,0,1,0,9.23
+SHP-01327,2025-09-03,Bristol,Sports,1,0,1,0,6.79
+SHP-01328,2025-06-13,Manchester,Office,11,0,1,0,11.85
+SHP-01329,2025-01-31,Manchester,Office,10,1,1,0,14.14
+SHP-01330,2025-10-29,Leeds,Home & Living,5,0,1,0,9.02
+SHP-01331,2025-06-30,Manchester,Sports,4,1,1,0,7.25
+SHP-01332,2025-05-31,Manchester,Sports,6,3,0,0,10.6
+SHP-01333,2025-04-01,Manchester,Electronics,6,0,1,0,9.27
+SHP-01334,2025-01-13,Bristol,Beauty,5,0,1,0,7.85
+SHP-01335,2025-02-11,Birmingham,Beauty,2,0,1,0,7.5
+SHP-01336,2025-09-01,Leeds,Office,2,0,1,0,5.09
+SHP-01337,2025-12-07,Leeds,Electronics,2,0,1,0,8.32
+SHP-01338,2025-04-04,Bristol,Electronics,7,0,1,0,8.04
+SHP-01339,2025-03-31,Leeds,Home & Living,10,0,1,0,13.63
+SHP-01340,2025-03-05,Bristol,Office,5,0,1,0,8.89
+SHP-01341,2025-03-20,Bristol,Sports,5,8,0,1,15.34
+SHP-01342,2025-09-01,Manchester,Home & Living,7,3,0,0,12.92
+SHP-01343,2025-04-26,Manchester,Electronics,3,2,0,1,9.14
+SHP-01344,2025-04-03,Birmingham,Sports,11,5,0,1,14.08
+SHP-01345,2025-07-13,Bristol,Office,10,0,1,0,12.19
+SHP-01346,2025-06-14,Manchester,Home & Living,5,4,0,0,12.63
+SHP-01347,2025-09-04,Bristol,Electronics,12,1,1,0,12.49
+SHP-01348,2025-06-09,Birmingham,Home & Living,9,1,1,0,9.65
+SHP-01349,2025-12-26,Birmingham,Home & Living,4,2,1,0,11.57
+SHP-01350,2025-08-11,Leeds,Electronics,1,2,1,0,8.3
+SHP-01351,2025-08-29,Bristol,Office,9,4,0,1,15.61
+SHP-01352,2025-09-03,Bristol,Electronics,5,2,0,1,12.05
+SHP-01353,2025-12-30,Bristol,Electronics,12,3,0,1,16.47
+SHP-01354,2025-04-03,Bristol,Home & Living,8,4,0,0,15.21
+SHP-01355,2025-09-18,Leeds,Home & Living,5,1,1,0,10.3
+SHP-01356,2025-06-20,Bristol,Beauty,11,1,0,1,15.01
+SHP-01357,2025-03-02,Birmingham,Electronics,3,6,0,1,11.59
+SHP-01358,2025-03-24,Manchester,Beauty,1,2,1,0,6.08
+SHP-01359,2025-05-31,Bristol,Home & Living,3,1,1,0,7.84
+SHP-01360,2025-01-09,Manchester,Sports,8,1,1,0,12.83
+SHP-01361,2025-07-26,Manchester,Office,2,4,0,0,9.44
+SHP-01362,2025-11-05,Birmingham,Beauty,8,1,1,0,11.31
+SHP-01363,2025-10-16,Leeds,Office,2,0,1,0,5.84
+SHP-01364,2025-02-24,Birmingham,Electronics,11,0,1,0,10.73
+SHP-01365,2025-05-13,Manchester,Office,9,1,1,0,11.72
+SHP-01366,2025-09-24,Leeds,Office,3,2,1,0,8.14
+SHP-01367,2025-07-03,Bristol,Office,8,0,1,0,9.97
+SHP-01368,2025-08-02,Birmingham,Beauty,1,1,1,0,6.89
+SHP-01369,2025-07-09,Manchester,Office,6,1,1,0,10.1
+SHP-01370,2025-07-09,Manchester,Electronics,11,3,0,0,12.89
+SHP-01371,2025-09-18,Bristol,Home & Living,1,0,1,0,7.54
+SHP-01372,2025-08-24,Manchester,Electronics,5,3,0,0,10.46
+SHP-01373,2025-06-09,Birmingham,Sports,10,0,1,0,11.35
+SHP-01374,2025-07-21,Manchester,Office,4,2,1,0,10.29
+SHP-01375,2025-09-25,Leeds,Office,9,0,1,0,11.63
+SHP-01376,2025-10-19,Birmingham,Beauty,3,4,0,0,12.11
+SHP-01377,2025-12-07,Bristol,Sports,2,0,1,0,7.59
+SHP-01378,2025-03-02,Bristol,Beauty,4,4,0,1,10.33
+SHP-01379,2025-12-31,Leeds,Office,3,3,0,1,9.79
+SHP-01380,2025-05-26,Leeds,Beauty,2,2,1,0,6.78
+SHP-01381,2025-07-18,Leeds,Electronics,3,0,1,0,9.2
+SHP-01382,2025-10-23,Manchester,Sports,7,1,1,0,10.66
+SHP-01383,2025-10-15,Manchester,Beauty,9,1,1,0,10.18
+SHP-01384,2025-10-01,Birmingham,Beauty,8,1,0,1,12.92
+SHP-01385,2025-11-07,Bristol,Electronics,8,1,1,0,12.83
+SHP-01386,2025-01-22,Leeds,Electronics,6,1,1,0,7.92
+SHP-01387,2025-10-12,Bristol,Electronics,1,0,1,0,8.29
+SHP-01388,2025-06-15,Manchester,Beauty,7,0,1,0,10.85
+SHP-01389,2025-02-24,Leeds,Electronics,11,0,1,0,12.56
+SHP-01390,2025-04-11,Leeds,Sports,6,2,0,1,10.4
+SHP-01391,2025-11-03,Manchester,Home & Living,10,1,1,0,12.75
+SHP-01392,2025-09-12,Birmingham,Electronics,7,2,0,1,10.63
+SHP-01393,2025-02-09,Leeds,Home & Living,7,2,0,1,9.66
+SHP-01394,2025-02-25,Manchester,Sports,11,5,0,0,17.22
+SHP-01395,2025-01-05,Leeds,Home & Living,4,3,0,0,11.88
+SHP-01396,2025-03-12,Bristol,Electronics,11,4,0,0,14.94
+SHP-01397,2025-02-22,Manchester,Home & Living,6,4,0,0,10.34
+SHP-01398,2025-03-01,Leeds,Electronics,12,4,0,0,16.83
+SHP-01399,2025-07-14,Bristol,Electronics,11,4,0,1,15.84
+SHP-01400,2025-11-01,Birmingham,Home & Living,12,4,0,0,15.33
+SHP-01401,2025-06-15,Manchester,Home & Living,3,1,1,0,6.23
+SHP-01402,2025-07-18,Leeds,Office,1,1,1,0,6.54
+SHP-01403,2025-11-24,Leeds,Electronics,12,1,1,0,14.78
+SHP-01404,2025-01-30,Manchester,Home & Living,9,2,1,0,12.61
+SHP-01405,2025-01-13,Birmingham,Electronics,11,5,0,1,14.31
+SHP-01406,2025-05-04,Bristol,Sports,3,1,1,0,6.48
+SHP-01407,2025-06-19,Leeds,Home & Living,6,1,1,0,8.23
+SHP-01408,2025-06-25,Birmingham,Office,3,1,1,0,9.56
+SHP-01409,2025-12-02,Manchester,Office,9,2,1,0,11.27
+SHP-01410,2025-03-03,Leeds,Sports,4,2,0,1,7.69
+SHP-01411,2025-03-09,Manchester,Beauty,9,2,1,0,13.15
+SHP-01412,2025-05-22,Birmingham,Electronics,11,1,1,0,13.98
+SHP-01413,2025-06-14,Bristol,Home & Living,4,0,1,0,6.33
+SHP-01414,2025-05-31,Birmingham,Sports,1,6,0,1,11.66
+SHP-01415,2025-08-02,Manchester,Beauty,5,0,1,0,6.72
+SHP-01416,2025-08-12,Manchester,Office,11,1,1,0,13.43
+SHP-01417,2025-08-05,Birmingham,Electronics,4,1,1,0,7.08
+SHP-01418,2025-01-17,Manchester,Electronics,8,0,1,0,11.27
+SHP-01419,2025-07-06,Bristol,Office,11,3,0,0,13.49
+SHP-01420,2025-02-23,Manchester,Office,8,0,1,0,10.44
+SHP-01421,2025-07-21,Bristol,Electronics,6,0,1,0,11.34
+SHP-01422,2025-04-05,Bristol,Electronics,11,0,1,0,10.98
+SHP-01423,2025-05-27,Manchester,Home & Living,12,3,0,0,13.58
+SHP-01424,2025-04-08,Birmingham,Electronics,1,3,0,0,7.79
+SHP-01425,2025-12-02,Bristol,Home & Living,10,4,0,0,13.86
+SHP-01426,2025-06-03,Manchester,Home & Living,5,4,0,0,11.43
+SHP-01427,2025-07-29,Bristol,Home & Living,3,0,1,0,7.71
+SHP-01428,2025-10-13,Leeds,Beauty,9,2,1,0,14.17
+SHP-01429,2025-11-08,Birmingham,Office,4,1,0,1,10.67
+SHP-01430,2025-04-23,Manchester,Home & Living,3,0,1,0,8.34
+SHP-01431,2025-12-12,Leeds,Home & Living,4,3,0,0,8.22
+SHP-01432,2025-07-12,Birmingham,Electronics,4,0,1,0,9.42
+SHP-01433,2025-08-31,Birmingham,Home & Living,3,1,1,0,8.56
+SHP-01434,2025-12-21,Leeds,Electronics,10,6,0,1,15.29
+SHP-01435,2025-08-11,Birmingham,Sports,8,3,0,1,13.26
+SHP-01436,2025-03-07,Leeds,Electronics,9,0,1,0,9.07
+SHP-01437,2025-08-23,Birmingham,Home & Living,6,0,1,0,7.91
+SHP-01438,2025-02-12,Birmingham,Office,1,5,0,0,10.17
+SHP-01439,2025-09-11,Birmingham,Beauty,8,3,0,0,14.39
+SHP-01440,2025-10-28,Birmingham,Sports,5,0,1,0,9.23
+SHP-01441,2025-06-15,Leeds,Office,11,0,1,0,13.51
+SHP-01442,2025-09-13,Manchester,Beauty,4,0,1,0,9.22
+SHP-01443,2025-10-26,Birmingham,Office,3,3,0,0,10.37
+SHP-01444,2025-03-14,Manchester,Beauty,11,0,1,0,12.41
+SHP-01445,2025-07-21,Bristol,Electronics,11,4,0,0,16.54
+SHP-01446,2025-12-26,Bristol,Home & Living,11,2,0,1,14.65
+SHP-01447,2025-05-12,Leeds,Electronics,1,1,1,0,8.93
+SHP-01448,2025-03-08,Manchester,Office,6,1,1,0,9.09
+SHP-01449,2025-02-15,Birmingham,Electronics,6,0,1,0,9.59
+SHP-01450,2025-12-02,Leeds,Home & Living,8,6,0,1,13.89
+SHP-01451,2025-12-07,Bristol,Sports,7,0,1,0,8.18
+SHP-01452,2025-09-30,Birmingham,Sports,2,4,0,1,11.3
+SHP-01453,2025-08-18,Leeds,Sports,5,1,1,0,11.54
+SHP-01454,2025-07-06,Leeds,Electronics,1,0,1,0,7.88
+SHP-01455,2025-01-04,Birmingham,Home & Living,11,2,1,0,14.94
+SHP-01456,2025-07-17,Bristol,Sports,9,3,0,1,12.93
+SHP-01457,2025-05-23,Bristol,Home & Living,8,0,1,0,10.45
+SHP-01458,2025-02-09,Bristol,Home & Living,10,2,1,0,13.64
+SHP-01459,2025-01-24,Manchester,Office,11,0,1,0,10.69
+SHP-01460,2025-11-23,Manchester,Office,3,3,0,0,11.16
+SHP-01461,2025-06-16,Bristol,Beauty,9,0,1,0,10.42
+SHP-01462,2025-12-22,Manchester,Sports,9,0,1,0,10.74
+SHP-01463,2025-09-30,Manchester,Sports,12,2,1,0,12.06
+SHP-01464,2025-02-27,Birmingham,Home & Living,6,1,0,1,10.41
+SHP-01465,2025-04-15,Birmingham,Office,11,0,1,0,11.48
+SHP-01466,2025-03-12,Manchester,Office,9,0,1,0,12.93
+SHP-01467,2025-12-20,Birmingham,Beauty,6,1,1,0,11.12
+SHP-01468,2025-07-27,Manchester,Home & Living,6,0,1,0,9.86
+SHP-01469,2025-06-28,Manchester,Office,9,2,1,0,14.19
+SHP-01470,2025-02-10,Birmingham,Beauty,6,0,1,0,9.58
+SHP-01471,2025-12-10,Manchester,Electronics,2,2,1,0,6.47
+SHP-01472,2025-07-20,Manchester,Beauty,7,3,0,1,10.88
+SHP-01473,2025-07-31,Birmingham,Electronics,3,2,0,1,10.57
+SHP-01474,2025-02-25,Birmingham,Home & Living,2,0,1,0,6.36
+SHP-01475,2025-06-17,Manchester,Electronics,4,3,0,0,11.48
+SHP-01476,2025-09-10,Leeds,Office,10,3,0,0,12.61
+SHP-01477,2025-08-16,Bristol,Electronics,2,0,1,0,6.9
+SHP-01478,2025-10-19,Birmingham,Office,8,0,1,0,10.88
+SHP-01479,2025-06-12,Birmingham,Home & Living,5,0,1,0,9.75
+SHP-01480,2025-04-17,Bristol,Electronics,9,5,0,1,13.92
+SHP-01481,2025-09-11,Leeds,Electronics,9,3,0,0,11.62
+SHP-01482,2025-04-08,Manchester,Office,12,2,1,0,13.31
+SHP-01483,2025-08-07,Manchester,Home & Living,2,3,0,0,10.89
+SHP-01484,2025-04-18,Birmingham,Home & Living,6,0,1,0,7.6
+SHP-01485,2025-02-02,Leeds,Beauty,6,4,0,1,13.01
+SHP-01486,2025-03-23,Manchester,Office,12,0,1,0,13.99
+SHP-01487,2025-05-16,Birmingham,Home & Living,2,2,1,0,10.13
+SHP-01488,2025-07-06,Manchester,Home & Living,4,0,1,0,9.79
+SHP-01489,2025-08-09,Birmingham,Office,1,0,1,0,7.91
+SHP-01490,2025-12-16,Leeds,Beauty,3,3,0,0,8.48
+SHP-01491,2025-11-26,Leeds,Office,10,4,0,0,13.69
+SHP-01492,2025-05-03,Manchester,Sports,9,0,1,0,11.07
+SHP-01493,2025-04-03,Bristol,Home & Living,10,0,1,0,13.68
+SHP-01494,2025-11-06,Bristol,Home & Living,12,0,1,0,10.96
+SHP-01495,2025-05-23,Manchester,Office,11,5,0,0,16.94
+SHP-01496,2025-02-03,Manchester,Office,11,0,1,0,13.41
+SHP-01497,2025-06-15,Birmingham,Sports,9,0,1,0,12.15
+SHP-01498,2025-11-03,Birmingham,Sports,8,0,1,0,10.87
+SHP-01499,2025-04-28,Birmingham,Electronics,1,0,1,0,7.16
+SHP-01500,2025-01-27,Manchester,Home & Living,9,0,1,0,10.23
+SHP-01501,2025-10-03,Birmingham,Sports,8,0,1,0,12.55
+SHP-01502,2025-08-03,Leeds,Sports,6,3,0,0,11.74
+SHP-01503,2025-06-06,Leeds,Home & Living,2,0,1,0,8.29
+SHP-01504,2025-03-20,Manchester,Home & Living,9,1,1,0,10.07
+SHP-01505,2025-12-16,Bristol,Electronics,1,0,1,0,6.89
+SHP-01506,2025-05-18,Birmingham,Beauty,8,0,1,0,10.02
+SHP-01507,2025-04-28,Manchester,Electronics,3,1,1,0,6.62
+SHP-01508,2025-03-27,Bristol,Electronics,12,0,1,0,14.09
+SHP-01509,2025-11-19,Birmingham,Sports,7,0,1,0,9.89
+SHP-01510,2025-01-16,Leeds,Home & Living,3,0,1,0,8.14
+SHP-01511,2025-01-03,Birmingham,Office,6,1,1,0,8.76
+SHP-01512,2025-12-05,Manchester,Home & Living,12,1,1,0,14.68
+SHP-01513,2025-05-10,Leeds,Electronics,11,2,1,0,15.16
+SHP-01514,2025-12-18,Leeds,Home & Living,4,1,0,1,9.39
+SHP-01515,2025-07-27,Birmingham,Beauty,3,2,1,0,8.58
+SHP-01516,2025-07-03,Birmingham,Electronics,9,0,1,0,11.1
+SHP-01517,2025-03-15,Bristol,Electronics,1,0,1,0,8.04
+SHP-01518,2025-03-24,Birmingham,Sports,3,0,1,0,7.19
+SHP-01519,2025-10-11,Manchester,Home & Living,3,2,1,0,7.13
+SHP-01520,2025-10-03,Manchester,Sports,9,0,1,0,11.55
+SHP-01521,2025-02-26,Bristol,Beauty,12,1,1,0,12.38
+SHP-01522,2025-02-27,Birmingham,Electronics,4,3,0,0,11.91
+SHP-01523,2025-11-26,Birmingham,Electronics,9,1,1,0,11.5
+SHP-01524,2025-01-17,Birmingham,Electronics,7,3,0,0,13.69
+SHP-01525,2025-07-12,Birmingham,Office,10,1,1,0,13.29
+SHP-01526,2025-09-04,Leeds,Office,4,1,1,0,7.08
+SHP-01527,2025-05-05,Bristol,Office,1,4,0,1,8.23
+SHP-01528,2025-09-10,Manchester,Beauty,12,1,1,0,12.8
+SHP-01529,2025-08-20,Bristol,Office,6,3,0,0,13.39
+SHP-01530,2025-11-28,Bristol,Beauty,3,0,1,0,5.74
+SHP-01531,2025-06-20,Manchester,Electronics,2,2,1,0,8.26
+SHP-01532,2025-10-11,Manchester,Sports,11,2,1,0,13.36
+SHP-01533,2025-06-24,Leeds,Sports,11,0,1,0,14.35
+SHP-01534,2025-06-16,Manchester,Home & Living,1,0,1,0,7.8
+SHP-01535,2025-11-10,Birmingham,Beauty,11,2,1,0,12.44
+SHP-01536,2025-01-29,Leeds,Electronics,7,0,1,0,8.22
+SHP-01537,2025-06-11,Manchester,Home & Living,7,1,1,0,11.32
+SHP-01538,2025-03-27,Leeds,Office,10,0,1,0,12.49
+SHP-01539,2025-12-20,Birmingham,Office,8,0,1,0,11.68
+SHP-01540,2025-10-16,Bristol,Sports,5,2,1,0,10.5
+SHP-01541,2025-08-02,Manchester,Electronics,6,0,1,0,7.25
+SHP-01542,2025-12-15,Bristol,Beauty,8,3,0,0,10.43
+SHP-01543,2025-06-10,Bristol,Sports,4,1,1,0,9.24
+SHP-01544,2025-10-26,Birmingham,Electronics,10,4,0,0,12.98
+SHP-01545,2025-07-01,Birmingham,Home & Living,12,7,0,1,18.75
+SHP-01546,2025-07-17,Birmingham,Electronics,9,3,0,0,11.17
+SHP-01547,2025-01-19,Leeds,Electronics,9,0,1,0,12.39
+SHP-01548,2025-03-03,Manchester,Home & Living,12,1,1,0,14.84
+SHP-01549,2025-06-29,Leeds,Electronics,2,0,1,0,7.88
+SHP-01550,2025-04-15,Birmingham,Electronics,4,6,0,1,12.39
+SHP-01551,2025-09-03,Manchester,Office,3,0,1,0,9.16
+SHP-01552,2025-08-19,Birmingham,Home & Living,10,0,1,0,10.74
+SHP-01553,2025-03-19,Birmingham,Beauty,8,0,1,0,10.47
+SHP-01554,2025-06-22,Birmingham,Electronics,9,4,0,1,12.4
+SHP-01555,2025-05-23,Birmingham,Office,1,0,1,0,8.08
+SHP-01556,2025-08-20,Manchester,Home & Living,11,1,1,0,14.48
+SHP-01557,2025-02-20,Birmingham,Sports,10,0,1,0,11.39
+SHP-01558,2025-12-12,Birmingham,Electronics,12,4,0,0,15.51
+SHP-01559,2025-07-03,Bristol,Home & Living,5,5,0,1,13.4
+SHP-01560,2025-07-15,Manchester,Electronics,11,0,1,0,12.24
+SHP-01561,2025-03-20,Birmingham,Office,11,3,0,0,14.46
+SHP-01562,2025-02-04,Leeds,Sports,3,1,1,0,6.6
+SHP-01563,2025-02-02,Birmingham,Electronics,5,0,1,0,10.68
+SHP-01564,2025-12-04,Birmingham,Office,10,0,1,0,12.31
+SHP-01565,2025-08-18,Manchester,Office,1,0,1,0,7.13
+SHP-01566,2025-07-30,Birmingham,Electronics,11,2,1,0,12.39
+SHP-01567,2025-05-24,Birmingham,Sports,3,4,0,0,8.06
+SHP-01568,2025-03-09,Leeds,Home & Living,12,0,1,0,14.5
+SHP-01569,2025-07-27,Leeds,Home & Living,8,0,1,0,9.31
+SHP-01570,2025-09-09,Leeds,Beauty,8,4,0,1,12.67
+SHP-01571,2025-02-19,Bristol,Sports,2,3,0,0,8.69
+SHP-01572,2025-09-20,Bristol,Office,5,2,1,0,9.3
+SHP-01573,2025-12-08,Manchester,Sports,2,2,1,0,8.42
+SHP-01574,2025-09-25,Manchester,Office,11,0,1,0,13.21
+SHP-01575,2025-06-09,Manchester,Sports,3,1,1,0,10.12
+SHP-01576,2025-04-26,Leeds,Office,9,1,1,0,11.41
+SHP-01577,2025-04-10,Birmingham,Electronics,6,2,1,0,8.92
+SHP-01578,2025-04-11,Bristol,Beauty,2,4,0,0,10.61
+SHP-01579,2025-06-04,Manchester,Home & Living,11,3,0,0,15.87
+SHP-01580,2025-02-20,Manchester,Sports,3,3,0,0,8.38
+SHP-01581,2025-09-11,Bristol,Electronics,12,2,1,0,14.63
+SHP-01582,2025-11-21,Bristol,Office,10,0,1,0,12.84
+SHP-01583,2025-08-06,Birmingham,Office,9,4,0,1,13.35
+SHP-01584,2025-12-19,Manchester,Home & Living,2,5,0,0,11.31
+SHP-01585,2025-12-29,Leeds,Office,11,4,0,0,15.82
+SHP-01586,2025-12-30,Birmingham,Home & Living,4,0,1,0,9.67
+SHP-01587,2025-11-10,Bristol,Beauty,5,0,1,0,8.1
+SHP-01588,2025-09-24,Manchester,Office,2,2,1,0,9.41
+SHP-01589,2025-09-06,Birmingham,Electronics,12,2,1,0,15.58
+SHP-01590,2025-10-03,Manchester,Office,3,0,1,0,8.6
+SHP-01591,2025-12-20,Birmingham,Sports,5,3,0,0,11.32
+SHP-01592,2025-06-21,Bristol,Office,10,0,1,0,10.2
+SHP-01593,2025-01-20,Manchester,Office,10,2,1,0,12.45
+SHP-01594,2025-04-16,Leeds,Office,11,1,1,0,12.42
+SHP-01595,2025-09-05,Leeds,Home & Living,4,2,0,1,8.88
+SHP-01596,2025-10-30,Manchester,Office,5,0,1,0,10.15
+SHP-01597,2025-07-09,Manchester,Beauty,11,5,0,0,13.76
+SHP-01598,2025-04-05,Birmingham,Office,5,2,1,0,9.01
+SHP-01599,2025-02-05,Birmingham,Sports,11,0,1,0,12.24
+SHP-01600,2025-07-07,Birmingham,Electronics,4,3,0,0,12.21
+SHP-01601,2025-01-17,Manchester,Electronics,2,2,1,0,6.44
+SHP-01602,2025-11-26,Bristol,Sports,1,1,1,0,6.76
+SHP-01603,2025-08-23,Manchester,Office,12,0,1,0,11.21
+SHP-01604,2025-02-24,Birmingham,Office,1,1,1,0,7.74
+SHP-01605,2025-11-11,Manchester,Sports,7,6,0,1,11.74
+SHP-01606,2025-12-04,Birmingham,Electronics,7,0,1,0,9.71
+SHP-01607,2025-12-04,Leeds,Home & Living,3,1,1,0,6.9
+SHP-01608,2025-03-29,Manchester,Office,1,1,1,0,5.98
+SHP-01609,2025-05-30,Birmingham,Office,6,2,1,0,11.57
+SHP-01610,2025-04-21,Bristol,Home & Living,11,6,0,1,16.8
+SHP-01611,2025-02-01,Manchester,Sports,10,0,1,0,11.15
+SHP-01612,2025-04-20,Manchester,Office,7,3,0,0,12.31
+SHP-01613,2025-10-22,Bristol,Electronics,3,0,1,0,9.24
+SHP-01614,2025-02-13,Manchester,Electronics,6,3,0,0,10.05
+SHP-01615,2025-04-22,Manchester,Home & Living,3,1,1,0,7.75
+SHP-01616,2025-02-26,Birmingham,Electronics,5,2,1,0,10.3
+SHP-01617,2025-06-11,Manchester,Electronics,11,0,1,0,11.36
+SHP-01618,2025-02-03,Birmingham,Office,7,0,1,0,8.15
+SHP-01619,2025-01-31,Leeds,Home & Living,6,0,1,0,8.48
+SHP-01620,2025-10-31,Bristol,Beauty,6,0,1,0,11.29
+SHP-01621,2025-04-16,Bristol,Electronics,6,1,1,0,10.98
+SHP-01622,2025-06-23,Leeds,Sports,2,0,1,0,5.54
+SHP-01623,2025-10-07,Birmingham,Sports,3,0,1,0,6.88
+SHP-01624,2025-03-03,Leeds,Office,8,1,1,0,10.37
+SHP-01625,2025-09-08,Manchester,Electronics,4,3,0,0,10.84
+SHP-01626,2025-10-06,Birmingham,Sports,1,1,1,0,6.5
+SHP-01627,2025-08-16,Manchester,Electronics,10,1,1,0,12.03
+SHP-01628,2025-10-13,Birmingham,Office,10,1,1,0,14.01
+SHP-01629,2025-02-09,Bristol,Electronics,5,0,1,0,7.88
+SHP-01630,2025-08-28,Leeds,Office,9,2,1,0,11.31
+SHP-01631,2025-07-07,Manchester,Beauty,3,1,1,0,7.72
+SHP-01632,2025-03-05,Manchester,Beauty,3,2,1,0,9.5
+SHP-01633,2025-11-09,Leeds,Sports,7,3,0,0,13.99
+SHP-01634,2025-02-11,Leeds,Home & Living,12,1,1,0,14.27
+SHP-01635,2025-06-20,Bristol,Electronics,6,3,0,1,13.1
+SHP-01636,2025-02-16,Manchester,Home & Living,5,0,1,0,6.88
+SHP-01637,2025-10-19,Manchester,Beauty,8,5,0,0,12.77
+SHP-01638,2025-09-11,Birmingham,Electronics,3,3,0,0,8.6
+SHP-01639,2025-11-04,Bristol,Office,4,2,0,1,8.7
+SHP-01640,2025-07-28,Leeds,Electronics,4,0,1,0,9.79
+SHP-01641,2025-11-15,Manchester,Home & Living,10,0,1,0,11.14
+SHP-01642,2025-03-09,Birmingham,Office,1,0,1,0,7.56
+SHP-01643,2025-07-16,Birmingham,Beauty,9,2,1,0,12.67
+SHP-01644,2025-12-28,Manchester,Home & Living,4,0,1,0,7.06
+SHP-01645,2025-05-05,Bristol,Office,5,0,1,0,10.77
+SHP-01646,2025-03-02,Manchester,Sports,11,0,1,0,12.55
+SHP-01647,2025-06-15,Birmingham,Home & Living,1,1,0,1,5.24
+SHP-01648,2025-08-01,Leeds,Home & Living,7,0,1,0,10.98
+SHP-01649,2025-01-29,Leeds,Home & Living,4,0,1,0,7.1
+SHP-01650,2025-11-06,Leeds,Office,5,3,0,0,12.66
+SHP-01651,2025-03-30,Birmingham,Electronics,1,1,0,1,5.05
+SHP-01652,2025-05-30,Birmingham,Home & Living,12,0,1,0,13.94
+SHP-01653,2025-06-03,Birmingham,Home & Living,8,3,0,1,12.92
+SHP-01654,2025-01-15,Bristol,Home & Living,6,5,0,0,11.35
+SHP-01655,2025-07-19,Bristol,Electronics,4,3,0,1,8.6
+SHP-01656,2025-08-29,Leeds,Sports,2,2,1,0,10.22
+SHP-01657,2025-04-25,Manchester,Office,8,0,1,0,12.02
+SHP-01658,2025-11-20,Leeds,Office,12,0,1,0,12.93
+SHP-01659,2025-03-17,Bristol,Electronics,1,4,0,0,10.93
+SHP-01660,2025-06-09,Bristol,Home & Living,11,2,0,1,13.9
+SHP-01661,2025-02-02,Manchester,Electronics,12,3,0,0,15.12
+SHP-01662,2025-03-28,Manchester,Electronics,10,5,0,0,14.02
+SHP-01663,2025-07-23,Birmingham,Home & Living,3,3,0,1,9.01
+SHP-01664,2025-04-14,Leeds,Office,11,4,0,0,12.94
+SHP-01665,2025-05-23,Manchester,Home & Living,12,0,1,0,14.05
+SHP-01666,2025-06-17,Birmingham,Electronics,9,0,1,0,11.7
+SHP-01667,2025-10-12,Leeds,Home & Living,6,1,1,0,8.77
+SHP-01668,2025-11-10,Manchester,Electronics,12,0,1,0,12.1
+SHP-01669,2025-04-30,Manchester,Home & Living,6,0,1,0,10.9
+SHP-01670,2025-10-20,Manchester,Sports,9,3,0,0,13.35
+SHP-01671,2025-05-27,Bristol,Home & Living,2,0,1,0,5.01
+SHP-01672,2025-06-21,Leeds,Home & Living,1,0,1,0,6.24
+SHP-01673,2025-03-21,Manchester,Home & Living,8,1,0,1,11.29
+SHP-01674,2025-08-28,Leeds,Office,1,1,0,1,5.02
+SHP-01675,2025-05-11,Manchester,Home & Living,7,1,1,0,10.74
+SHP-01676,2025-05-02,Leeds,Sports,11,1,1,0,11.94
+SHP-01677,2025-01-11,Birmingham,Home & Living,10,4,0,0,13.6
+SHP-01678,2025-07-30,Manchester,Electronics,2,5,0,0,9.5
+SHP-01679,2025-05-30,Leeds,Office,12,0,1,0,12.02
+SHP-01680,2025-08-19,Manchester,Beauty,4,1,1,0,10.94
+SHP-01681,2025-03-02,Birmingham,Office,1,3,0,1,8.99
+SHP-01682,2025-02-21,Manchester,Electronics,12,0,1,0,12.09
+SHP-01683,2025-05-20,Bristol,Home & Living,11,0,1,0,13.45
+SHP-01684,2025-09-17,Bristol,Home & Living,1,0,1,0,8.62
+SHP-01685,2025-03-29,Leeds,Electronics,4,0,1,0,6.49
+SHP-01686,2025-12-01,Manchester,Electronics,9,0,1,0,11.42
+SHP-01687,2025-03-17,Leeds,Beauty,5,1,0,1,8.79
+SHP-01688,2025-08-24,Leeds,Home & Living,6,2,1,0,10.56
+SHP-01689,2025-07-28,Birmingham,Home & Living,4,0,1,0,8.2
+SHP-01690,2025-10-04,Birmingham,Sports,9,0,1,0,12.3
+SHP-01691,2025-03-21,Birmingham,Electronics,1,0,1,0,5.35
+SHP-01692,2025-05-09,Manchester,Sports,9,2,1,0,14.36
+SHP-01693,2025-03-19,Birmingham,Electronics,7,0,1,0,10.14
+SHP-01694,2025-11-09,Birmingham,Beauty,12,4,0,0,15.36
+SHP-01695,2025-10-13,Manchester,Home & Living,7,5,0,0,11.82
+SHP-01696,2025-09-07,Birmingham,Sports,12,0,1,0,14.51
+SHP-01697,2025-06-30,Leeds,Beauty,5,2,1,0,10.0
+SHP-01698,2025-05-03,Manchester,Beauty,4,1,1,0,7.94
+SHP-01699,2025-03-25,Birmingham,Electronics,1,0,1,0,7.43
+SHP-01700,2025-02-10,Birmingham,Office,1,1,1,0,5.75
+SHP-01701,2025-02-08,Bristol,Sports,7,0,1,0,11.94
+SHP-01702,2025-06-05,Bristol,Home & Living,8,0,1,0,12.63
+SHP-01703,2025-10-13,Leeds,Home & Living,6,2,1,0,9.6
+SHP-01704,2025-05-28,Birmingham,Office,5,4,0,0,9.21
+SHP-01705,2025-12-13,Birmingham,Home & Living,7,2,1,0,12.54
+SHP-01706,2025-10-09,Manchester,Beauty,8,0,1,0,9.74
+SHP-01707,2025-11-01,Birmingham,Sports,5,0,1,0,7.54
+SHP-01708,2025-07-07,Birmingham,Sports,8,0,1,0,11.95
+SHP-01709,2025-02-04,Manchester,Electronics,1,5,0,0,10.04
+SHP-01710,2025-06-18,Birmingham,Home & Living,2,0,1,0,8.03
+SHP-01711,2025-12-22,Bristol,Beauty,6,0,1,0,11.12
+SHP-01712,2025-03-28,Bristol,Sports,9,1,1,0,11.89
+SHP-01713,2025-08-13,Bristol,Beauty,6,0,1,0,9.87
+SHP-01714,2025-01-30,Bristol,Home & Living,7,0,1,0,10.83
+SHP-01715,2025-05-12,Manchester,Home & Living,4,0,1,0,6.63
+SHP-01716,2025-01-05,Birmingham,Office,1,2,1,0,7.38
+SHP-01717,2025-12-14,Leeds,Beauty,5,0,1,0,10.57
+SHP-01718,2025-05-12,Bristol,Beauty,9,0,1,0,11.62
+SHP-01719,2025-03-16,Birmingham,Home & Living,2,1,1,0,7.87
+SHP-01720,2025-12-16,Birmingham,Electronics,8,0,1,0,10.75
+SHP-01721,2025-02-03,Birmingham,Beauty,12,0,1,0,14.72
+SHP-01722,2025-12-04,Birmingham,Electronics,2,4,0,0,9.11
+SHP-01723,2025-09-29,Leeds,Beauty,5,0,1,0,6.89
+SHP-01724,2025-09-13,Birmingham,Electronics,6,4,0,1,12.33
+SHP-01725,2025-03-27,Manchester,Office,8,5,0,0,13.02
+SHP-01726,2025-12-31,Manchester,Electronics,10,1,1,0,10.99
+SHP-01727,2025-11-16,Bristol,Home & Living,9,4,0,0,12.77
+SHP-01728,2025-08-20,Manchester,Home & Living,2,0,1,0,6.8
+SHP-01729,2025-05-27,Leeds,Electronics,6,0,1,0,10.5
+SHP-01730,2025-01-27,Manchester,Office,2,0,1,0,6.71
+SHP-01731,2025-11-28,Birmingham,Home & Living,11,1,1,0,12.77
+SHP-01732,2025-09-04,Manchester,Office,4,3,0,0,11.97
+SHP-01733,2025-01-13,Bristol,Electronics,4,2,1,0,11.59
+SHP-01734,2025-04-27,Bristol,Home & Living,6,3,0,1,9.85
+SHP-01735,2025-12-14,Birmingham,Office,7,1,1,0,10.88
+SHP-01736,2025-01-01,Bristol,Beauty,6,2,1,0,9.14
+SHP-01737,2025-03-01,Birmingham,Office,5,2,1,0,11.42
+SHP-01738,2025-01-09,Bristol,Electronics,6,1,1,0,8.38
+SHP-01739,2025-07-15,Bristol,Beauty,8,3,0,1,11.35
+SHP-01740,2025-07-05,Birmingham,Beauty,6,1,1,0,9.75
+SHP-01741,2025-11-15,Manchester,Office,1,0,1,0,7.5
+SHP-01742,2025-01-21,Bristol,Beauty,9,0,1,0,10.1
+SHP-01743,2025-06-18,Birmingham,Electronics,2,0,1,0,7.34
+SHP-01744,2025-06-05,Birmingham,Sports,7,0,1,0,8.45
+SHP-01745,2025-12-23,Leeds,Beauty,5,2,1,0,11.66
+SHP-01746,2025-11-05,Manchester,Office,2,3,0,0,8.29
+SHP-01747,2025-12-01,Bristol,Electronics,8,2,1,0,12.8
+SHP-01748,2025-02-01,Manchester,Office,4,0,1,0,8.58
+SHP-01749,2025-07-31,Manchester,Electronics,7,1,1,0,11.9
+SHP-01750,2025-07-17,Birmingham,Home & Living,7,2,1,0,12.84
+SHP-01751,2025-08-06,Manchester,Sports,12,0,1,0,11.34
+SHP-01752,2025-03-09,Leeds,Sports,7,0,1,0,11.64
+SHP-01753,2025-03-28,Birmingham,Office,10,2,1,0,11.22
+SHP-01754,2025-02-24,Birmingham,Beauty,3,0,1,0,8.89
+SHP-01755,2025-06-22,Birmingham,Electronics,11,0,1,0,11.59
+SHP-01756,2025-02-04,Manchester,Electronics,1,0,1,0,5.02
+SHP-01757,2025-07-04,Leeds,Beauty,6,5,0,0,11.13
+SHP-01758,2025-07-15,Manchester,Home & Living,3,3,0,0,9.13
+SHP-01759,2025-10-18,Leeds,Beauty,12,2,1,0,15.27
+SHP-01760,2025-04-09,Manchester,Home & Living,4,4,0,0,11.9
+SHP-01761,2025-08-10,Bristol,Electronics,9,0,1,0,11.87
+SHP-01762,2025-08-20,Birmingham,Home & Living,5,1,1,0,9.38
+SHP-01763,2025-01-12,Manchester,Office,11,3,0,0,15.77
+SHP-01764,2025-05-31,Birmingham,Office,12,0,1,0,11.38
+SHP-01765,2025-01-10,Manchester,Beauty,5,0,1,0,9.21
+SHP-01766,2025-01-03,Birmingham,Beauty,2,0,1,0,6.56
+SHP-01767,2025-01-09,Manchester,Home & Living,2,2,1,0,10.46
+SHP-01768,2025-11-12,Manchester,Beauty,4,1,1,0,9.31
+SHP-01769,2025-09-04,Manchester,Office,2,2,1,0,9.91
+SHP-01770,2025-11-18,Birmingham,Home & Living,4,0,1,0,6.11
+SHP-01771,2025-05-30,Leeds,Sports,1,1,1,0,6.88
+SHP-01772,2025-12-22,Leeds,Office,3,4,0,0,8.08
+SHP-01773,2025-06-02,Bristol,Sports,8,1,1,0,12.81
+SHP-01774,2025-07-03,Manchester,Electronics,11,3,0,0,13.45
+SHP-01775,2025-04-06,Leeds,Beauty,5,2,1,0,8.9
+SHP-01776,2025-09-22,Birmingham,Sports,4,0,1,0,7.96
+SHP-01777,2025-10-11,Bristol,Beauty,4,0,1,0,7.37
+SHP-01778,2025-05-14,Bristol,Home & Living,5,1,1,0,8.78
+SHP-01779,2025-07-14,Manchester,Electronics,6,3,0,1,11.01
+SHP-01780,2025-09-29,Leeds,Office,3,1,1,0,6.21
+SHP-01781,2025-12-16,Leeds,Electronics,6,0,1,0,8.18
+SHP-01782,2025-10-15,Birmingham,Office,11,0,1,0,13.37
+SHP-01783,2025-03-21,Manchester,Beauty,9,4,0,0,12.5
+SHP-01784,2025-04-12,Leeds,Office,10,0,1,0,11.17
+SHP-01785,2025-08-16,Birmingham,Home & Living,7,5,0,1,13.5
+SHP-01786,2025-05-04,Manchester,Electronics,2,0,1,0,6.82
+SHP-01787,2025-08-24,Leeds,Office,1,3,0,0,10.0
+SHP-01788,2025-03-17,Manchester,Electronics,5,0,1,0,9.3
+SHP-01789,2025-06-12,Bristol,Sports,1,3,0,1,9.5
+SHP-01790,2025-01-28,Manchester,Sports,10,3,0,0,15.45
+SHP-01791,2025-03-23,Manchester,Beauty,9,0,1,0,12.83
+SHP-01792,2025-11-11,Birmingham,Sports,12,3,0,1,14.75
+SHP-01793,2025-11-15,Bristol,Electronics,11,1,0,1,14.84
+SHP-01794,2025-05-23,Birmingham,Office,10,0,1,0,11.51
+SHP-01795,2025-08-28,Birmingham,Electronics,5,3,0,1,10.51
+SHP-01796,2025-03-22,Manchester,Beauty,10,4,0,1,14.05
+SHP-01797,2025-03-14,Manchester,Electronics,5,4,0,0,10.87
+SHP-01798,2025-03-11,Manchester,Office,1,0,1,0,6.13
+SHP-01799,2025-02-05,Birmingham,Office,9,5,0,0,12.64
+SHP-01800,2025-08-19,Birmingham,Home & Living,7,1,1,0,12.54

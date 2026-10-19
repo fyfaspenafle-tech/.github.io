@@ -1,0 +1,5 @@
+warehouse,shipments,on_time_pct,stockout_pct,avg_shipping_gbp,units
+Birmingham,508,71.85,14.37,10.6,3317
+Bristol,352,70.74,17.05,10.54,2225
+Leeds,365,71.51,12.33,10.45,2346
+Manchester,575,71.83,9.57,10.58,3769
